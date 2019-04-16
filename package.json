@@ -29,6 +29,9 @@
   },
   "homepage": "https://github.com/philipdenys/wjSync#readme",
   "dependencies": {
-    "node-fetch": "^2.3.0"
+    "clientside-require": "^4.7.2",
+    "jsonfile": "^5.0.0",
+    "node-fetch": "^2.3.0",
+    "requirejs": "^2.3.6"
   }
 }

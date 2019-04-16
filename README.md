@@ -35,3 +35,17 @@ then put the line below at the top of the files where you are using the fetch AP
 `const fetch = require("node-fetch");`
 
 https://stackoverflow.com/questions/48433783/referenceerror-fetch-is-not-defined
+
+### require()
+This is because require() does not exist in the browser/client-side JavaScript.
+
+Now you're going to have to make some choices about your client-side JavaScript script management.
+
+You have three options:
+
+Use <script> tag.
+Use a CommonJS implementation. Synchronous dependencies like Node.js
+Use an AMD implementation.
+
+https://stackoverflow.com/questions/19059580/client-on-node-uncaught-referenceerror-require-is-not-defined
+https://medium.freecodecamp.org/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8
