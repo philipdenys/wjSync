@@ -1,4 +1,4 @@
-# wjSync
+# wjSync http://control.watch-jewel.com/
 API between the webshop Watch-Jewel and Dsales.
 
 https://github.com/christiannwamba/node-cron-jobs/blob/master/index.js
@@ -49,3 +49,7 @@ Use an AMD implementation.
 
 https://stackoverflow.com/questions/19059580/client-on-node-uncaught-referenceerror-require-is-not-defined
 https://medium.freecodecamp.org/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8
+
+
+## Git (from server to git)
+git push origin master
