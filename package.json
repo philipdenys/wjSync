@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/philipdenys/wjSync/issues"
   },
-  "homepage": "https://github.com/philipdenys/wjSync#readme"
+  "homepage": "https://github.com/philipdenys/wjSync#readme",
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
 }
