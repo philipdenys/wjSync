@@ -50,6 +50,11 @@ Use an AMD implementation.
 https://stackoverflow.com/questions/19059580/client-on-node-uncaught-referenceerror-require-is-not-defined
 https://medium.freecodecamp.org/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8
 
+### fs (is standard in NODEjs doesn't need a package)
+https://tutorialedge.net/javascript/nodejs/reading-writing-files-with-nodejs/
+
+### date
+https://www.toptal.com/software/definitive-guide-to-datetime-manipulation
 
 ## Git (from server to git)
 git push origin master
