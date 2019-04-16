@@ -1,0 +1,144 @@
+[
+    {
+        "SKU": "257C",
+        "ListedSKU": "WC171152",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4040662511144",
+        "Title": "Alpha Saphir Heren/Dames Leder Rv Staal",
+        "Description": "Alpha Saphir Heren/Dames Leder Rv Staal",
+        "Brand": "ALPHA SAPHIR",
+        "RRP": 699,
+        "Price": 50.78,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-08-06T22:39:31.7",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Rectangular",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Blue",
+        "SPEC_Band_Width_mm": "24",
+        "SPEC_Band_Length_cm": "19.5",
+        "SPEC_Case_Width_mm": "34",
+        "SPEC_Case_Length_mm": "43",
+        "SPEC_Case_Thickness_mm": "11",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "49.8",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/257c_4mrvmp.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ESNL92730A340",
+        "ListedSKU": "WC153891",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945409586",
+        "Title": "Esprit Silver Little Cross Silver",
+        "Description": "Esprit Silver Little Cross Silver",
+        "Brand": "Esprit Silver",
+        "RRP": 54.9,
+        "Price": 32.12,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-08-06T22:46:09.04",
+        "SPEC_Model_Name": "Little Cross",
+        "SPEC_Target_audience": "Girls",
+        "SPEC_Weight-Gram": "2.2",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "1.2",
+        "SPEC_Length-cm": "34",
+        "SPEC_Width-cm": "0.9",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl92730a340_reqe8i.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-04-26T12:19:32"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl92730a340_g95shc.jpg",
+                "ImageUpdateUTC": "2017-05-11T15:45:15"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl92730a340_v6kz23.jpg",
+                "ImageUpdateUTC": "2017-05-11T15:45:18"
+            }
+        ]
+    },
+    {
+        "SKU": "ESNL03448C420",
+        "ListedSKU": "WC153892",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945238667",
+        "Title": "Esprit Brass JW52882",
+        "Description": "Esprit Brass JW52882",
+        "Brand": "Esprit Brass",
+        "RRP": 79.9,
+        "Price": 44.1,
+        "PriceUpdateUTC": null,
+        "Stock": 3,
+        "StockUpdateUTC": "2018-08-06T22:46:09.04",
+        "SPEC_Model_Name": "JW52882",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "5.2",
+        "SPEC_Jewel_type": "Necklace",
+        "SPEC_Metal_type": "Brass",
+        "SPEC_Metal Color": "Rosegold",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "42",
+        "SPEC_Gem_shape": "Round",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Gem_quantity": "19",
+        "SPEC_Chain Type": "Rolo",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl03448c420_k1w33t.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-04-26T10:44:21"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl03448c420_k2kktf.jpg",
+                "ImageUpdateUTC": "2017-05-18T10:44:07"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl03448c420_abytv6.jpg",
+                "ImageUpdateUTC": "2017-05-18T10:44:09"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl03448c420_1p9h90.jpg",
+                "ImageUpdateUTC": "2017-05-18T10:44:10"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl03448c420_4ciyj8.jpg",
+                "ImageUpdateUTC": "2017-05-18T10:44:11"
+            }
+        ]
+    }
+]

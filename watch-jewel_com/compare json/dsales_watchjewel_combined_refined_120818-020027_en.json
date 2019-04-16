@@ -1,0 +1,179 @@
+[
+    {
+        "SKU": "OR51707",
+        "ListedSKU": "WC162248",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082173",
+        "Title": "ORPHELIA Unisex Analogue Watch Suede Burgundy Leather",
+        "Description": "ORPHELIA Unisex Analogue Watch Suede Burgundy Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-08-11T22:49:58.63",
+        "SPEC_FNSKU": "X000S3U68X",
+        "SPEC_Model Name": "Suede",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Burgundy",
+        "SPEC_Band_Material": "Leather imitation",
+        "SPEC_Band_Color": "Burgundy",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "80",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "SPEC_Product Description": "Orphelia",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2018",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/uvtajja9_51707.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:34:01"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/h8jcb6vm_51707.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:28:05"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pyy4n229_or51707.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:28:05"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/gvezjqdj_or51707.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:28:05"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/xmw24uv5_or51707.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:28:05"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/i4dxqva5_51707.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:28:05"
+            },
+            {
+                "ImageSort": 7,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/fefah3xd_51707.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:28:05"
+            }
+        ]
+    },
+    {
+        "SKU": "ESNL92730A340",
+        "ListedSKU": "WC153891",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945409586",
+        "Title": "Esprit Silver Little Cross Silver",
+        "Description": "Esprit Silver Little Cross Silver",
+        "Brand": "Esprit Silver",
+        "RRP": 54.9,
+        "Price": 32.12,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-08-11T22:40:35.69",
+        "SPEC_Model_Name": "Little Cross",
+        "SPEC_Target_audience": "Girls",
+        "SPEC_Weight-Gram": "2.2",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "1.2",
+        "SPEC_Length-cm": "34",
+        "SPEC_Width-cm": "0.9",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl92730a340_reqe8i.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-04-26T12:19:32"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl92730a340_g95shc.jpg",
+                "ImageUpdateUTC": "2017-05-11T15:45:15"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl92730a340_v6kz23.jpg",
+                "ImageUpdateUTC": "2017-05-11T15:45:18"
+            }
+        ]
+    },
+    {
+        "SKU": "ESNL03448C420",
+        "ListedSKU": "WC153892",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945238667",
+        "Title": "Esprit Brass JW52882",
+        "Description": "Esprit Brass JW52882",
+        "Brand": "Esprit Brass",
+        "RRP": 79.9,
+        "Price": 44.1,
+        "PriceUpdateUTC": null,
+        "Stock": 3,
+        "StockUpdateUTC": "2018-08-11T22:40:35.69",
+        "SPEC_Model_Name": "JW52882",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "5.2",
+        "SPEC_Jewel_type": "Necklace",
+        "SPEC_Metal_type": "Brass",
+        "SPEC_Metal Color": "Rosegold",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "42",
+        "SPEC_Gem_shape": "Round",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Gem_quantity": "19",
+        "SPEC_Chain Type": "Rolo",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl03448c420_k1w33t.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-04-26T10:44:21"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl03448c420_k2kktf.jpg",
+                "ImageUpdateUTC": "2017-05-18T10:44:07"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl03448c420_abytv6.jpg",
+                "ImageUpdateUTC": "2017-05-18T10:44:09"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl03448c420_1p9h90.jpg",
+                "ImageUpdateUTC": "2017-05-18T10:44:10"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl03448c420_4ciyj8.jpg",
+                "ImageUpdateUTC": "2017-05-18T10:44:11"
+            }
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "SKU": "ZA-1008",
+        "ListedSKU": "WC154175",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470269702",
+        "Title": "ARMBAND 18.5 CM FANTASY ZIRCONIUM",
+        "Description": "ARMBAND 18.5 CM FANTASY ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 65,
+        "Price": 29.16,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-04-10T22:40:39.863",
+        "SPEC_Weight-Gram": "7.4683",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Bracelet",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "18.5",
+        "SPEC_Width-cm": "1",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1008_syboye.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1008_mlnexz.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/za-1008.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1008_141b17.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,234 @@
+[
+    {
+        "SKU": "ES109282003",
+        "ListedSKU": "WC155344",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945232450",
+        "Title": "Esprit Watch TP10928 Light Brown",
+        "Description": "Esprit Watch TP10928 Light Brown",
+        "Brand": "ESPRIT",
+        "RRP": 100,
+        "Price": 48.2,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-03-24T23:39:43.363",
+        "SPEC_Model Name": "TP10928",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Rose gold",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "11",
+        "SPEC_Band_Length_cm": "19",
+        "SPEC_Case_Diameter_mm": "28",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "23",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "SR626SW",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/es109282003_q59dt1.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-01-10T14:18:12"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/es109282003_g5idcy.jpg",
+                "ImageUpdateUTC": "2017-01-10T14:18:22"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/es109282003_5qgsa2.jpg",
+                "ImageUpdateUTC": "2017-01-10T14:18:31"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/es109282003_7x0l67.jpg",
+                "ImageUpdateUTC": "2017-01-10T14:18:32"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/es109282003_2ix1ij.jpg",
+                "ImageUpdateUTC": "2017-02-01T10:40:16"
+            }
+        ]
+    },
+    {
+        "SKU": "PC106991F04",
+        "ListedSKU": "WC155345",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945199258",
+        "Title": "Pierre Cardin La Gloire Gold Brown",
+        "Description": "Pierre Cardin La Gloire Gold Brown",
+        "Brand": "Pierre Cardin",
+        "RRP": 99.9,
+        "Price": 60.24,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-03-24T23:39:43.363",
+        "SPEC_Model Name": "La Gloire",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "50",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Battery": "SR621SW",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pc106991f04_h5tz4q.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-10-19T12:30:26"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pc106991f04_jc8cmm.jpg",
+                "ImageUpdateUTC": "2017-10-19T12:30:29"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pc106991f04_3um4q4.jpg",
+                "ImageUpdateUTC": "2017-10-19T12:30:30"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pc106991f04_oko0bm.jpg",
+                "ImageUpdateUTC": "2017-10-19T12:30:33"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pc106991f04_7wyxxi.jpg",
+                "ImageUpdateUTC": "2017-10-19T12:30:34"
+            }
+        ]
+    },
+    {
+        "SKU": "JP101171F07",
+        "ListedSKU": "WC155342",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945164157",
+        "Title": "Joop Watch Observer",
+        "Description": "Joop Watch Observer",
+        "Brand": "Joop",
+        "RRP": 399,
+        "Price": 143.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-24T23:39:43.363",
+        "SPEC_Model Name": "Observer",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Chronograph",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "43.00",
+        "SPEC_Case_Thickness_mm": "11.2",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "160",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/jp101171f07_h81y4.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "SUR195P1",
+        "ListedSKU": "WC170659",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4954628201157",
+        "Title": "Seiko Neo Classic Stainless Steel Men's Watch SUR195P1",
+        "Description": "Seiko Neo Classic Stainless Steel Men's Watch SUR195P1",
+        "Brand": "SEIKO",
+        "RRP": 239,
+        "Price": 143.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-24T23:39:43.363",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "41",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "110",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/i5pguhre_sur195p1.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-01-09T14:33:02"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/2uqc2hra_sur195p1.jpg",
+                "ImageUpdateUTC": "2018-01-09T14:33:06"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1hbnhmsn_sur195p1.jpg",
+                "ImageUpdateUTC": "2018-01-09T14:33:07"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/33u6q7qv_sur195p1.jpg",
+                "ImageUpdateUTC": "2018-01-09T14:33:08"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/f5k3g67j_sur195p1.jpg",
+                "ImageUpdateUTC": "2018-01-09T14:33:17"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/lwjq3llq_sur195p1.jpg",
+                "ImageUpdateUTC": "2018-01-23T11:48:11"
+            }
+        ]
+    }
+]

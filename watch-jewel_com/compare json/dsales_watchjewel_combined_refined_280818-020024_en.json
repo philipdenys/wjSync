@@ -1,0 +1,223 @@
+[
+    {
+        "SKU": "ZO-5110",
+        "ListedSKU": "WC154652",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470178394",
+        "Title": "Orphelia Silver 925 Earring Zirconium ",
+        "Description": "Orphelia Silver 925 Earring Zirconium ",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 39,
+        "Price": 24.3,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-08-27T22:40:40.317",
+        "SPEC_FNSKU": "X000V0K56B",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "1.5",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Length-cm": "1.2",
+        "SPEC_Width-cm": "0.4",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Ring type": "Ring without stones",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Earring Zirconium   ZO-5110",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Zirconium   ZO-5110",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5110_8p0v4r.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-03-31T09:32:53"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5110_1.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5110_2.jpg",
+                "ImageUpdateUTC": "2017-03-31T11:32:47"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5110_xdfcic.jpg",
+                "ImageUpdateUTC": "2017-03-31T09:32:50"
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-4382",
+        "ListedSKU": "WC153900",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470642406",
+        "Title": "PENDANT WITH CHAIN 925 SILVER DIAMOND AND ZIRCONIUM",
+        "Description": "PENDANT WITH CHAIN 925 SILVER DIAMOND AND ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 89,
+        "Price": 32.58,
+        "PriceUpdateUTC": null,
+        "Stock": 5,
+        "StockUpdateUTC": "2018-08-27T22:39:12.05",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "2.1000",
+        "SPEC_Jewel_type": "Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "1.3",
+        "SPEC_Width-cm": "1",
+        "SPEC_Diamond_quantity": "2",
+        "SPEC_Total_Diamond_Weight": "0.02",
+        "SPEC_Diamond_color": "White/Wesselton (H)",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_actll7.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-06-28T10:14:38"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_hoqzmk.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_6fw4ni.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_ad7l73.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            }
+        ]
+    },
+    {
+        "SKU": "OR12705",
+        "ListedSKU": "WC162314",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081503",
+        "Title": "ORPHELIA Women Analogue Watch Rose Gold Stainless steel",
+        "Description": "ORPHELIA Women Analogue Watch Rose Gold Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 129,
+        "Price": 129,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-08-27T22:52:57.4",
+        "SPEC_FNSKU": "X000RIJRD9",
+        "SPEC_Model Name": "La Rose",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Mother of pearl",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Rose Gold",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "36",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Gem_Type": "Zirkonia",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "100",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "SPEC_Product Description": "Orphelia",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2018",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/7wqrl4y7_12705.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-06T08:39:09"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51ns1mj2_12705.jpg",
+                "ImageUpdateUTC": "2018-08-27T14:36:10"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/12705_n7fl09.jpg",
+                "ImageUpdateUTC": "2018-08-27T14:36:10"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/12705_cejt9b.jpg",
+                "ImageUpdateUTC": "2018-08-27T14:36:10"
+            }
+        ]
+    },
+    {
+        "SKU": "PC106032S05",
+        "ListedSKU": "WC156503",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945365714",
+        "Title": "Pierre Cardin Levant De S\u00e9duction Swiss Made",
+        "Description": "Pierre Cardin Levant De S\u00e9duction Swiss Made",
+        "Brand": "Pierre Cardin",
+        "RRP": 264,
+        "Price": 77.33,
+        "PriceUpdateUTC": null,
+        "Stock": 2,
+        "StockUpdateUTC": "2018-08-27T22:45:23.02",
+        "SPEC_FNSKU": "X000R8AEGN",
+        "SPEC_Model Name": "Levant De S\u00e9duction",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Features_2": "Swiss Made",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "White",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Bezel_Function": "Stone settings",
+        "SPEC_Gem_Type": "Zirkonia",
+        "SPEC_Clasp_Type": "Butterfly",
+        "SPEC_Weight_g": "60",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "SR920SW",
+        "SPEC_Brand Description": "PIERRE CARDIN is one of the best known brands in the world. And as Pierre Cardin himself says, PIERRE CARDIN is no fashion for millionaires, but for millions: commercial, high-quality and with design requirements. The fashion of PIERRE CARDIN is made for people who always want to appear in a modern, well-maintained way and value the perfect fit, in their spare time and in business, while at the same time achieving a worthwhile price comparison.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pc106032s05_yuown.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-11-02T16:23:56"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pc106032s05_om2px2.jpg",
+                "ImageUpdateUTC": "2018-08-27T09:44:32"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pc106032s05_a81blo.jpg",
+                "ImageUpdateUTC": "2018-08-27T09:44:32"
+            }
+        ]
+    }
+]

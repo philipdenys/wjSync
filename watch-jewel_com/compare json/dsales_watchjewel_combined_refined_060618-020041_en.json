@@ -1,0 +1,2083 @@
+[
+    {
+        "SKU": "ZO-5006",
+        "ListedSKU": "WC154799",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470168067",
+        "Title": "Orphelia Silver 925 Earring Bagel Diamond",
+        "Description": "Orphelia Silver 925 Earring Bagel Diamond",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 99,
+        "Price": 28.17,
+        "PriceUpdateUTC": null,
+        "Stock": 3,
+        "StockUpdateUTC": "2018-06-05T22:40:05.68",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "2.1000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Length-cm": "1.3",
+        "SPEC_Width-cm": "1",
+        "SPEC_Gem_type": "Diamond",
+        "SPEC_Diamond_quantity": "2",
+        "SPEC_Total_Diamond_Weight": "0.06",
+        "SPEC_Gem_color": "White",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Bagel Diamond",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5006_v4ngui.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-03-31T08:47:13"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5006_668krv.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:31:05"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ip1sc6vs_zo-5006.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:31:05"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5006_s3lul2.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:31:05"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5911",
+        "ListedSKU": "WC164074",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098562",
+        "Title": "OORBEL BALL CLEAR ZIRCONIUM",
+        "Description": "OORBEL BALL CLEAR ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 199,
+        "Price": 44.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "12.5000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Ball Clear Zirconium",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5911_fr85aw.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5911_cwwzo4.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:32:59"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5911_4ypud0.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:32:59"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/f9o1gvuh_zo-5911.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:32:59"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5911_3c5l0i.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:32:59"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5902",
+        "ListedSKU": "WC154029",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098470",
+        "Title": "OORBEL ZIRCONIUM",
+        "Description": "OORBEL ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 129,
+        "Price": 26.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "4.8000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Length-cm": "1.4",
+        "SPEC_Width-cm": "0.8",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Zirconium",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5902_aynp6y.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5902_w3rvpv.jpg",
+                "ImageUpdateUTC": "2018-06-05T14:00:36"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/y1y4jguq_zo-5902.jpg",
+                "ImageUpdateUTC": "2018-06-05T14:00:36"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5902_ljerqw.jpg",
+                "ImageUpdateUTC": "2018-06-05T14:00:36"
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-4382",
+        "ListedSKU": "WC153900",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470642406",
+        "Title": "PENDANT WITH CHAIN 925 SILVER DIAMOND AND ZIRCONIUM",
+        "Description": "PENDANT WITH CHAIN 925 SILVER DIAMOND AND ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 89,
+        "Price": 32.58,
+        "PriceUpdateUTC": null,
+        "Stock": 6,
+        "StockUpdateUTC": "2018-06-05T22:40:05.68",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "2.1000",
+        "SPEC_Jewel_type": "Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "1.3",
+        "SPEC_Width-cm": "1",
+        "SPEC_Diamond_quantity": "2",
+        "SPEC_Total_Diamond_Weight": "0.02",
+        "SPEC_Diamond_color": "White/Wesselton (H)",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_actll7.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-06-28T10:14:38"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_hoqzmk.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_6fw4ni.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_ad7l73.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5908",
+        "ListedSKU": "WC163832",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098531",
+        "Title": "OORBEL TRIANGLE ZIRCONIUM",
+        "Description": "OORBEL TRIANGLE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 99,
+        "Price": 23.85,
+        "PriceUpdateUTC": null,
+        "Stock": 3,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "3.4000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "1",
+        "SPEC_Width-cm": "1",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Triangle Zirconium",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5908_drc574.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ja6qrqwf_zo-5908.jpg",
+                "ImageUpdateUTC": "2018-06-05T11:54:16"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5899",
+        "ListedSKU": "WC153258",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098449",
+        "Title": "OORBEL CROSSING ZIRCONIUM OVAL",
+        "Description": "OORBEL CROSSING ZIRCONIUM OVAL",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 249,
+        "Price": 51.75,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "9.5",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Height-cm": "2.5",
+        "SPEC_Width-cm": "1.2",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Crossing Zirconium Oval",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5899_xlhblp.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5899_p1mi14.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:36:42"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ks14qakp_zo-5899.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:36:42"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5899_ote3r3.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:36:42"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5821",
+        "ListedSKU": "WC153388",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470078427",
+        "Title": "OORHANGER HART ZIRC",
+        "Description": "OORHANGER HART ZIRC",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 125,
+        "Price": 35.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:40:05.68",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "10.2000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "2.3",
+        "SPEC_Width-cm": "1.7",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Drop Earring Heart Zirc",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5821_cjykkh.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-07-15T12:30:00"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zo-5821.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:24:12"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/8bl6cosr_zo-5821.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:24:12"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5930",
+        "ListedSKU": "WC163758",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098753",
+        "Title": "OORBEL WHITE CATEYE ZIRCONIUM",
+        "Description": "OORBEL WHITE CATEYE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 149,
+        "Price": 35.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:40:05.68",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "7.0000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring White Cateye Zirconium",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5930_a5v0u3.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5930_ttrooc.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:55:46"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5930_a249da.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:55:46"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/m6dcjdwz_zo-5930.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:55:46"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5930_mgxvpd.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:55:46"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5912",
+        "ListedSKU": "WC163701",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098579",
+        "Title": "OORBEL BALL BLACK ZIRCONIUM",
+        "Description": "OORBEL BALL BLACK ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 199,
+        "Price": 44.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "12.5000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "1",
+        "SPEC_Width-cm": "1",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Ball Black Zirconium",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5912_itz9fu.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5912_14y7my.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:32:33"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5912_roatpa.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:32:33"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/yte98cue_zo-5912.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:32:33"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5912_6plcu7.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:32:33"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5894",
+        "ListedSKU": "WC163704",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098395",
+        "Title": "OORBEL ZIRCONIUM DROP BIOLET CUT",
+        "Description": "OORBEL ZIRCONIUM DROP BIOLET CUT",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 139,
+        "Price": 28.8,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "4.3000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "3",
+        "SPEC_Width-cm": "0.5",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Zirconium Drop Biolet Cut",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5894_3rym9i.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/mhq5e96r_zo-5894.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:59:09"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5894_9uc6t2.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:59:09"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5003",
+        "ListedSKU": "WC163571",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470168036",
+        "Title": "Orphelia Silver 925 Earring Exit Diamond ",
+        "Description": "Orphelia Silver 925 Earring Exit Diamond ",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 99,
+        "Price": 27,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:40:05.68",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "1.4000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Length-cm": "1.1",
+        "SPEC_Width-cm": "0.6",
+        "SPEC_Gem_type": "Diamond",
+        "SPEC_Diamond_quantity": "2",
+        "SPEC_Total_Diamond_Weight": "0.02",
+        "SPEC_Gem_color": "White",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Exit Diamond ",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5003_7evtgd.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-03-31T08:46:07"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/xunoahu6_zo-5003.jpg",
+                "ImageUpdateUTC": "2018-06-05T11:39:30"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5003_tlt184.jpg",
+                "ImageUpdateUTC": "2017-03-31T08:45:57"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5002",
+        "ListedSKU": "WC152569",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470168029",
+        "Title": "Orphelia Silver 925 Earring Round Diamond ",
+        "Description": "Orphelia Silver 925 Earring Round Diamond ",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 119,
+        "Price": 48.6,
+        "PriceUpdateUTC": null,
+        "Stock": 2,
+        "StockUpdateUTC": "2018-06-05T22:40:05.68",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "1.7000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Length-cm": "0.6",
+        "SPEC_Width-cm": "0.6",
+        "SPEC_Gem_type": "Diamond",
+        "SPEC_Diamond_quantity": "2",
+        "SPEC_Total_Diamond_Weight": "0.02",
+        "SPEC_Gem_color": "White",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Round Diamond ",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5002_6i28f1.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-03-31T08:45:28"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5002_71amu5.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:48:56"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/mi88d5gz_zo-5002.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:48:56"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5002_9hanin.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:48:56"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5923",
+        "ListedSKU": "WC152677",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098685",
+        "Title": "OORBEL LAVENDER ZIRCONIUM PEAR SHAPE",
+        "Description": "OORBEL LAVENDER ZIRCONIUM PEAR SHAPE",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 159,
+        "Price": 35.55,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "9.6000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "2.5",
+        "SPEC_Width-cm": "1",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Lavender Zirconium Pear Shape",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5923_1q1cgg.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5923_s5ih6k.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:42:13"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/gbovjmyf_zo-5923.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:42:13"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5923_ifhbni.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:42:13"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5913",
+        "ListedSKU": "WC152490",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098586",
+        "Title": "OORBEL SAND ZIRCONIUM",
+        "Description": "OORBEL SAND ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 129,
+        "Price": 26.1,
+        "PriceUpdateUTC": null,
+        "Stock": 6,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "2.9000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "1.2",
+        "SPEC_Width-cm": "0.7",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Sand Zirconium",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5913_rzgole.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5913_lb3320.jpg",
+                "ImageUpdateUTC": "2016-07-07T13:12:09"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/yxwn5b5s_zo-5913.jpg",
+                "ImageUpdateUTC": "2018-06-05T11:52:30"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5924",
+        "ListedSKU": "WC163453",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098692",
+        "Title": "OORBEL ROUND ZORCONIUM",
+        "Description": "OORBEL ROUND ZORCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 79,
+        "Price": 24.5,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "3.2000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "1.4",
+        "SPEC_Width-cm": "1.4",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Round Zorconium",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5924_7oio3c.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/bmwkaqnn_zo-5924.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:50:58"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5924_soh5or.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:50:58"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5001",
+        "ListedSKU": "WC152146",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470168012",
+        "Title": "Orphelia Silver 925 Earring Double Square Diamond ",
+        "Description": "Orphelia Silver 925 Earring Double Square Diamond ",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 149,
+        "Price": 42.75,
+        "PriceUpdateUTC": null,
+        "Stock": 6,
+        "StockUpdateUTC": "2018-06-05T22:40:05.68",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "2.2000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Length-cm": "1.2",
+        "SPEC_Width-cm": "0.9",
+        "SPEC_Gem_type": "Diamond",
+        "SPEC_Diamond_quantity": "2",
+        "SPEC_Total_Diamond_Weight": "0.03",
+        "SPEC_Gem_color": "White",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Double Square Diamond ",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zo-5001.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5001_fio91d.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:37:23"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rlcemsvo_zo-5001.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:37:23"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/gjn1777b_zo-5001.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:37:23"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5922",
+        "ListedSKU": "WC163409",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098678",
+        "Title": "OORBEL CHAMPAGNE ZIRCONIUM PEAR SHAPE",
+        "Description": "OORBEL CHAMPAGNE ZIRCONIUM PEAR SHAPE",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 159,
+        "Price": 35.55,
+        "PriceUpdateUTC": null,
+        "Stock": 5,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "9.6000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Champagne Zirconium Pear Shape",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5922_9vjlxc.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5922_xp4fro.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:35:39"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5922.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:35:39"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/kkz1fv8l_zo-5922.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:35:39"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5922_8iws76.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:35:39"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5169",
+        "ListedSKU": "WC151892",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470213309",
+        "Title": "Orphelia Silver 925 Drop Earring Inbound Zirconium",
+        "Description": "Orphelia Silver 925 Drop Earring Inbound Zirconium",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 119,
+        "Price": 46.98,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "6",
+        "SPEC_Jewel_type": "Drop Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Back_finding": "Hook",
+        "SPEC_Height-cm": "2.5",
+        "SPEC_Length-cm": "2.5",
+        "SPEC_Width-cm": "1.5",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Drop Earring Inbound Zirconium",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5169_bzdknf.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-07-18T10:50:17"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5169_8jlzhu.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:41:19"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zo-5169_2.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:41:19"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5169_qh9i9c.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:41:19"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5920",
+        "ListedSKU": "WC151520",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098654",
+        "Title": "OORBEL BLACK ZIRCONIUM AMETHYST OCTAGON",
+        "Description": "OORBEL BLACK ZIRCONIUM AMETHYST OCTAGON",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 179,
+        "Price": 45.54,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "7.5000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "3",
+        "SPEC_Width-cm": "0.7",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Black Zirconium Amethyst Octagon",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5920_l0w3g0.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/mb8uudl9_zo-5920.jpg",
+                "ImageUpdateUTC": "2018-06-05T11:33:42"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5916",
+        "ListedSKU": "WC151641",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098616",
+        "Title": "OORBEL ZIRCONIUM BLACK PEAR CAB",
+        "Description": "OORBEL ZIRCONIUM BLACK PEAR CAB",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 145,
+        "Price": 35.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "7.7000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "3.2",
+        "SPEC_Width-cm": "1",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Zirconium Black Pear Cab",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5916_6owgj2.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-09-26T13:23:14"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/kqzg193c_zo-5916.jpg",
+                "ImageUpdateUTC": "2018-06-05T11:58:38"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5916_zm36yu.jpg",
+                "ImageUpdateUTC": "2017-09-26T12:59:58"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5921",
+        "ListedSKU": "WC163292",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098661",
+        "Title": "OORBEL BLACK ZIRCONIUM PEAR SHAPE",
+        "Description": "OORBEL BLACK ZIRCONIUM PEAR SHAPE",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 159,
+        "Price": 39.6,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "9.6000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "2.5",
+        "SPEC_Width-cm": "1",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Black Zirconium Pear Shape",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5921_gyxash.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-09-26T13:25:29"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5921_s1f51a.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:34:01"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/v49wmn1o_zo-5921.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:34:01"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5921_40qxzu.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:34:01"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5900",
+        "ListedSKU": "WC151248",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098456",
+        "Title": "OORBEL ZIRCONIUM BLACK CATEYE",
+        "Description": "OORBEL ZIRCONIUM BLACK CATEYE",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 125,
+        "Price": 31.05,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "7.0000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Zirconium Black Cateye",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5900_6sxt3f.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-09-26T13:07:49"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5900_0ldv3s.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:58:17"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5900_wweqbl.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:58:17"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/xwhthnxy_zo-5900.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:58:17"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5900_td6e5x.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:58:17"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5901",
+        "ListedSKU": "WC151282",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098463",
+        "Title": "OORBEL ZIRCONIUM WHITE CATEYE",
+        "Description": "OORBEL ZIRCONIUM WHITE CATEYE",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 159,
+        "Price": 26.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "7.0000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Height-cm": "1.6",
+        "SPEC_Width-cm": "1.3",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Zirconium White Cateye",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5901_kkpwi1.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5901_sqxvab.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:59:59"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5901_rgucma.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:59:59"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/556qn6fx_zo-5901.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:59:59"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5901_3lagi5.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:59:59"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5896",
+        "ListedSKU": "WC150967",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098418",
+        "Title": "OORBEL ZIRCONIUM/NATURAL PEARL",
+        "Description": "OORBEL ZIRCONIUM/NATURAL PEARL",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 115,
+        "Price": 30.6,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "5.1000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "1.2",
+        "SPEC_Width-cm": "1.2",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Zirconium/Natural Pearl",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5896_fhx87k.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5896_ef2382.jpg",
+                "ImageUpdateUTC": "2018-06-05T14:00:55"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5896_yc7vle.jpg",
+                "ImageUpdateUTC": "2018-06-05T14:00:55"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ze1yycws_zo-5896.jpg",
+                "ImageUpdateUTC": "2018-06-05T14:00:55"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5896_ppa899.jpg",
+                "ImageUpdateUTC": "2018-06-05T14:00:55"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5897",
+        "ListedSKU": "WC163045",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098425",
+        "Title": "OORBEL ZIRCONUM/BLACK MOP",
+        "Description": "OORBEL ZIRCONUM/BLACK MOP",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 175,
+        "Price": 42.12,
+        "PriceUpdateUTC": null,
+        "Stock": 3,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "8.9000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "1.5",
+        "SPEC_Width-cm": "1.5",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Zirconum/Black Mop",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5897_hs59j1.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/5oe64ff6_zo-5897.jpg",
+                "ImageUpdateUTC": "2018-06-05T12:01:07"
+            }
+        ]
+    },
+    {
+        "SKU": "TW2P81000",
+        "ListedSKU": "WC170630",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "0753048588565",
+        "Title": "Timex Weekender Purple Ladies Watch TW2P81000",
+        "Description": "Timex Weekender Purple Ladies Watch TW2P81000",
+        "Brand": "TIMEX",
+        "RRP": 79,
+        "Price": 49.5,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:48:00.517",
+        "SPEC_Model Name": "Weekender",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_Features_2": "Indiglo Light",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Beige",
+        "SPEC_Band_Material": "Nylon",
+        "SPEC_Band_Color": "Purple",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "19",
+        "SPEC_Case_Diameter_mm": "38",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "44",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "CR2016",
+        "SPEC_Product Description": "This ladies Timex Weekender watch has a PVD gold plated case and is powered by a quartz movement. It is fastened with a purple fabric strap and has a cream dial. ",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/gk54qz6v_tw2p81000.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-01-31T09:17:51"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/o15msrlq_tw2p81000.jpeg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/3py3y45t_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/uwk8le12_tw2p81000.jpeg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/g4cgeq6c_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zvtxhtuw_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-16T17:11:46"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/i2a2ylff_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/2rj67k8x_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 7,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/54wrooq4_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 8,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/n6kmu1cu_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 9,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/m8a9t1ja_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            }
+        ]
+    },
+    {
+        "SKU": "1-1691C",
+        "ListedSKU": "WC156242",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4040662109297",
+        "Title": "JL Dames Sport",
+        "Description": "JL Dames Sport",
+        "Brand": "JACQUES LEMANS",
+        "RRP": 129,
+        "Price": 53.1,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Model Name": "Sport",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Brown",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "41",
+        "SPEC_Case_Thickness_mm": "10.5",
+        "SPEC_Bezel_Function": "Bezel with numbers",
+        "SPEC_Bezel_Material_Type": "Stainless steel",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "73.8",
+        "SPEC_Dial_Window_Material": "Special hardened crystal",
+        "SPEC_Brand Description": "Jacques Lemans is an international watch producer based in Carinthia/Austria. Milions of content customers in more than 120 countries worldwide love and trust their Jacques Lemans watches every single day.This enormous success is based on a clear-cut philosophy: best quality and manufacturing at an affordable price. Jacques Lemans watches are simply outstanding due to premium manufacturing, absolute reliability, innovative technique and stylish elegance.The various Jacques Lemans styles \u201eClassic\u201c, \u201eSport\u201c, \u201eLa Passion\u201c, \u201eHigh Tech Ceramic\u201c, \u201eAutomatic\u201c or \u201eRetro\u201c enjoy great popularity.From the initial idea to rough sketches, from final design to production, marketing and sales \u2013 Jacques Lemans is doing everything \u201ein-house\u201c, which is not only a slogan but truly lived corporate culture and therefore an immensely important part of the Jacques Lemans success Story.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/xdyc1s55_1-1691c.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-06-05T13:06:16"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5929",
+        "ListedSKU": "WC162964",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098746",
+        "Title": "OORBEL BLACK CATEYE ZIRCONIUM",
+        "Description": "OORBEL BLACK CATEYE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 149,
+        "Price": 35.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "7.0000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "1.6",
+        "SPEC_Width-cm": "1.2",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Black Cateye Zirconium",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5929_40d62w.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5929_rcy0j6.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:33:25"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5929_fv1dkx.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:33:25"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/vxkrqd5d_zo-5929.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:33:25"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5929_c082t2.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:33:25"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5909",
+        "ListedSKU": "WC150361",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098548",
+        "Title": "OORBEL TRIANGLE ZIRCONIUM COFFEE",
+        "Description": "OORBEL TRIANGLE ZIRCONIUM COFFEE",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 85,
+        "Price": 25,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "3.4000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "1",
+        "SPEC_Width-cm": "1",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Triangle Zirconium Coffee",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5909_nl3nxb.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5909_vo9h2r.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:54:03"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/2p73cy61_zo-5909.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:54:03"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5909_b9qchu.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:54:03"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5904",
+        "ListedSKU": "WC162868",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098494",
+        "Title": "OORBEL ZIRCONIUM BALL CHAMPAGNE",
+        "Description": "OORBEL ZIRCONIUM BALL CHAMPAGNE",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 179,
+        "Price": 40.5,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "8.5000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "3",
+        "SPEC_Width-cm": "1.5",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Zirconium Ball Champagne",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5904_a4kd6g.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-07-07T13:15:05"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5904_hoaixq.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:57:55"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/skz7gmzp_zo-5904.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:57:55"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5904_ntj50v.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:57:55"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5004",
+        "ListedSKU": "WC149987",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470168043",
+        "Title": "Orphelia Silver 925 Earring V V Diamond ",
+        "Description": "Orphelia Silver 925 Earring V V Diamond ",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 119,
+        "Price": 32.04,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:40:05.68",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "1.4000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Length-cm": "1",
+        "SPEC_Width-cm": "0.5",
+        "SPEC_Gem_type": "Diamond",
+        "SPEC_Diamond_quantity": "2",
+        "SPEC_Total_Diamond_Weight": "0.02",
+        "SPEC_Gem_color": "White",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring V V Diamond ",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zo-5004.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/686graep_zo-5004.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:54:36"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5004_sdj0wn.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:54:36"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5919",
+        "ListedSKU": "WC150216",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098647",
+        "Title": "OORBEL CLEAR ZIRCONIUM OCTAGON",
+        "Description": "OORBEL CLEAR ZIRCONIUM OCTAGON",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 179,
+        "Price": 44.91,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "7.5000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "3.1",
+        "SPEC_Width-cm": "0.9",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Clear Zirconium Octagon",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5919_6oq7oh.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5919_gxg0gh.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:36:00"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/89tossdf_zo-5919.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:36:00"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5919_al04uj.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:36:00"
+            }
+        ]
+    },
+    {
+        "SKU": "EAR-438",
+        "ListedSKU": "WC149828",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470647920",
+        "Title": "OORBEL PAVE HART ZIRCON",
+        "Description": "OORBEL PAVE HART ZIRCON",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 90,
+        "Price": 33.39,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "4.4000",
+        "SPEC_Jewel_type": "Drop Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "2.5",
+        "SPEC_Width-cm": "1",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ear-438_ujm5c8.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-06-09T10:38:14"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ear-438_5fdo7z.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:29:49"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/hd4xdmnh_ear-438.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:29:49"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5915",
+        "ListedSKU": "WC149853",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098609",
+        "Title": "OORHANGER ZIRCONIUM PINK CATEYE",
+        "Description": "OORHANGER ZIRCONIUM PINK CATEYE",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 165,
+        "Price": 40.05,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "8.4000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Drop Earring Zirconium Pink Cateye",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5915_ld0993.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5915_nv55ys.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:59:32"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/c1nolqfj_zo-5915.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:59:32"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5915_36umj9.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:59:32"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5940",
+        "ListedSKU": "WC149261",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470121383",
+        "Title": "OORBEL BLADVORM MICRO PAVE",
+        "Description": "OORBEL BLADVORM MICRO PAVE",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 75,
+        "Price": 35.91,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "3.4648",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Length-cm": "1.6",
+        "SPEC_Width-cm": "1",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Bladvorm Micro Pave",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5940_67g3j1.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zo-5940.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:34:25"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5940_uorsai.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:34:25"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5940_i911w8.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:34:25"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5926",
+        "ListedSKU": "WC162624",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098715",
+        "Title": "OORBEL OVAL ZIRCONIUM",
+        "Description": "OORBEL OVAL ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 99,
+        "Price": 26.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:40:05.68",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "3.3000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "1.5",
+        "SPEC_Width-cm": "1",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Oval Zirconium",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5926_rkkp9s.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5926_z6h1nc.jpg",
+                "ImageUpdateUTC": "2016-07-07T13:08:49"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/xge3fgu7_zo-5926.jpg",
+                "ImageUpdateUTC": "2018-06-05T11:44:29"
+            }
+        ]
+    },
+    {
+        "SKU": "122-6912-44",
+        "ListedSKU": "WC156590",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190009767",
+        "Title": "ORPHELIA Mens Analogue Digital Watch Eclips Black Silicone",
+        "Description": "ORPHELIA Mens Analogue Digital Watch Eclips Black Silicone",
+        "Brand": "ORPHELIA",
+        "RRP": 189,
+        "Price": 189,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:51:09.193",
+        "SPEC_Model Name": "Eclips",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue - Digital",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Alarm",
+        "SPEC_Features_2": "Stopwatch",
+        "SPEC_Features_3": "Light",
+        "SPEC_Features_4": "Luminous Hand",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Multicolour",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "24",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "45",
+        "SPEC_Case_Thickness_mm": "17",
+        "SPEC_Bezel_Function": "Bezel with numbers",
+        "SPEC_Bezel_Material_Type": "Plastic",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "111",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue Year": "2015",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-6912-44_wfnpc6.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-6912-44_nl43z.jpg",
+                "ImageUpdateUTC": "2018-06-05T17:32:40"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1xmrxom3_122-6912-44.jpg",
+                "ImageUpdateUTC": "2018-06-05T17:32:40"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-6912-44_c6u9f.jpg",
+                "ImageUpdateUTC": "2018-06-05T17:32:40"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-6912-44_2erh0.jpg",
+                "ImageUpdateUTC": "2018-06-05T17:32:40"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-6912-44_3kw1p.jpg",
+                "ImageUpdateUTC": "2018-06-05T17:32:40"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/4qbyyink_122-6912-44.jpg",
+                "ImageUpdateUTC": "2018-06-05T17:32:40"
+            },
+            {
+                "ImageSort": 7,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/swe3gtxg_122-6912-44.jpg",
+                "ImageUpdateUTC": "2018-06-05T17:32:40"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5005",
+        "ListedSKU": "WC149698",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470168050",
+        "Title": "Orphelia Silver 925 Earring S Diamond ",
+        "Description": "Orphelia Silver 925 Earring S Diamond ",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 129,
+        "Price": 33.03,
+        "PriceUpdateUTC": null,
+        "Stock": 4,
+        "StockUpdateUTC": "2018-06-05T22:40:05.68",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "1.8000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Length-cm": "1",
+        "SPEC_Width-cm": "0.8",
+        "SPEC_Gem_type": "Diamond",
+        "SPEC_Diamond_quantity": "2",
+        "SPEC_Total_Diamond_Weight": "0.02",
+        "SPEC_Gem_color": "White",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring S Diamond ",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5005_pwvfzx.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-03-31T08:46:51"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/wa34onu5_zo-5005.jpg",
+                "ImageUpdateUTC": "2018-06-05T11:51:23"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5005_ig8lxb.jpg",
+                "ImageUpdateUTC": "2017-03-31T08:46:47"
+            }
+        ]
+    },
+    {
+        "SKU": "122-6911-44",
+        "ListedSKU": "WC156790",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190009750",
+        "Title": "ORPHELIA Mens Analogue Digital Watch Eclips Black Silicone",
+        "Description": "ORPHELIA Mens Analogue Digital Watch Eclips Black Silicone",
+        "Brand": "ORPHELIA",
+        "RRP": 189,
+        "Price": 189,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:51:09.193",
+        "SPEC_Model Name": "Eclips",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue - Digital",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Alarm",
+        "SPEC_Features_2": "Stopwatch",
+        "SPEC_Features_3": "Light",
+        "SPEC_Features_4": "Luminous Hand",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Multicolour",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "24",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "45",
+        "SPEC_Case_Thickness_mm": "17",
+        "SPEC_Bezel_Function": "Bezel with numbers",
+        "SPEC_Bezel_Material_Type": "Plastic",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "111",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue Year": "2015",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-6911-44_j9khky.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/nd8p4l14_122-6911-44.jpg",
+                "ImageUpdateUTC": "2018-06-05T17:49:31"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rwyhefh8_122-6911-44.jpg",
+                "ImageUpdateUTC": "2018-06-05T17:49:31"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-6911-44_rj556.jpg",
+                "ImageUpdateUTC": "2018-06-05T17:49:31"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/5trad2jg_122-6911-44.jpg",
+                "ImageUpdateUTC": "2018-06-05T17:49:31"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ehsiwm7f_122-6911-44.jpg",
+                "ImageUpdateUTC": "2018-06-05T17:49:31"
+            }
+        ]
+    },
+    {
+        "SKU": "122-6913-14",
+        "ListedSKU": "WC156818",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190009774",
+        "Title": "ORPHELIA Mens Analogue Digital Watch Eclips Black Silicone",
+        "Description": "ORPHELIA Mens Analogue Digital Watch Eclips Black Silicone",
+        "Brand": "ORPHELIA",
+        "RRP": 189,
+        "Price": 189,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:51:09.193",
+        "SPEC_Model Name": "Eclips",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue - Digital",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Alarm",
+        "SPEC_Features_2": "Stopwatch",
+        "SPEC_Features_3": "Light",
+        "SPEC_Features_4": "Luminous Hand",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Multicolour",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "24",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "45",
+        "SPEC_Case_Thickness_mm": "17",
+        "SPEC_Bezel_Function": "Bezel with numbers",
+        "SPEC_Bezel_Material_Type": "Plastic",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "111",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue Year": "2015",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-6913-14_bg4cul.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-6913-14_vaurd.jpg",
+                "ImageUpdateUTC": "2018-06-05T17:48:25"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-6913-14_4y0gn.jpg",
+                "ImageUpdateUTC": "2018-06-05T17:48:25"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/drxpxy63_122-6913-14.jpg",
+                "ImageUpdateUTC": "2018-06-05T17:48:25"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-6913-14_17a6u.jpg",
+                "ImageUpdateUTC": "2018-06-05T17:48:25"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/oh5iafee_122-6913-14.jpg",
+                "ImageUpdateUTC": "2018-06-05T17:48:25"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/hhpv5vmi_122-6913-14.jpg",
+                "ImageUpdateUTC": "2018-06-05T17:48:25"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5925",
+        "ListedSKU": "WC158532",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098708",
+        "Title": "OORBEL SQUARE ZIRCONIUM",
+        "Description": "OORBEL SQUARE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 99,
+        "Price": 24.75,
+        "PriceUpdateUTC": null,
+        "Stock": 4,
+        "StockUpdateUTC": "2018-06-05T22:40:05.68",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "4.4000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "1",
+        "SPEC_Width-cm": "1",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Square Zirconium",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5925_7r0vr2.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5925_hzv243.jpg",
+                "ImageUpdateUTC": "2016-07-07T13:09:27"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/urjibre6_zo-5925.jpg",
+                "ImageUpdateUTC": "2018-06-05T11:53:11"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5906",
+        "ListedSKU": "WC162492",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470098517",
+        "Title": "OORBEL ROUND ZIRCONIUM AMETHYST",
+        "Description": "OORBEL ROUND ZIRCONIUM AMETHYST",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 139,
+        "Price": 26.91,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-05T22:42:03",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "7.7000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "2.2",
+        "SPEC_Width-cm": "1.4",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Round Zirconium Amethyst",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5906_jpcsmx.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-09-26T13:18:40"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5906_bbanba.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:50:23"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5906_f4brcu.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:50:23"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ctmkhlq9_zo-5906.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:50:23"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5906_7pvird.jpg",
+                "ImageUpdateUTC": "2018-06-05T13:50:23"
+            }
+        ]
+    }
+]

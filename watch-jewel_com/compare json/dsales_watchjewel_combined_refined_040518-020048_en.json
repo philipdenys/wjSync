@@ -1,0 +1,940 @@
+[
+    {
+        "SKU": "PU104271002",
+        "ListedSKU": "WC155194",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945244644",
+        "Title": "Puma Wheel Drift Black & White",
+        "Description": "Puma Wheel Drift Black & White",
+        "Brand": "Puma",
+        "RRP": 140,
+        "Price": 77.31,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-03T22:45:48.597",
+        "SPEC_Model Name": "Wheel Drift",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Features_2": "24-Hours display",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Black",
+        "SPEC_Dial_Color": "Multicolour",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "23",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "48",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "115",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "SR920SW",
+        "SPEC_Brand Description": "The watches of PUMA Time collection emphasizes the casual and cool lifestyle of young, active and sporty PUMA fans. This is reflected in the very clear and minimalist aesthetics of the dials, the trendy color selection and the high-quality materials. In conjunction with sophisticated technical functions, the women's and men's watches are the absolute trendsetters.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu104271002_2sq8p6.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-04-04T13:00:07"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/xg4cpqwe_pu104271002.jpg",
+                "ImageUpdateUTC": "2018-05-03T13:18:45"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/mg6pcvol_pu104271002.jpg",
+                "ImageUpdateUTC": "2018-05-03T13:18:47"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/6foe1hlr_pu104271002.jpg",
+                "ImageUpdateUTC": "2018-05-03T13:18:48"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/mvsjmwjm_pu104271002.jpg",
+                "ImageUpdateUTC": "2018-05-03T13:18:50"
+            }
+        ]
+    },
+    {
+        "SKU": "OR11720",
+        "ListedSKU": "WC162238",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081923",
+        "Title": "ORPHELIA Women Analogue Watch Glitz White Leather",
+        "Description": "ORPHELIA Women Analogue Watch Glitz White Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-03T22:53:47.767",
+        "SPEC_Model Name": "Glitz",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Leather imitation",
+        "SPEC_Band_Color": "White",
+        "SPEC_Band_Width_mm": "14",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "38",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "80",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1pibrx4g_11720.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:34:01"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ulvedf2v_11720.jpg",
+                "ImageUpdateUTC": "2018-05-03T14:57:27"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rva9mal3_or11720.jpg",
+                "ImageUpdateUTC": "2018-05-03T14:57:27"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/fuh6hfrd_or11720.jpg",
+                "ImageUpdateUTC": "2018-05-03T14:57:27"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zrtq4zz8_11720.jpg",
+                "ImageUpdateUTC": "2018-05-03T14:57:27"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/2drkmbtz_11720.jpg",
+                "ImageUpdateUTC": "2018-05-03T14:57:27"
+            }
+        ]
+    },
+    {
+        "SKU": "OR81704",
+        "ListedSKU": "WC162237",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081541",
+        "Title": "ORPHELIA Men Chronograph Watch Brown Leather",
+        "Description": "ORPHELIA Men Chronograph Watch Brown Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 199,
+        "Price": 199,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-03T22:53:47.767",
+        "SPEC_Model Name": "Master",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Chronograph",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Features_2": "Luminous Numerals",
+        "SPEC_Features_3": "Stopwatch",
+        "SPEC_Features_4": "24-Hours display",
+        "SPEC_Features_5": "Tachymeter",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "14",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "90",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/hydnu5pf_81704.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T13:54:30"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81704_2vxafs.jpg",
+                "ImageUpdateUTC": "2018-05-03T14:42:41"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/krpw8mwm_or81704.jpg",
+                "ImageUpdateUTC": "2018-05-03T14:42:41"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/q281h33u_or81704.jpg",
+                "ImageUpdateUTC": "2018-05-03T14:42:41"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a54tqg7e_or81704.jpg",
+                "ImageUpdateUTC": "2018-05-03T14:42:41"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/cfhk71rs_or81704.jpg",
+                "ImageUpdateUTC": "2018-05-03T14:42:41"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81704_h6iaps.jpg",
+                "ImageUpdateUTC": "2018-05-03T14:42:41"
+            },
+            {
+                "ImageSort": 7,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81704_3wpd6n.jpg",
+                "ImageUpdateUTC": "2018-05-03T14:42:41"
+            }
+        ]
+    },
+    {
+        "SKU": "ZA-1008",
+        "ListedSKU": "WC154175",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470269702",
+        "Title": "ARMBAND 18.5 CM FANTASY ZIRCONIUM",
+        "Description": "ARMBAND 18.5 CM FANTASY ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 65,
+        "Price": 29.16,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-03T22:39:06.177",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "7.4683",
+        "SPEC_Jewel_type": "Bracelet",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "18.5",
+        "SPEC_Width-cm": "1",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1008_syboye.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/za-1008.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1008_mlnexz.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1008_141b17.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "122-1712-44",
+        "ListedSKU": "WC155346",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5400470268583",
+        "Title": "ORPHELIA Ladies Analogue Watch Everland Black Silicone",
+        "Description": "ORPHELIA Ladies Analogue Watch Everland Black Silicone",
+        "Brand": "ORPHELIA",
+        "RRP": 159,
+        "Price": 159,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-05-03T22:48:27.047",
+        "SPEC_Model Name": "Everland",
+        "SPEC_Catalogue Year": "2014",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "16",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Diameter_mm": "34",
+        "SPEC_Case_Thickness_mm": "11",
+        "SPEC_Bezel_Function": "Bezel with indices",
+        "SPEC_Bezel_Material_Type": "Stainless steel plated",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "58",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/122-1712-44.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/122-1712-44_3.jpg",
+                "ImageUpdateUTC": "2017-03-14T10:16:54"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/122-1712-44_1.jpg",
+                "ImageUpdateUTC": "2017-03-14T10:16:54"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/122-1712-44_2.jpg",
+                "ImageUpdateUTC": "2017-03-14T10:16:54"
+            }
+        ]
+    },
+    {
+        "SKU": "PU911361002",
+        "ListedSKU": "WC155445",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945231620",
+        "Title": "Puma Cardiac 01 Black Red",
+        "Description": "Puma Cardiac 01 Black Red",
+        "Brand": "Puma",
+        "RRP": 95,
+        "Price": 53.91,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-03T22:45:48.597",
+        "SPEC_Model Name": "Cardiac 1",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Digital",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Heart rate monitor",
+        "SPEC_Features_2": "Stopwatch",
+        "SPEC_Features_3": "Timer",
+        "SPEC_Features_4": "Alarm",
+        "SPEC_Features_5": "Light",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Plastic",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Black",
+        "SPEC_Dial_Color": "LCD",
+        "SPEC_Band_Material": "Plastic",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "24",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "48",
+        "SPEC_Case_Thickness_mm": "14",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "56",
+        "SPEC_Dial_Window_Material": "Plexiglass",
+        "SPEC_Battery": "CR2032",
+        "SPEC_Product Description": "Features include HRM functions with target zones using the 5.3 Khz HRM belt and pedometer that can store your daily and weekly exersice data like steps.calories and distance.It has also an EL back light.  ",
+        "SPEC_Brand Description": "The watches of PUMA Time collection emphasizes the casual and cool lifestyle of young, active and sporty PUMA fans. This is reflected in the very clear and minimalist aesthetics of the dials, the trendy color selection and the high-quality materials. In conjunction with sophisticated technical functions, the women's and men's watches are the absolute trendsetters.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/kd8tjnq3_pu911361002.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T14:23:42"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu911361002_gb0h1k.jpg",
+                "ImageUpdateUTC": "2018-05-03T15:23:39"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu911361002_2rgr94.jpg",
+                "ImageUpdateUTC": "2018-05-03T15:23:39"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/5tjxlxgm_pu911361002.jpg",
+                "ImageUpdateUTC": "2018-05-03T15:23:39"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu911361002_9pav9b.jpg",
+                "ImageUpdateUTC": "2018-05-03T15:23:39"
+            }
+        ]
+    },
+    {
+        "SKU": "OR51700",
+        "ListedSKU": "WC162350",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190083408",
+        "Title": "ORPHELIA Unisex Analogue Watch Longline Blue Leather",
+        "Description": "ORPHELIA Unisex Analogue Watch Longline Blue Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-03T22:53:47.767",
+        "SPEC_Model Name": "Longline",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Blue",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "25",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "40",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/xlyudy9a_51700.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T14:01:48"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51700_9sojnf.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:32:08"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1rq9ihi6_or51700.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:32:08"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/4gnzf36s_51700.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:32:08"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51700_bejcif.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:32:08"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51700_2k0nui.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:32:08"
+            }
+        ]
+    },
+    {
+        "SKU": "OR51703",
+        "ListedSKU": "WC162341",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082258",
+        "Title": "ORPHELIA Unisex Analogue Watch Longline Black Leather",
+        "Description": "ORPHELIA Unisex Analogue Watch Longline Black Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-03T22:53:47.767",
+        "SPEC_Model Name": "Longline",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "25",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "40",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/k6481z5x_51703.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T13:56:36"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51703_a4t7oa.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:26:05"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/bfjjvam8_or51703.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:26:05"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/oqmwpgqp_51703.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:26:05"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51703_axh0ac.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:26:05"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51703_wbvrlw.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:26:05"
+            }
+        ]
+    },
+    {
+        "SKU": "OR11719",
+        "ListedSKU": "WC162391",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081916",
+        "Title": "ORPHELIA Women Analogue Watch Glitz Brown Leather",
+        "Description": "ORPHELIA Women Analogue Watch Glitz Brown Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-03T22:53:47.767",
+        "SPEC_Model Name": "Glitz",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Rose gold",
+        "SPEC_Band_Material": "Leather imitation",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "14",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "38",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "80",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/8m33mtp5_11719.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:34:01"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a2lp6t4k_11719.jpg",
+                "ImageUpdateUTC": "2018-05-03T15:02:28"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/4jzpjnom_or11719.jpg",
+                "ImageUpdateUTC": "2018-05-03T15:02:28"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/hnid3s7a_or11719.jpg",
+                "ImageUpdateUTC": "2018-05-03T15:02:28"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/kprl1gd3_11719.jpg",
+                "ImageUpdateUTC": "2018-05-03T15:02:28"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/6ta43su4_11719.jpg",
+                "ImageUpdateUTC": "2018-05-03T15:02:28"
+            }
+        ]
+    },
+    {
+        "SKU": "OR51704",
+        "ListedSKU": "WC162388",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082265",
+        "Title": "ORPHELIA Unisex Analogue Watch Longline Black Leather",
+        "Description": "ORPHELIA Unisex Analogue Watch Longline Black Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-03T22:53:47.767",
+        "SPEC_Model Name": "Longline",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "25",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "40",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/6jpjxvdi_51704.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T14:08:25"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51704_xdnz5x.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:28:57"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/yjkcee5d_or51704.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:28:57"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/c54ipik1_or51704.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:28:57"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/3l1jh5sh_51704.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:28:57"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51704_l98fwa.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:28:57"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51704_1to7zi.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:28:57"
+            }
+        ]
+    },
+    {
+        "SKU": "OR51701",
+        "ListedSKU": "WC162422",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082272",
+        "Title": "ORPHELIA Unisex Analogue Watch Longline Black Leather",
+        "Description": "ORPHELIA Unisex Analogue Watch Longline Black Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-03T22:53:47.767",
+        "SPEC_Model Name": "Longline",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "25",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "40",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "SPEC_Battery": "SR621SW",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/538127id_51701.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T14:04:11"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51701_055fld.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:14:54"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/qnrzupa2_or51701.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:14:54"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/9dtlj4vw_or51701.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:14:54"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/hsz12hrf_51701.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:14:54"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51701_w9cpfx.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:14:54"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51701_gc7lrt.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:14:54"
+            }
+        ]
+    },
+    {
+        "SKU": "ZK-2635",
+        "ListedSKU": "WC158564",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470632049",
+        "Title": "ORPHELIA CHAIN WITH PENDANT OCTAGON BICOLOR 925 SILVER AND GOLD PLATED",
+        "Description": "ORPHELIA CHAIN WITH PENDANT OCTAGON BICOLOR 925 SILVER AND GOLD PLATED",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 119,
+        "Price": 35.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-03T22:39:06.177",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "11.8000",
+        "SPEC_Fruugo Category": "Jewellery > Women > Necklace",
+        "SPEC_Fruugo Description": "Orphelia Silver 925  Necklace 42Cm Bicolor",
+        "SPEC_Jewel_type": "Necklace",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver/Gold",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "2",
+        "SPEC_Length-cm": "43",
+        "SPEC_Width-cm": "2",
+        "SPEC_Ring type": "Ring without stones",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-2635_rrcc5f.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-2635_wf9hgn.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "PU911291001",
+        "ListedSKU": "WC156771",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945218201",
+        "Title": "Puma Optical Cardiac Black",
+        "Description": "Puma Optical Cardiac Black",
+        "Brand": "Puma",
+        "RRP": 150,
+        "Price": 81,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-03T22:45:48.597",
+        "SPEC_Model Name": "Optical Cardiac",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Digital",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Heart rate monitor",
+        "SPEC_Features_2": "Stopwatch",
+        "SPEC_Features_3": "Alarm",
+        "SPEC_Features_4": "Lap Timer",
+        "SPEC_Features_5": "Light",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Plastic",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Black",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Plastic",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "24",
+        "SPEC_Band_Length_cm": "23",
+        "SPEC_Case_Diameter_mm": "48",
+        "SPEC_Case_Thickness_mm": "14",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "51",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "CR2430",
+        "SPEC_Brand Description": "The watches of PUMA Time collection emphasizes the casual and cool lifestyle of young, active and sporty PUMA fans. This is reflected in the very clear and minimalist aesthetics of the dials, the trendy color selection and the high-quality materials. In conjunction with sophisticated technical functions, the women's and men's watches are the absolute trendsetters.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu911291001_ub8a0h.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-12-29T11:30:01"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/xyelrnp6_pu911291001.jpg",
+                "ImageUpdateUTC": "2018-05-03T15:21:14"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/8dziclmu_pu911291001.jpg",
+                "ImageUpdateUTC": "2018-05-03T15:21:14"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu911291001_5t9lpk.jpg",
+                "ImageUpdateUTC": "2018-05-03T15:21:14"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu911291001_ghv14r.jpg",
+                "ImageUpdateUTC": "2018-05-03T15:21:14"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu911291001_n6g3bd.jpg",
+                "ImageUpdateUTC": "2018-05-03T15:21:14"
+            }
+        ]
+    },
+    {
+        "SKU": "OR51702",
+        "ListedSKU": "WC162429",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082289",
+        "Title": "ORPHELIA Unisex Analogue Watch Longline Brown Leather",
+        "Description": "ORPHELIA Unisex Analogue Watch Longline Brown Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-03T22:53:47.767",
+        "SPEC_Model Name": "Longline",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "25",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "40",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51702_73jd2p.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-10-18T12:24:22"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51702_4bx69p.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:20:16"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/8pzriy31_or51702.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:20:16"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/qu4k5p7h_51702.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:20:16"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51702_k6csl8.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:20:16"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51702_hrepsb.jpg",
+                "ImageUpdateUTC": "2018-05-03T17:20:16"
+            }
+        ]
+    }
+]

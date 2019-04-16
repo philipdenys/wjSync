@@ -1,0 +1,177 @@
+[
+    {
+        "SKU": "1791515",
+        "ListedSKU": "1791515",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "7613272293549",
+        "Title": "Tommy Hilfiger Mens Watch Cooper Blue",
+        "Description": "Tommy Hilfiger Mens Watch Cooper Blue",
+        "Brand": "Tommy Hilfiger",
+        "RRP": 129,
+        "Price": 96.75,
+        "PriceUpdateUTC": "2018-08-29T14:31:09.83",
+        "Stock": 7,
+        "StockUpdateUTC": "2018-10-10T22:39:45.56",
+        "SPEC_Model Name": "Cooper",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Blue",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "7",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "35",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Fruugo Title": "Tommy Hilfiger Mens Watch Cooper Blue 1791515",
+        "SPEC_Fruugo Description": "Tommy Hilfiger Mens Watch Cooper Blue 1791515",
+        "SPEC_Fruugo Category": "Apparel & Accessories > Jewelry > Watches > Mens",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/cmi2g1s7_1791515.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-10-10T15:26:03"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/c4kjruqe_1791515.jpg",
+                "ImageUpdateUTC": "2018-07-05T09:46:18"
+            }
+        ]
+    },
+    {
+        "SKU": "1791467",
+        "ListedSKU": "1791467",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "7613272264358",
+        "Title": "Tommy Hilfiger Mens Watch Gavin Brown",
+        "Description": "Tommy Hilfiger Mens Watch Gavin Brown",
+        "Brand": "Tommy Hilfiger",
+        "RRP": 169,
+        "Price": 126.75,
+        "PriceUpdateUTC": "2018-08-29T14:31:09.83",
+        "Stock": 7,
+        "StockUpdateUTC": "2018-10-10T22:39:45.56",
+        "SPEC_Model Name": "Gavin",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Beige",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "46",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Bezel_Function": "Tachymeter",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "70",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Fruugo Title": "Tommy Hilfiger Mens Watch Gavin Brown 1791467",
+        "SPEC_Fruugo Description": "Tommy Hilfiger Mens Watch Gavin Brown 1791467",
+        "SPEC_Fruugo Category": "Apparel & Accessories > Jewelry > Watches > Mens",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/bpk9wqrs_1791467.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-07-05T09:09:38"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/uwv3ryhy_1791467.jpg",
+                "ImageUpdateUTC": "2018-10-10T17:40:16"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/s2kl21zu_1791467.jpg",
+                "ImageUpdateUTC": "2018-10-10T17:40:16"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/w72nk9ph_1791467.jpg",
+                "ImageUpdateUTC": "2018-10-10T17:40:16"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/r9lkg79x_1791467.jpg",
+                "ImageUpdateUTC": "2018-10-10T17:40:16"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tx36zp8w_1791467.jpg",
+                "ImageUpdateUTC": "2018-10-10T17:40:16"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/vzj19zpq_1791467.jpg",
+                "ImageUpdateUTC": "2018-10-10T17:40:16"
+            }
+        ]
+    },
+    {
+        "SKU": "1781960",
+        "ListedSKU": "1781960",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "7613272293358",
+        "Title": "Tommy Hilfiger Ladies Watch Avery Black",
+        "Description": "Tommy Hilfiger Ladies Watch Avery Black",
+        "Brand": "Tommy Hilfiger",
+        "RRP": 159,
+        "Price": 119.25,
+        "PriceUpdateUTC": "2018-08-29T14:31:09.83",
+        "Stock": 7,
+        "StockUpdateUTC": "2018-10-10T22:32:00.57",
+        "SPEC_Model Name": "Avery",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Black",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "16",
+        "SPEC_Band_Length_cm": "19",
+        "SPEC_Case_Diameter_mm": "36",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "75",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Fruugo Title": "Tommy Hilfiger Ladies Watch Avery Black 1781960",
+        "SPEC_Fruugo Description": "Tommy Hilfiger Ladies Watch Avery Black 1781960",
+        "SPEC_Fruugo Category": "Apparel & Accessories > Jewelry > Watches > Womens",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tx95adk9_1781960.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-10-10T15:24:21"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rhvzf7dt_1781960.jpg",
+                "ImageUpdateUTC": "2018-07-26T11:00:30"
+            }
+        ]
+    }
+]

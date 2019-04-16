@@ -1,0 +1,4282 @@
+[
+    {
+        "SKU": "ASG-050",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470091921",
+        "Title": "Armband stainless steel 21 cm unisex",
+        "Description": "Armband stainless steel 21 cm unisex",
+        "Brand": "ORPHELIA STEEL/OTHER",
+        "RRP": 45,
+        "Price": 25,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Weight-Gram": "37",
+        "SPEC_Target_audience": "Unisex",
+        "SPEC_Jewel_type": "Bracelet",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Metal Color": "White",
+        "SPEC_Clasp_type": "Fold over clasp",
+        "SPEC_Length-cm": "21",
+        "SPEC_Width-cm": "1",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/asg-050_2.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/asg-050.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/asg-050_ihajlt.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/asg-050_1.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "RD-3003/1/54",
+        "ParentSKU": "RD-3003/1",
+        "Category": "Jewellery",
+        "EAN": "5400470461687",
+        "Title": "WEDDING RING 18 KT WHITE GOLD 9 DIAMONDS 0.50 CT",
+        "Description": "WEDDING RING 18 KT WHITE GOLD 9 DIAMONDS 0.50 CT",
+        "Brand": "ORPHELIA GOLD",
+        "RRP": 1499,
+        "Price": 809.46,
+        "PriceUpdateUTC": null,
+        "Stock": 2,
+        "StockUpdateUTC": "2018-03-14T23:47:53.603",
+        "SPEC_Weight-Gram": "3.4000",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "Whitegold 18K",
+        "SPEC_Ring_size": "54",
+        "SPEC_Length-cm": "0.4",
+        "SPEC_Gem_type": "Diamond",
+        "SPEC_Diamond_quantity": "9",
+        "SPEC_Total_Diamond_Weight": "0.5",
+        "SPEC_Diamond_color": "White/Wesselton (H)",
+        "SPEC_Diamond_clarity": "small inclusions (SI1)",
+        "SPEC_Diamond_setting": "Channel setting",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rd-3003154_pwgs3o.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-02-27T10:07:10"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rd-3003154_n53tgh.jpg",
+                "ImageUpdateUTC": "2017-02-27T11:10:44"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rd-3003154_20i6jz.jpg",
+                "ImageUpdateUTC": "2017-02-27T11:10:44"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rd-3003154_w7ntpw.jpg",
+                "ImageUpdateUTC": "2017-02-27T11:10:44"
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-4763",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470178202",
+        "Title": "PENDANT WITH CHAIN 925 SILVER ZIRCONIUM",
+        "Description": "PENDANT WITH CHAIN 925 SILVER ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 39,
+        "Price": 24.3,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-14T23:44:27.663",
+        "SPEC_Weight-Gram": "3.9000",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "White",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "3.5",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "0.5",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zh-4763.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zh-4763_2.jpg",
+                "ImageUpdateUTC": "2017-03-09T12:45:00"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zh-4763_3.jpg",
+                "ImageUpdateUTC": "2017-03-09T12:45:00"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zh-4763_1.jpg",
+                "ImageUpdateUTC": "2017-03-09T12:45:00"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4763_bvo0or.jpg",
+                "ImageUpdateUTC": "2017-03-09T12:45:00"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3661/50",
+        "ParentSKU": "ZR-3661",
+        "Category": "Jewellery",
+        "EAN": "5400470102030",
+        "Title": "RING SATIN ZIRCONIUM",
+        "Description": "RING SATIN ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 159,
+        "Price": 39.06,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Weight-Gram": "14.0000",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "50",
+        "SPEC_Width-cm": "0.9",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-366150_pyeeqn.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-07-26T14:16:39"
+            }
+        ]
+    },
+    {
+        "SKU": "ESRG91801A170",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945908058",
+        "Title": "Esprit S925 Heart In Heart",
+        "Description": "Esprit S925 Heart In Heart",
+        "Brand": "Esprit Silver",
+        "RRP": 79.9,
+        "Price": 43.15,
+        "PriceUpdateUTC": null,
+        "Stock": 5,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Model_Name": "Heart In Heart",
+        "SPEC_Model Name": "Heart In Heart",
+        "SPEC_Weight-Gram": "6.9",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Ring_size": "53",
+        "SPEC_Width-cm": "1",
+        "SPEC_Brand Description": "Modern, always stylish, full of life and yet so beautifully - that's Esprit. And that's what you appreciate and love.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esrg91801a170_1sdiu7.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "PCRG90463C150",
+        "ParentSKU": "PCRG90463C1",
+        "Category": "Jewellery",
+        "EAN": "4891945206437",
+        "Title": "Pierre Cardin Silver Gosselin",
+        "Description": "Pierre Cardin Silver Gosselin",
+        "Brand": "Pierre Cardin Silver",
+        "RRP": 190,
+        "Price": 102.6,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-14T23:50:20.053",
+        "SPEC_Model_Name": "Gosselin",
+        "SPEC_Weight-Gram": "13.2",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Rosegold",
+        "SPEC_Ring_size": "47",
+        "SPEC_Width-cm": "1.5",
+        "SPEC_Gem_shape": "Round",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Gem_quantity": "65",
+        "SPEC_Info": "65 White Czirkonia , 1 White Agate \n",
+        "SPEC_Brand Description": "Pierre Cardin\u2019s world is made from multiple things.Fashion, accessories, jewelry, fragrances, furniture, theater costumes, tableware\u2026Such is the innovating world of Pierre Cardin\u2019s brand.Geometric shapes related to the blending of traditional and new synthetic fabrics to create unique and inimitable lines, recognized all around the world.Everything represents an inexhaustible source of inspiration to the designer: Japan and China\u2019s lifestyle during the 60\u2019s and 70\u2019s, all amazing and unusual encounters, everyday life, but also the social, cultural and industrial evolutions and revolutions.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcrg90463c150_8oqlq7.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-01-24T09:09:12"
+            }
+        ]
+    },
+    {
+        "SKU": "ESRG91330A170",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945813260",
+        "Title": "Esprit S925 Delta",
+        "Description": "Esprit S925 Delta",
+        "Brand": "Esprit Silver",
+        "RRP": 59.9,
+        "Price": 32.35,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Model_Name": "Delta",
+        "SPEC_Model Name": "Delta",
+        "SPEC_Weight-Gram": "5.4",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Ring_size": "53",
+        "SPEC_Gem_type": "Cubic Zirconia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Brand Description": "Modern, always stylish, full of life and yet so beautifully - that's Esprit. And that's what you appreciate and love.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esrg91330a170.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esrg91330a170_1.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esrg91330a170_2.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3626/52",
+        "ParentSKU": "ZR-3626",
+        "Category": "Jewellery",
+        "EAN": "5400470099798",
+        "Title": "RING LAVENDER ZIRCONIUM PEAR CAB",
+        "Description": "RING LAVENDER ZIRCONIUM PEAR CAB",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 139,
+        "Price": 29.52,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Weight-Gram": "7.8000",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "52",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-362652_2hbjwf.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-07-26T12:39:39"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-7128",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190060997",
+        "Title": "EARRING BEHIND EAR ZIRC",
+        "Description": "EARRING BEHIND EAR ZIRC",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 45,
+        "Price": 28.8,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Weight-Gram": "2.5",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Drop Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Length-cm": "1.6",
+        "SPEC_Width-cm": "0.5",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Gem_quantity": "4",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7128_u5nb41.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-06-28T11:59:10"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7128_067k46.jpg",
+                "ImageUpdateUTC": "2017-03-29T13:21:05"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7128_mgnzdn.jpg",
+                "ImageUpdateUTC": "2017-03-29T13:21:05"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7128_puyxvl.jpg",
+                "ImageUpdateUTC": "2017-03-29T13:21:05"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3880/54",
+        "ParentSKU": "ZR-3880",
+        "Category": "Jewellery",
+        "EAN": "5400470213781",
+        "Title": "RING FOLDING PAVE ZIRCONIUM",
+        "Description": "RING FOLDING PAVE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 89,
+        "Price": 44.1,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Weight-Gram": "4.4000",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "54",
+        "SPEC_Width-cm": "1",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-388054_rklyy5.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-388054_1e291e.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-388054_ylx6xg.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-7206/56",
+        "ParentSKU": "ZR-7206",
+        "Category": "Jewellery",
+        "EAN": "5415190069419",
+        "Title": "RING ROSEGOLD/SILVER ZIRC",
+        "Description": "RING ROSEGOLD/SILVER ZIRC",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 85,
+        "Price": 76.5,
+        "PriceUpdateUTC": null,
+        "Stock": 2,
+        "StockUpdateUTC": "2018-03-14T23:45:14.46",
+        "SPEC_Weight-Gram": "5",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver/rosegold",
+        "SPEC_Ring_size": "56",
+        "SPEC_Width-cm": "1",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-720656_6h1s3g.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-02-23T10:49:54"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-720656_fpjhwe.jpg",
+                "ImageUpdateUTC": "2017-09-05T12:06:20"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-720656_92o88a.jpg",
+                "ImageUpdateUTC": "2017-09-05T12:06:20"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-720656_p0doze.jpg",
+                "ImageUpdateUTC": "2017-09-05T12:06:20"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-720656_3bhlpm.jpg",
+                "ImageUpdateUTC": "2017-09-05T12:06:20"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-720656_l8w0pb.jpg",
+                "ImageUpdateUTC": "2017-09-05T12:06:20"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-7199/CH",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190060089",
+        "Title": "EARRING PRINCESS ZIRCONIUM CHAMPAGNE ",
+        "Description": "EARRING PRINCESS ZIRCONIUM CHAMPAGNE ",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 59,
+        "Price": 32.4,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Weight-Gram": "1.5",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Height-cm": "0.9",
+        "SPEC_Width-cm": "0.9",
+        "SPEC_Gem_type": "Cubic Zirconia",
+        "SPEC_Gem_color": "Champagne",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7199ch_zv8lgv.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-03-28T09:28:44"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7199ch_8z8pgs.jpg",
+                "ImageUpdateUTC": "2016-04-27T10:24:18"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7199ch_t3wp1y.jpg",
+                "ImageUpdateUTC": "2016-04-27T10:24:20"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7199ch_x5g4d1.jpg",
+                "ImageUpdateUTC": "2016-05-03T12:37:20"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7199ch_0cpina.jpg",
+                "ImageUpdateUTC": "2017-03-28T09:28:34"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-7028",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190030297",
+        "Title": "EARRING BLUE ZIRC",
+        "Description": "EARRING BLUE ZIRC",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 79,
+        "Price": 44.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-14T23:44:27.663",
+        "SPEC_Weight-Gram": "1.4",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "White",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Length-cm": "1",
+        "SPEC_Width-cm": "0.6",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "Blue",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7028_x31rdi.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7028_ktwt7i.jpg",
+                "ImageUpdateUTC": "2017-03-28T12:29:20"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7028_tnbk1f.jpg",
+                "ImageUpdateUTC": "2017-03-28T12:29:20"
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-6041",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190016581",
+        "Title": "CHAIN WITH PENDANT SILVER SHEET 925 SILVER",
+        "Description": "CHAIN WITH PENDANT SILVER SHEET 925 SILVER",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 69,
+        "Price": 26.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-14T23:44:27.663",
+        "SPEC_Weight-Gram": "6.2",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "White",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "2.5",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "1.8",
+        "SPEC_Gem_type": "Glass",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-6041_zm7m6r.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-04-12T14:30:15"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-6041_8pxdai.jpg",
+                "ImageUpdateUTC": "2017-03-10T12:11:56"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-6041_yvft11.jpg",
+                "ImageUpdateUTC": "2017-03-10T12:11:56"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-6041_fnm8hr.jpg",
+                "ImageUpdateUTC": "2017-03-10T12:11:56"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-6041_rtdzq5.jpg",
+                "ImageUpdateUTC": "2017-03-10T12:11:56"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-7081/54",
+        "ParentSKU": "ZR-7081",
+        "Category": "Jewellery",
+        "EAN": "5415190038002",
+        "Title": "RING FLOWER ZIRC",
+        "Description": "RING FLOWER ZIRC",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 30,
+        "Price": 24.5,
+        "PriceUpdateUTC": null,
+        "Stock": 2,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Ring_size": "54",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-708154_z76jlx.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-708154_kdjnw1.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-708154_xzqjn4.jpg",
+                "ImageUpdateUTC": "2016-04-01T12:14:02"
+            }
+        ]
+    },
+    {
+        "SKU": "4283147",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945705879",
+        "Title": "Esprit Steel Tubular Bells",
+        "Description": "Esprit Steel Tubular Bells",
+        "Brand": "Esprit Steel",
+        "RRP": 49.9,
+        "Price": 25,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Model_Name": "Tubular Bells",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Ring type": "Ring without stones",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/4283147_33q5ve.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3939/1/50",
+        "ParentSKU": "ZR-3939/1",
+        "Category": "Jewellery",
+        "EAN": "5400470254593",
+        "Title": "RING ZIRCONIUM ROSE",
+        "Description": "RING ZIRCONIUM ROSE",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 47,
+        "Price": 27.9,
+        "PriceUpdateUTC": null,
+        "Stock": 4,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Weight-Gram": "2.9000",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "50",
+        "SPEC_Width-cm": "2",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zr-3939_1_50.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zr-3939_1_50_1.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zr-3939_1_50_2.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zr-3939_1_50_3.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5946",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470121857",
+        "Title": "OORHANGER HEART CONTOUR ZIRCONIUM",
+        "Description": "OORHANGER HEART CONTOUR ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 39,
+        "Price": 28.8,
+        "PriceUpdateUTC": null,
+        "Stock": 2,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Weight-Gram": "1.8000",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5946_uyv78y.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-03-30T09:47:32"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5946_54ed92.jpg",
+                "ImageUpdateUTC": "2017-03-30T09:45:32"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3657/50",
+        "ParentSKU": "ZR-3657",
+        "Category": "Jewellery",
+        "EAN": "5400470101781",
+        "Title": "RING HILL CUT CLEAR ZIRCONIUM",
+        "Description": "RING HILL CUT CLEAR ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 165,
+        "Price": 39.24,
+        "PriceUpdateUTC": null,
+        "Stock": 2,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Weight-Gram": "12.3000",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "50",
+        "SPEC_Width-cm": "1.6",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-365750_ku6pqy.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-07-26T14:03:57"
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-6079/1",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190036664",
+        "Title": "CHAIN WITH PENDANT 925 ROSEPLATED SILVER STUD ZIRCONIUM",
+        "Description": "CHAIN WITH PENDANT 925 ROSEPLATED SILVER STUD ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 30,
+        "Price": 22,
+        "PriceUpdateUTC": null,
+        "Stock": 3,
+        "StockUpdateUTC": "2018-03-14T23:44:27.663",
+        "SPEC_Weight-Gram": "0.6",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "1",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "1",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-60791_aez9k7.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-04-13T12:06:52"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-60791_wow1e6.jpg",
+                "ImageUpdateUTC": "2017-03-10T12:31:34"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-60791_obmx1e.jpg",
+                "ImageUpdateUTC": "2017-03-10T12:31:34"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-60791_s7e2ib.jpg",
+                "ImageUpdateUTC": "2017-03-10T12:31:34"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-7119/RG/60",
+        "ParentSKU": "ZR-7119/RG",
+        "Category": "Jewellery",
+        "EAN": "5415190068535",
+        "Title": "RING ROSEGOLD WHITE PEARL ZIRC",
+        "Description": "RING ROSEGOLD WHITE PEARL ZIRC",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 42,
+        "Price": 26.46,
+        "PriceUpdateUTC": null,
+        "Stock": 2,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Weight-Gram": "3.5",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Rosegold",
+        "SPEC_Ring_size": "60",
+        "SPEC_Width-cm": "0.7",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Pearl_type": "Synthetic Pearl",
+        "SPEC_Pearl_color": "White",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-7119rg60_6067qr.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-05-10T14:41:53"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-7119rg60_83745j.jpg",
+                "ImageUpdateUTC": "2016-05-10T14:41:55"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-7119rg60_tbm0vo.jpg",
+                "ImageUpdateUTC": "2016-05-17T17:36:17"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-7119rg60_r3yo3i.jpg",
+                "ImageUpdateUTC": "2016-05-18T12:15:10"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-7119rg60_ywwjtd.jpg",
+                "ImageUpdateUTC": "2016-04-13T10:26:44"
+            }
+        ]
+    },
+    {
+        "SKU": "ESNL92702B580",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945412678",
+        "Title": "Esprit S925 Petite Abricot",
+        "Description": "Esprit S925 Petite Abricot",
+        "Brand": "Esprit Silver",
+        "RRP": 99.9,
+        "Price": 40.46,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Model_Name": "Petite Abricot",
+        "SPEC_Model Name": "Petite Abricot",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "58",
+        "SPEC_Width-cm": "1.5",
+        "SPEC_Gem_type": "Tiger's Eye",
+        "SPEC_Gem_color": "Orange",
+        "SPEC_Brand Description": "Modern, always stylish, full of life and yet so beautifully - that's Esprit. And that's what you appreciate and love.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl92702b580_pwox0.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl92702b580_pwign.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl92702b580_zpj0ba.jpg",
+                "ImageUpdateUTC": "2016-07-12T15:13:34"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl92702b580_h7tt6n.jpg",
+                "ImageUpdateUTC": "2016-10-10T13:43:50"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-7255",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190080001",
+        "Title": "EARRING 925 SILVER ZIRCONIUM",
+        "Description": "EARRING 925 SILVER ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 29,
+        "Price": 26.1,
+        "PriceUpdateUTC": null,
+        "Stock": 3,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Weight-Gram": "2",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Drop Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Back_finding": "Hook",
+        "SPEC_Length-cm": "3",
+        "SPEC_Width-cm": "0.7",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7255_1ypfrs.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-07-24T12:16:49"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7255_a90c3f.jpg",
+                "ImageUpdateUTC": "2017-04-24T09:17:56"
+            }
+        ]
+    },
+    {
+        "SKU": "ZA-7165",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190059052",
+        "Title": "BRACELET BICOLOR OVAL MOP",
+        "Description": "BRACELET BICOLOR OVAL MOP",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 75,
+        "Price": 46.8,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Weight-Gram": "4.6",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Bracelet",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver/rosegold",
+        "SPEC_Material_type": "Mother Of Pearl",
+        "SPEC_Material_color": "Cream",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "19",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-7165_fb3vee.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-04-25T12:12:35"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-7165_i76kk1.jpg",
+                "ImageUpdateUTC": "2016-04-25T12:12:37"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-7165_j3o5g8.jpg",
+                "ImageUpdateUTC": "2016-05-03T10:38:00"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-7165_74nxow.jpg",
+                "ImageUpdateUTC": "2016-05-03T13:25:13"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-7165_qiint9.jpg",
+                "ImageUpdateUTC": "2017-03-16T10:26:38"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-7287/52",
+        "ParentSKU": "ZR-7287",
+        "Category": "Jewellery",
+        "EAN": "5415190082968",
+        "Title": "RING 925 SILVER ROSEGOLD WHITE OPAL & ZIRCONIUM",
+        "Description": "RING 925 SILVER ROSEGOLD WHITE OPAL & ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 75,
+        "Price": 67.5,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Weight-Gram": "4.5",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Rosegold",
+        "SPEC_Ring_size": "52",
+        "SPEC_Width-cm": "1.5",
+        "SPEC_Gem_type": "Opalit",
+        "SPEC_Gem_Type 2": "Cubic Zirkonia",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-728750_uoysv0.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-07-10T12:22:24"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-728750_w1n691.jpg",
+                "ImageUpdateUTC": "2017-07-10T14:22:34"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-728750_m16h0p.jpg",
+                "ImageUpdateUTC": "2017-07-10T14:22:34"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-728750_oz7472.jpg",
+                "ImageUpdateUTC": "2017-07-10T14:22:34"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-728750_cs8ab5.jpg",
+                "ImageUpdateUTC": "2017-07-10T14:22:34"
+            }
+        ]
+    },
+    {
+        "SKU": "RD-3370/56",
+        "ParentSKU": "RD-3370",
+        "Category": "Jewellery",
+        "EAN": "5400470138503",
+        "Title": "BAGUE OG 18 CRT DIAMANTS 0.30 CRT HSI2",
+        "Description": "BAGUE OG 18 CRT DIAMANTS 0.30 CRT HSI2",
+        "Brand": "ORPHELIA GOLD",
+        "RRP": 1699,
+        "Price": 917.46,
+        "PriceUpdateUTC": null,
+        "Stock": 4,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Weight-Gram": "3",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "Whitegold 18K",
+        "SPEC_Ring_size": "56",
+        "SPEC_Width-cm": "0.5",
+        "SPEC_Gem_type": "Diamond",
+        "SPEC_Diamond_quantity": "1",
+        "SPEC_Total_Diamond_Weight": "0.30",
+        "SPEC_Diamond_color": "White/Wesselton (H)",
+        "SPEC_Diamond_clarity": "small inclusions (SI2)",
+        "SPEC_Diamond_setting": "Ajourfassung-Griff",
+        "SPEC_Diamond_shape": "Brillant Cut",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rd-337056_niptnf.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rd-337056_hitxi8.jpg",
+                "ImageUpdateUTC": "2017-02-27T10:31:32"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rd-337056_5xo0v9.jpg",
+                "ImageUpdateUTC": "2017-02-27T10:31:32"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rd-337056_ddiydu.jpg",
+                "ImageUpdateUTC": "2017-02-27T10:31:32"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rd-337056_8ew5n0.jpg",
+                "ImageUpdateUTC": "2017-02-27T10:31:32"
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-7289/RG",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190082531",
+        "Title": "CHAIN WITH PENDANT HEART 925 SILVER ROSEPLATED MOP & ZIRCONIUM",
+        "Description": "CHAIN WITH PENDANT HEART 925 SILVER ROSEPLATED MOP & ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 55,
+        "Price": 49.5,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Weight-Gram": "2.4",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Rosegold",
+        "SPEC_Material_type": "Mother Of Pearl",
+        "SPEC_Material_color": "White",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "1.8",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "1.2",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-7289rg_qrevpm.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-07-10T12:13:21"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-7289rg_7xjmtz.jpg",
+                "ImageUpdateUTC": "2017-07-10T14:13:42"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-7289rg_24cn58.jpg",
+                "ImageUpdateUTC": "2017-07-10T14:13:42"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-7289rg_rrmiw4.jpg",
+                "ImageUpdateUTC": "2017-07-10T14:13:42"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-7289rg_uzcy34.jpg",
+                "ImageUpdateUTC": "2017-07-10T14:13:42"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3647/60",
+        "ParentSKU": "ZR-3647",
+        "Category": "Jewellery",
+        "EAN": "5400470101132",
+        "Title": "RING ROUND WHITE CATEYE",
+        "Description": "RING ROUND WHITE CATEYE",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 165,
+        "Price": 40.5,
+        "PriceUpdateUTC": null,
+        "Stock": 2,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Weight-Gram": "12.2000",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "60",
+        "SPEC_Width-cm": "2",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-364760_ktzimv.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-07-26T13:48:47"
+            }
+        ]
+    },
+    {
+        "SKU": "ESRG11567C180",
+        "ParentSKU": "ESRG11567C1",
+        "Category": "Jewellery",
+        "EAN": "4891945906597",
+        "Title": "Esprit Steel Drip Drop",
+        "Description": "Esprit Steel Drip Drop",
+        "Brand": "Esprit Steel",
+        "RRP": 49.9,
+        "Price": 22,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-14T23:43:31.937",
+        "SPEC_Model_Name": "Drip Drop",
+        "SPEC_Weight-Gram": "18.84",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Ring_size": "57",
+        "SPEC_Height-cm": "1.6",
+        "SPEC_Width-cm": "2.5",
+        "SPEC_Gem_type": "Glass",
+        "SPEC_Gem_color": "Pink",
+        "SPEC_Brand Description": "Modern, always stylish, full of life and yet so beautifully - that's Esprit. And that's what you appreciate and love.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esrg11567c180_o7ww1p.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esrg11567c180_mdmd7q.jpg",
+                "ImageUpdateUTC": "2016-11-22T08:48:52"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esrg11567c180_bph9pa.jpg",
+                "ImageUpdateUTC": "2016-11-22T08:48:55"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-6029/1/56",
+        "ParentSKU": "ZR-6029/1",
+        "Category": "Jewellery",
+        "EAN": "5415190015973",
+        "Title": "RING GOLD",
+        "Description": "RING GOLD",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 44,
+        "Price": 25.65,
+        "PriceUpdateUTC": null,
+        "Stock": 3,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Weight-Gram": "4.60",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Gold",
+        "SPEC_Ring_size": "56",
+        "SPEC_Width-cm": "1",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-6029156_pim973.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-04-08T12:54:11"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-6029156_ehzdav.jpg",
+                "ImageUpdateUTC": "2016-04-08T12:54:16"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-6029156_5v4xw6.jpg",
+                "ImageUpdateUTC": "2016-04-08T12:54:16"
+            }
+        ]
+    },
+    {
+        "SKU": "SET-037",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470170282",
+        "Title": "COLLIER 43 CM  ARMBAND 19 CM",
+        "Description": "COLLIER 43 CM  ARMBAND 19 CM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 329,
+        "Price": 116.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Weight-Gram": "38.6700",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Set: Chain + Bracelet",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "White",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "19/43",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/set-037_wqqvjr.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ZA-1871",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470008905",
+        "Title": "SLAAF ARMBAND MICRO PAVE ZIRCONIUM",
+        "Description": "SLAAF ARMBAND MICRO PAVE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 265,
+        "Price": 161.1,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Weight-Gram": "7.1300",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Bracelet",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Width-cm": "0.4",
+        "SPEC_Diameter-cm": "6",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/za-1871.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1871_xampiv.jpg",
+                "ImageUpdateUTC": "2017-07-14T10:10:16"
+            }
+        ]
+    },
+    {
+        "SKU": "R-2088/52",
+        "ParentSKU": "R-2088",
+        "Category": "Jewellery",
+        "EAN": "5400470078700",
+        "Title": "RING MICRO SETTING OVAL LINES ZIRC",
+        "Description": "RING MICRO SETTING OVAL LINES ZIRC",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 99,
+        "Price": 36.54,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Weight-Gram": "3.5",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "zilver",
+        "SPEC_Ring_size": "52",
+        "SPEC_Width-cm": "1.3",
+        "SPEC_Gem_type": "Zirkonia",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/r-208852_f3nvrr.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3901/2/58",
+        "ParentSKU": "ZR-3901/2",
+        "Category": "Jewellery",
+        "EAN": "5400470246284",
+        "Title": "RING GLASS SILVER SHEET ZIRCONIUM",
+        "Description": "RING GLASS SILVER SHEET ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 99,
+        "Price": 34.02,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "58",
+        "SPEC_Width-cm": "2",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-3901258_yvgvwk.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-4394",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470642642",
+        "Title": "PENDANT WITH CHAIN 925 SILVER DIAMOND AND ZIRCONIUM",
+        "Description": "PENDANT WITH CHAIN 925 SILVER DIAMOND AND ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 79,
+        "Price": 29.7,
+        "PriceUpdateUTC": null,
+        "Stock": 5,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Weight-Gram": "3.1000",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "2",
+        "SPEC_Width-cm": "0.5",
+        "SPEC_Diamond_quantity": "1",
+        "SPEC_Total_Diamond_Weight": "0.01",
+        "SPEC_Diamond_color": "White/Wesselton (H)",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4394_js60i0.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-08-01T11:57:09"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4394_pydpbi.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:50:14"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4394_vmbfe5.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:50:14"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5177",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470244433",
+        "Title": "OORHANGER BLACK & WHITE PAVE ZIRCONIUM",
+        "Description": "OORHANGER BLACK & WHITE PAVE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 199,
+        "Price": 89.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-14T23:44:27.663",
+        "SPEC_Weight-Gram": "5.1",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Drop Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Back_finding": "Safety Hook",
+        "SPEC_Height-cm": "3.5",
+        "SPEC_Length-cm": "3.5",
+        "SPEC_Width-cm": "0.8",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "Black",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5177_00qtgn.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zo-5177.jpg",
+                "ImageUpdateUTC": "2017-03-31T11:57:16"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5177_o3k1pt.jpg",
+                "ImageUpdateUTC": "2017-03-31T11:57:16"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5177_u3x2bt.jpg",
+                "ImageUpdateUTC": "2017-03-31T11:57:16"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3503/54",
+        "ParentSKU": "ZR-3503",
+        "Category": "Jewellery",
+        "EAN": "5400470074283",
+        "Title": "RING PAREL ROSE",
+        "Description": "RING PAREL ROSE",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 69,
+        "Price": 32.4,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-03-14T23:51:04.307",
+        "SPEC_Weight-Gram": "5.3000",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "54",
+        "SPEC_Width-cm": "1",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-350354_lyxqv4.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-350354_0ozifr.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3503/56",
+        "ParentSKU": "ZR-3503",
+        "Category": "Jewellery",
+        "EAN": "5400470074290",
+        "Title": "RING PAREL ROSE",
+        "Description": "RING PAREL ROSE",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 69,
+        "Price": 32.4,
+        "PriceUpdateUTC": null,
+        "Stock": 4,
+        "StockUpdateUTC": "2018-03-14T23:51:04.307",
+        "SPEC_Weight-Gram": "5.3000",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "56",
+        "SPEC_Width-cm": "1",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-350356_sfjuss.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-350356_v5ryus.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5042",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470168579",
+        "Title": "EARRING 925 SILVER GREY PEARL AND ZIRCONIUM",
+        "Description": "EARRING 925 SILVER GREY PEARL AND ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 75,
+        "Price": 28.26,
+        "PriceUpdateUTC": null,
+        "Stock": 6,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Weight-Gram": "4.8",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Back_finding": "Butterfly",
+        "SPEC_Length-cm": "1.6",
+        "SPEC_Width-cm": "0.7",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Pearl_type": "Shell Pearl",
+        "SPEC_Pearl_color": "Grey",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5042_26og0b.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-05-04T08:41:08"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5042_mz5bzn.jpg",
+                "ImageUpdateUTC": "2017-04-14T08:33:02"
+            }
+        ]
+    },
+    {
+        "SKU": "RD-3065/55",
+        "ParentSKU": "RD-3065",
+        "Category": "Jewellery",
+        "EAN": "5415190080575",
+        "Title": "DIAMOND RING 18 CT YELLOWGOLD 10 DIAMONDS 0.09 CT",
+        "Description": "DIAMOND RING 18 CT YELLOWGOLD 10 DIAMONDS 0.09 CT",
+        "Brand": "ORPHELIA GOLD",
+        "RRP": 750,
+        "Price": 750,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Family": "Classic",
+        "SPEC_Weight-Gram": "2.2",
+        "SPEC_Type": "1/2 jonc int\u00e9rieur plat",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Metal": "Gold 18k",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Color": "Yellow",
+        "SPEC_Metal_type": "Yellowgold 18K",
+        "SPEC_Finish": "Poli",
+        "SPEC_Metal Color": "Gold",
+        "SPEC_Stone": "Diamond",
+        "SPEC_Ring_size": "55",
+        "SPEC_Setting": "Clos",
+        "SPEC_Width-cm": "0.2",
+        "SPEC_Gem_type": "Diamond",
+        "SPEC_Diamond_quantity": "10",
+        "SPEC_Total_Diamond_Weight": "0.09",
+        "SPEC_Diamond_color": "White/Wesselton (H)",
+        "SPEC_Diamond_clarity": "small inclusions (SI1)",
+        "SPEC_Diamond_setting": "Gypsy Setting / Flush Setting",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rd-306555_mh10s0.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-05-22T08:56:47"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rd-306555_6mw3vz.jpg",
+                "ImageUpdateUTC": "2017-05-22T10:57:04"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rd-306555_o8cok1.jpg",
+                "ImageUpdateUTC": "2017-05-22T10:57:04"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rd-306555_c2xntp.jpg",
+                "ImageUpdateUTC": "2017-05-22T10:57:04"
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-6044",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190017649",
+        "Title": "CHAIN WITH PENDANT 925 SILVER BLUE ZIRCONIA",
+        "Description": "CHAIN WITH PENDANT 925 SILVER BLUE ZIRCONIA",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 75,
+        "Price": 44.1,
+        "PriceUpdateUTC": null,
+        "Stock": 3,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Weight-Gram": "1.58",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "White",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "1",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "1",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "Blue",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-6044_loarly.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-04-12T15:23:54"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-6044_49yv8w.jpg",
+                "ImageUpdateUTC": "2017-03-10T12:14:07"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-6044_wrc7cn.jpg",
+                "ImageUpdateUTC": "2017-03-10T12:14:07"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-6044_k2gp6c.jpg",
+                "ImageUpdateUTC": "2017-03-10T12:14:07"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-6044_x136fv.jpg",
+                "ImageUpdateUTC": "2017-03-10T12:14:07"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3520/54",
+        "ParentSKU": "ZR-3520",
+        "Category": "Jewellery",
+        "EAN": "5400470067148",
+        "Title": "RING MICRO PAVE ZIRCONIUM",
+        "Description": "RING MICRO PAVE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 210,
+        "Price": 69.89,
+        "PriceUpdateUTC": null,
+        "Stock": 3,
+        "StockUpdateUTC": "2018-03-14T23:44:27.663",
+        "SPEC_Weight-Gram": "5.5",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "54",
+        "SPEC_Ring_resizable": "0",
+        "SPEC_Width-cm": "1",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352054_u6wass.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-04-01T12:53:51"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352054_ngwoyd.jpg",
+                "ImageUpdateUTC": "2016-04-01T12:53:52"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352054_abp3x3.jpg",
+                "ImageUpdateUTC": "2016-04-01T12:53:54"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352054_rkpgmh.jpg",
+                "ImageUpdateUTC": "2017-09-05T09:10:40"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352054_5utd0j.jpg",
+                "ImageUpdateUTC": "2017-09-05T09:11:07"
+            }
+        ]
+    },
+    {
+        "SKU": "PEN-3003",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470075778",
+        "Title": "HANGER MICRO SETTING BLAD ZIRC",
+        "Description": "HANGER MICRO SETTING BLAD ZIRC",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 115,
+        "Price": 53.1,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-03-14T23:44:27.663",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Height-cm": "3.8",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "1.3",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pen-3003_bl54br.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-06-06T12:24:19"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pen-3003_kg4u4e.jpg",
+                "ImageUpdateUTC": "2017-07-05T12:13:22"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pen-3003_0eeu1o.jpg",
+                "ImageUpdateUTC": "2017-07-05T12:13:22"
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-4856/1",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470253930",
+        "Title": "PENDANT WITH CHAIN 925 SILVER ROSEPLATED FRESH WATER PEARL",
+        "Description": "PENDANT WITH CHAIN 925 SILVER ROSEPLATED FRESH WATER PEARL",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 38,
+        "Price": 24.3,
+        "PriceUpdateUTC": null,
+        "Stock": 4,
+        "StockUpdateUTC": "2018-03-14T23:44:27.663",
+        "SPEC_Weight-Gram": "2.2000",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Rosegold",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "2",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "1.5",
+        "SPEC_Pearl_type": "Freshwater Cultured",
+        "SPEC_Pearl_color": "Beige",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-48561_eimfpv.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-07-05T11:52:33"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zh-4856_1.jpg",
+                "ImageUpdateUTC": "2017-03-10T10:22:17"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-48561_9tpjw4.jpg",
+                "ImageUpdateUTC": "2017-03-10T10:22:17"
+            }
+        ]
+    },
+    {
+        "SKU": "SET-5202/1",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470269368",
+        "Title": "Orphelia Damen Schmuckset Glass Rosegoldsheet Anh\u00e4nger mit kette + Ohrh\u00e4nger 925 Sterlingsilver mit Zirkonia SET-5202/1 / ZH-4820/1 ZO-5202/1",
+        "Description": "Orphelia Damen Schmuckset Glass Rosegoldsheet Anh\u00e4nger mit kette + Ohrh\u00e4nger 925 Sterlingsilver mit Zirkonia SET-5202/1 / ZH-4820/1 ZO-5202/1",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 169,
+        "Price": 82.53,
+        "PriceUpdateUTC": null,
+        "Stock": 4,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Set: Chain-Pendant + Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/set-52021_xgstj0.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/set-52021_i6yjln.jpg",
+                "ImageUpdateUTC": "2017-03-08T10:17:18"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/set-52021_3sohi9.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "PCRG90465C180",
+        "ParentSKU": "PCRG90465C1",
+        "Category": "Jewellery",
+        "EAN": "4891945205775",
+        "Title": "Pierre Cardin Silver La Romaine",
+        "Description": "Pierre Cardin Silver La Romaine",
+        "Brand": "Pierre Cardin Silver",
+        "RRP": 65,
+        "Price": 39.2,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-03-14T23:50:20.053",
+        "SPEC_Model_Name": "La Romaine",
+        "SPEC_Weight-Gram": "2.6",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Rosegold",
+        "SPEC_Ring_size": "57",
+        "SPEC_Width-cm": "1",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcrg90465c180_3r7p8k.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-11-10T11:41:19"
+            }
+        ]
+    },
+    {
+        "SKU": "ESRG11556A200",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945897673",
+        "Title": "Esprit Steel Ring",
+        "Description": "Esprit Steel Ring",
+        "Brand": "Esprit Steel",
+        "RRP": 39.9,
+        "Price": 25.94,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Model_Name": "Ring",
+        "SPEC_Weight-Gram": "9.3",
+        "SPEC_Target_audience": "Men",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Material_type": "Leather",
+        "SPEC_Material_color": "Black",
+        "SPEC_Ring_size": "63",
+        "SPEC_Width-cm": "1.05",
+        "SPEC_Brand Description": "Modern, always stylish, full of life and yet so beautifully - that's Esprit. And that's what you appreciate and love.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esrg11556a200_a7nqtn.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esrg11556a200_s0boen.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-7198/CR/58",
+        "ParentSKU": "ZR-7198/CR",
+        "Category": "Jewellery",
+        "EAN": "5415190060737",
+        "Title": "RING ROSE GOLD CREAM ZIRCONIUM",
+        "Description": "RING ROSE GOLD CREAM ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 129,
+        "Price": 65.25,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Weight-Gram": "7",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Rosegold",
+        "SPEC_Ring_size": "58",
+        "SPEC_Ring_resizable": "YES",
+        "SPEC_Width-cm": "1.9",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "Cream",
+        "SPEC_Gem_quantity": "1",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-7198cr58_fi7aj0.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-02-23T10:06:53"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-7198cr58_q7pgjq.jpg",
+                "ImageUpdateUTC": "2017-02-23T11:07:01"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-7198cr58_cds78h.jpg",
+                "ImageUpdateUTC": "2017-02-23T11:07:01"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-7198cr58_edxzlu.jpg",
+                "ImageUpdateUTC": "2017-02-23T11:07:01"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-7198cr58_jy3pum.jpg",
+                "ImageUpdateUTC": "2017-02-23T11:07:01"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3886/56",
+        "ParentSKU": "ZR-3886",
+        "Category": "Jewellery",
+        "EAN": "5400470243849",
+        "Title": "RING 4 BALLS BICOLOR",
+        "Description": "RING 4 BALLS BICOLOR",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 69,
+        "Price": 69,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Weight-Gram": "3.2600",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "56",
+        "SPEC_Width-cm": "2",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-388656_ha23kx.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-388656_lkni2g.jpg",
+                "ImageUpdateUTC": "2017-07-18T14:19:28"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-388656_mswx8a.jpg",
+                "ImageUpdateUTC": "2017-07-18T14:19:28"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-388656_c8wp2a.jpg",
+                "ImageUpdateUTC": "2017-07-18T14:19:28"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-388656_pbtyly.jpg",
+                "ImageUpdateUTC": "2017-07-18T14:19:28"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-388656_ljnp62.jpg",
+                "ImageUpdateUTC": "2017-07-18T14:19:28"
+            }
+        ]
+    },
+    {
+        "SKU": "RD-3379/56",
+        "ParentSKU": "RD-3379",
+        "Category": "Jewellery",
+        "EAN": "5400470138817",
+        "Title": "BAGUE OG 18 CRT DIAMANTS 0.13 CRT HSI2",
+        "Description": "BAGUE OG 18 CRT DIAMANTS 0.13 CRT HSI2",
+        "Brand": "ORPHELIA GOLD",
+        "RRP": 729,
+        "Price": 393.66,
+        "PriceUpdateUTC": null,
+        "Stock": 3,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Weight-Gram": "3.4",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "Whitegold 18K",
+        "SPEC_Ring_size": "56",
+        "SPEC_Width-cm": "0.4",
+        "SPEC_Gem_type": "Diamond",
+        "SPEC_Diamond_quantity": "7",
+        "SPEC_Total_Diamond_Weight": ".13",
+        "SPEC_Diamond_color": "White/Wesselton (H)",
+        "SPEC_Diamond_clarity": "small inclusions (SI2)",
+        "SPEC_Diamond_setting": "Channel setting",
+        "SPEC_Diamond_shape": "Brillant Cut",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rd-337956_82aq8y.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rd-337956_qn2pnu.jpg",
+                "ImageUpdateUTC": "2017-02-27T11:54:23"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rd-337956_3kx9xr.jpg",
+                "ImageUpdateUTC": "2017-02-27T11:54:23"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rd-337956_jcmqx1.jpg",
+                "ImageUpdateUTC": "2017-02-27T11:54:23"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rd-337956_udjxnw.jpg",
+                "ImageUpdateUTC": "2017-02-27T11:54:23"
+            }
+        ]
+    },
+    {
+        "SKU": "ZK-7182",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190059250",
+        "Title": "NECKLACE BICOLOR FLOWER",
+        "Description": "NECKLACE BICOLOR FLOWER",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 59,
+        "Price": 36.9,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Weight-Gram": "5.7",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Necklace",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver/rosegold",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "2.7",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "2.7",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7182_eleisw.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-04-21T11:20:32"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7182_svf6s1.jpg",
+                "ImageUpdateUTC": "2017-03-24T11:49:00"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7182_c5tq5r.jpg",
+                "ImageUpdateUTC": "2017-03-24T11:49:00"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7182_g3dblc.jpg",
+                "ImageUpdateUTC": "2017-03-24T11:49:00"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7182_6sfx53.jpg",
+                "ImageUpdateUTC": "2017-03-24T11:49:00"
+            }
+        ]
+    },
+    {
+        "SKU": "PCNL90505A420",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945205935",
+        "Title": "Pierre Cardin Silver La Bidassoa",
+        "Description": "Pierre Cardin Silver La Bidassoa",
+        "Brand": "Pierre Cardin Silver",
+        "RRP": 160,
+        "Price": 86.4,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-14T23:50:20.053",
+        "SPEC_Model_Name": "La Bidassoa",
+        "SPEC_Weight-Gram": "11.6",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "3",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "1.6",
+        "SPEC_Gem_shape": "Round",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Gem_quantity": "40",
+        "SPEC_Pearl_type": "Synthetic Pearl",
+        "SPEC_Pearl_color": "White",
+        "SPEC_Pearl_size": "8.0-8.5mm",
+        "SPEC_Pearl_shape": "Round",
+        "SPEC_Info": "Length 40cm +5 cm",
+        "SPEC_Brand Description": "Pierre Cardin\u2019s world is made from multiple things.Fashion, accessories, jewelry, fragrances, furniture, theater costumes, tableware\u2026Such is the innovating world of Pierre Cardin\u2019s brand.Geometric shapes related to the blending of traditional and new synthetic fabrics to create unique and inimitable lines, recognized all around the world.Everything represents an inexhaustible source of inspiration to the designer: Japan and China\u2019s lifestyle during the 60\u2019s and 70\u2019s, all amazing and unusual encounters, everyday life, but also the social, cultural and industrial evolutions and revolutions.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcnl90505a420_kxckhm.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-11-10T11:13:03"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcnl90505a420_8u9dyq.jpg",
+                "ImageUpdateUTC": "2017-03-21T12:05:10"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcnl90505a420_dd1v2u.jpg",
+                "ImageUpdateUTC": "2017-03-21T12:05:10"
+            }
+        ]
+    },
+    {
+        "SKU": "PCRG00002D180",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4894519002435",
+        "Title": "Pierre Cardin Brass Calais",
+        "Description": "Pierre Cardin Brass Calais",
+        "Brand": "Pierre Cardin Brass",
+        "RRP": 113,
+        "Price": 61.02,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-14T23:50:20.053",
+        "SPEC_Model_Name": "Calais",
+        "SPEC_Weight-Gram": "18.7",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "Brass",
+        "SPEC_Metal Color": "Gold/Silver/Rosegold",
+        "SPEC_Ring_size": "57",
+        "SPEC_Width-cm": "1.5",
+        "SPEC_Gem_shape": "Round",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Gem_quantity": "40",
+        "SPEC_Info": "Ring-set .Can be worn separate .",
+        "SPEC_Brand Description": "Pierre Cardin\u2019s world is made from multiple things.Fashion, accessories, jewelry, fragrances, furniture, theater costumes, tableware\u2026Such is the innovating world of Pierre Cardin\u2019s brand.Geometric shapes related to the blending of traditional and new synthetic fabrics to create unique and inimitable lines, recognized all around the world.Everything represents an inexhaustible source of inspiration to the designer: Japan and China\u2019s lifestyle during the 60\u2019s and 70\u2019s, all amazing and unusual encounters, everyday life, but also the social, cultural and industrial evolutions and revolutions.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcrg00002d180_48z162.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-11-10T11:18:03"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcrg00002d180_ub0ov4.jpg",
+                "ImageUpdateUTC": "2017-01-23T15:41:50"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-7221",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190069884",
+        "Title": "EARRING FRONT/BACK BUTTERFLY ZIRCONIUM",
+        "Description": "EARRING FRONT/BACK BUTTERFLY ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 65,
+        "Price": 41.4,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Weight-Gram": "4",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Length-cm": "2",
+        "SPEC_Width-cm": "1",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7221_pke0oz.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-03-30T08:52:54"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7221_5xlij0.jpg",
+                "ImageUpdateUTC": "2016-05-12T17:00:27"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7221_mngdz9.jpg",
+                "ImageUpdateUTC": "2016-05-12T17:00:29"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7221_z61phb.jpg",
+                "ImageUpdateUTC": "2016-05-18T09:57:56"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7221_woiu70.jpg",
+                "ImageUpdateUTC": "2017-03-28T09:32:43"
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-4823",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470245744",
+        "Title": "PENDANT WITH CHAIN 925 SILVER GLASS -GOLD SANDSTONE ZIRCONIUM",
+        "Description": "PENDANT WITH CHAIN 925 SILVER GLASS -GOLD SANDSTONE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 99,
+        "Price": 44.1,
+        "PriceUpdateUTC": null,
+        "Stock": 5,
+        "StockUpdateUTC": "2018-03-14T23:44:27.663",
+        "SPEC_Weight-Gram": "4.1",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "White",
+        "SPEC_Material_type": "Glass",
+        "SPEC_Material_color": "Gold",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "4",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "1.6",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "Orange",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4823_2xxy7q.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-07-05T11:22:51"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4823_jr2qft.jpg",
+                "ImageUpdateUTC": "2017-03-10T09:39:49"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4823_b68dg7.jpg",
+                "ImageUpdateUTC": "2017-03-10T09:39:49"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5253",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470252421",
+        "Title": "OORHANGER ZIRCONIUM",
+        "Description": "OORHANGER ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 29,
+        "Price": 19.43,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-14T23:44:27.663",
+        "SPEC_Weight-Gram": "2.4000",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Length-cm": "1.6",
+        "SPEC_Width-cm": "0.6",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zo-5253.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5253_t3wqy2.jpg",
+                "ImageUpdateUTC": "2017-03-31T10:25:28"
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-4775",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470213217",
+        "Title": "PENDANT WITH CHAIN DOUBLE LOOP 925 SILVER MICRO PAVE ZIRCONIUM",
+        "Description": "PENDANT WITH CHAIN DOUBLE LOOP 925 SILVER MICRO PAVE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 119,
+        "Price": 71.1,
+        "PriceUpdateUTC": null,
+        "Stock": 2,
+        "StockUpdateUTC": "2018-03-14T23:44:27.663",
+        "SPEC_Weight-Gram": "2.8258",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Height-cm": "3.6",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "1.5",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zh-4775_1.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4775_fwblf7.jpg",
+                "ImageUpdateUTC": "2017-03-09T11:56:43"
+            }
+        ]
+    },
+    {
+        "SKU": "ESRG12856A160",
+        "ParentSKU": "ESRG12856A1",
+        "Category": "Jewellery",
+        "EAN": "4891945217013",
+        "Title": "Esprit Steel Exclusive Silver",
+        "Description": "Esprit Steel Exclusive Silver",
+        "Brand": "Esprit Steel",
+        "RRP": 39.9,
+        "Price": 23.44,
+        "PriceUpdateUTC": null,
+        "Stock": 3,
+        "StockUpdateUTC": "2018-03-14T23:50:20.053",
+        "SPEC_Model_Name": "Exclusive",
+        "SPEC_Weight-Gram": "3",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Ring_size": "50",
+        "SPEC_Width-cm": "1.4",
+        "SPEC_Gem_shape": "Round",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Gem_quantity": "12",
+        "SPEC_Brand Description": "Modern, always stylish, full of life and yet so beautifully - that's Esprit. And that's what you appreciate and love.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esrg12856a160_39sw2d.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-04-26T15:39:08"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esrg12856a160_y84v91.jpg",
+                "ImageUpdateUTC": "2017-04-26T15:39:23"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esrg12856a160_5b75th.jpg",
+                "ImageUpdateUTC": "2017-04-26T15:39:25"
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-4525",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470096025",
+        "Title": "PENDANT  SATIN",
+        "Description": "PENDANT  SATIN",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 59,
+        "Price": 27,
+        "PriceUpdateUTC": null,
+        "Stock": 5,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Weight-Gram": "6.8000",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "4.5",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "3",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4525_qephky.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-05-04T10:04:58"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4525_zqtq6s.jpg",
+                "ImageUpdateUTC": "2017-04-14T10:25:56"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3890/50",
+        "ParentSKU": "ZR-3890",
+        "Category": "Jewellery",
+        "EAN": "5400470244099",
+        "Title": "RING TRIO ROSE T/T ZIRCONIUM",
+        "Description": "RING TRIO ROSE T/T ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 299,
+        "Price": 130.5,
+        "PriceUpdateUTC": null,
+        "Stock": 2,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Weight-Gram": "10.0100",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "50",
+        "SPEC_Width-cm": "1.2",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-389050_uqvwbg.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-389050_pz4dcb.jpg",
+                "ImageUpdateUTC": "2017-09-05T10:40:01"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-389050_6vrwm8.jpg",
+                "ImageUpdateUTC": "2017-09-05T10:40:08"
+            }
+        ]
+    },
+    {
+        "SKU": "S-R46B54",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4040662601791",
+        "Title": "JL RING SS SWAROVSKI KRISTAL",
+        "Description": "JL RING SS SWAROVSKI KRISTAL",
+        "Brand": "JACQUES LEMANS",
+        "RRP": 59,
+        "Price": 59,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "54",
+        "SPEC_Gem_color": "White",
+        "SPEC_Brand Description": "Extravagant and exclusive - this is how the jewelery of Jacques Lemans presents itself.  Sparkling Swarovski crystals in trendy colors harmonize perfectly with artistic designs and high-quality workmanship. The individual parts of the collections can be combined in a variety of ways and can be expanded individually.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/s-r46b54.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-4790",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470243597",
+        "Title": "PENDANT WITH CHAIN 925 SILVER AND ROSEPLATED ZIRCONIUM",
+        "Description": "PENDANT WITH CHAIN 925 SILVER AND ROSEPLATED ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 59,
+        "Price": 28.26,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-14T23:44:27.663",
+        "SPEC_Weight-Gram": "2.7328",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Material_type": "Not Available",
+        "SPEC_Material_color": "Silver",
+        "SPEC_Clasp_type": "Spring ring clasp",
+        "SPEC_Height-cm": "2.5",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "2.5",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4790_1az1kk.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-07-05T14:39:50"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zh-4790.jpg",
+                "ImageUpdateUTC": "2017-03-09T13:00:39"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4790_vf7wzg.jpg",
+                "ImageUpdateUTC": "2017-03-09T13:00:39"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3829/54",
+        "ParentSKU": "ZR-3829",
+        "Category": "Jewellery",
+        "EAN": "5400470174648",
+        "Title": "RING LUXE PAVE ZIRCONIUM",
+        "Description": "RING LUXE PAVE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 99,
+        "Price": 35.1,
+        "PriceUpdateUTC": null,
+        "Stock": 3,
+        "StockUpdateUTC": "2018-03-14T23:51:04.307",
+        "SPEC_Weight-Gram": "4.5",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Ring_size": "54",
+        "SPEC_Width-cm": "1.5",
+        "SPEC_Gem_type": "Cubic Zirconia",
+        "SPEC_Diamond_setting": "Pav\u00e9 Setting",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-382954_9p4yyv.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-382954_nb3vk8.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-382954_js7hf2.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-382954_xylasb.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-382954_xo77at.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-4760",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470178172",
+        "Title": "PENDANT WITH CHAIN 925 SILVER ZIRCONIUM",
+        "Description": "PENDANT WITH CHAIN 925 SILVER ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 59,
+        "Price": 35.1,
+        "PriceUpdateUTC": null,
+        "Stock": 4,
+        "StockUpdateUTC": "2018-03-14T23:44:27.663",
+        "SPEC_Weight-Gram": "5.0000",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "White",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "2.5",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "1",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zh-4760.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zh-4760_3.jpg",
+                "ImageUpdateUTC": "2017-03-09T12:39:12"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zh-4760_1.jpg",
+                "ImageUpdateUTC": "2017-03-09T12:39:12"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zh-4760_2.jpg",
+                "ImageUpdateUTC": "2017-03-09T12:39:12"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4760_5gdmn1.jpg",
+                "ImageUpdateUTC": "2017-03-09T12:39:12"
+            }
+        ]
+    },
+    {
+        "SKU": "R-2088/58",
+        "ParentSKU": "R-2088",
+        "Category": "Jewellery",
+        "EAN": "5400470078731",
+        "Title": "RING MICRO SETTING OVAL LINES ZIRC",
+        "Description": "RING MICRO SETTING OVAL LINES ZIRC",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 99,
+        "Price": 36.54,
+        "PriceUpdateUTC": null,
+        "Stock": 3,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Weight-Gram": "3.5",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "zilver",
+        "SPEC_Ring_size": "58",
+        "SPEC_Width-cm": "1.3",
+        "SPEC_Gem_type": "Zirkonia",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/r-208858_zay3q0.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ESRG11463A210",
+        "ParentSKU": "ESRG11463A2",
+        "Category": "Jewellery",
+        "EAN": "4891945821159",
+        "Title": "Esprit Steel Rocks Xl",
+        "Description": "Esprit Steel Rocks Xl",
+        "Brand": "Esprit Steel",
+        "RRP": 39.9,
+        "Price": 25.94,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Model_Name": "Rocks Xl",
+        "SPEC_Weight-Gram": "15",
+        "SPEC_Target_audience": "Men",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Ring_size": "66",
+        "SPEC_Width-cm": "1.2",
+        "SPEC_Brand Description": "Modern, always stylish, full of life and yet so beautifully - that's Esprit. And that's what you appreciate and love.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esrg11463a210_olxt8f.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esrg11463a210_5izldo.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ESBA91052B600",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945885748",
+        "Title": "Esprit S925 Fancy Work Gold",
+        "Description": "Esprit S925 Fancy Work Gold",
+        "Brand": "Esprit Silver",
+        "RRP": 129.9,
+        "Price": 70.15,
+        "PriceUpdateUTC": null,
+        "Stock": 4,
+        "StockUpdateUTC": "2018-03-14T23:43:31.937",
+        "SPEC_Model_Name": "Fancy Work",
+        "SPEC_Model Name": "Fancy Work",
+        "SPEC_Weight-Gram": "16.8",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Bangle",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Gold",
+        "SPEC_Clasp_type": "Push button clasp",
+        "SPEC_Length-cm": "60",
+        "SPEC_Width-cm": "0.45",
+        "SPEC_Diameter-cm": "6",
+        "SPEC_Brand Description": "Modern, always stylish, full of life and yet so beautifully - that's Esprit. And that's what you appreciate and love.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esba91052b600_1d06me.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "A03711017",
+        "ParentSKU": "A0371101",
+        "Category": "Jewellery",
+        "EAN": "4050459045974",
+        "Title": "Tamaris Simona Ring Stahl IP gold, Glasstein kristall, Gr 58",
+        "Description": "Tamaris Simona Ring Stahl IP gold, Glasstein kristall, Gr 58",
+        "Brand": "Tamaris",
+        "RRP": 54.95,
+        "Price": 22.23,
+        "PriceUpdateUTC": null,
+        "Stock": 2,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Model_Name": "Simona",
+        "SPEC_Weight-Gram": "24",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Metal Color": "Gold",
+        "SPEC_Ring_size": "53",
+        "SPEC_Width-cm": "2.1",
+        "SPEC_Gem_shape": "Square",
+        "SPEC_Gem_type": "Glass stone",
+        "SPEC_Gem_color": "Silver shade",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a03711017_rpqfj.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a03711017.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a03711017_1.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a03711017_2.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a03711017_lswes.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a03711017_3iivt.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a03711017_jtk1b.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a03711017_3xsfo.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3604-GOLD/54",
+        "ParentSKU": "ZR-3604-GOLD",
+        "Category": "Jewellery",
+        "EAN": "5400470121642",
+        "Title": "RING PAVE CROSS LINE ZIRCONIUM 70 STONES",
+        "Description": "RING PAVE CROSS LINE ZIRCONIUM 70 STONES",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 69,
+        "Price": 44.55,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-03-14T23:44:27.663",
+        "SPEC_Weight-Gram": "9.5",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "54",
+        "SPEC_Width-cm": "1.4",
+        "SPEC_Gem_quantity": "70",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-3604-gold54_hj3fm2.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3809/56",
+        "ParentSKU": "ZR-3809",
+        "Category": "Jewellery",
+        "EAN": "5400470173658",
+        "Title": "RING TOP PAVE ZIRCONIUM",
+        "Description": "RING TOP PAVE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 139,
+        "Price": 40.5,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-03-15T00:10:57.723",
+        "SPEC_Weight-Gram": "3.3",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Ring_size": "56",
+        "SPEC_Width-cm": "0.6",
+        "SPEC_Gem_type": "Cubic Zirconia",
+        "SPEC_Diamond_setting": "Pav\u00e9 Setting",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-380956_gcnrd7.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/t661p6t6_zr-380956.jpg",
+                "ImageUpdateUTC": "2018-03-07T10:53:47"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ifv5dzd3_zr-380956.jpg",
+                "ImageUpdateUTC": "2018-03-07T10:53:53"
+            }
+        ]
+    },
+    {
+        "SKU": "WC162175",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470647647",
+        "Title": "OMEGA 42 CM",
+        "Description": "OMEGA 42 CM",
+        "Brand": "ORPHELIA STEEL/OTHER",
+        "RRP": 49,
+        "Price": 23.85,
+        "PriceUpdateUTC": null,
+        "Stock": 5,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Chain without Pendant",
+        "SPEC_Metal_type": "Gold Plated Metal",
+        "SPEC_Metal Color": "Gold",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "42",
+        "SPEC_Width-cm": "0.12"
+    },
+    {
+        "SKU": "OR11718",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081909",
+        "Title": "ORPHELIA Women Analogue Watch Glitz Black Leather",
+        "Description": "ORPHELIA Women Analogue Watch Glitz Black Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Model Name": "Glitz",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather imitation",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "14",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "38",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Bezel_Function": "Stone settings",
+        "SPEC_Gem_Type": "Zirkonia",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "80",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/s9vcgzkt_11718.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:34:02"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/wi259a9r_11718.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:24:54"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/kc51143u_or11718.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:24:54"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1p4jcpkw_11718.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:24:54"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/4mg38snz_11718.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:24:54"
+            }
+        ]
+    },
+    {
+        "SKU": "MTP-1335PD-1AV",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4971850070559",
+        "Title": "Casio Collection",
+        "Description": "Casio Collection",
+        "Brand": "CASIO",
+        "RRP": 69.9,
+        "Price": 40.9,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Model Name": "Collection",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Features_2": "Luminous Numerals",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "38",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Bezel_Material_Type": "Stainless steel",
+        "SPEC_Clasp_Type": "Fold over clasp with double push button safety",
+        "SPEC_Weight_g": "107",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "SR626SW",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/mtp-1335pd-1av_p7h930.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/mtp-1335pd-1av_ipar9a.jpg",
+                "ImageUpdateUTC": "2016-12-06T08:50:15"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/mtp-1335pd-1av_xu8aor.jpg",
+                "ImageUpdateUTC": "2016-11-09T10:54:29"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/mtp-1335pd-1av_mk33uo.jpg",
+                "ImageUpdateUTC": "2016-11-09T10:54:29"
+            }
+        ]
+    },
+    {
+        "SKU": "OR11721",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081930",
+        "Title": "ORPHELIA Women Analogue Watch Crystal White Leather",
+        "Description": "ORPHELIA Women Analogue Watch Crystal White Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Model Name": "Crystal",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "White",
+        "SPEC_Band_Width_mm": "14",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "38",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "32",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/kuwz12uf_11721.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-12-19T09:39:21"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/dg57owvu_11721.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:13:34"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/5ksyp8sh_or11721.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:13:34"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/asi4cakn_11721.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:13:34"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/i1qaacdj_11721.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:13:34"
+            }
+        ]
+    },
+    {
+        "SKU": "OR52702",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082234",
+        "Title": "ORPHELIA Unisex Analogue Watch Unico Black Stainless steel",
+        "Description": "ORPHELIA Unisex Analogue Watch Unico Black Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 109,
+        "Price": 109,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Model Name": "Unico",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Black",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "36",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Clasp_Type": "Magnetic Clasp",
+        "SPEC_Weight_g": "114",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rqcv437f_52702.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:34:00"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/9giis87f_52702.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:02:50"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/gc2mg9ab_52702.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:02:50"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/v2lvbwc1_or52702.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:02:50"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/c48ovisu_52702.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:02:50"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/illozs7a_52702.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:02:50"
+            }
+        ]
+    },
+    {
+        "SKU": "OR81603",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190073515",
+        "Title": "ORPHELIA Mens Chronograph Watch Rucerna Brown Leather",
+        "Description": "ORPHELIA Mens Chronograph Watch Rucerna Brown Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 199,
+        "Price": 199,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Model Name": "Rucerna",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Chronograph",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_Features_2": "Stopwatch",
+        "SPEC_Features_3": "Tachymeter",
+        "SPEC_Features_4": "Luminous Hand",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "21",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Diameter_mm": "44",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Bezel_Function": "Tachymeter",
+        "SPEC_Bezel_Material_Type": "Stainless steel",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "60",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "371",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81603_674ga.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-12-05T11:03:58"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81603_ogaff.jpg",
+                "ImageUpdateUTC": "2018-03-14T14:50:01"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/sw3jxwst_or81603.jpg",
+                "ImageUpdateUTC": "2018-03-14T14:50:01"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/cyoob7do_81603.jpg",
+                "ImageUpdateUTC": "2018-03-14T14:50:01"
+            }
+        ]
+    },
+    {
+        "SKU": "OR11707",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081794",
+        "Title": "ORPHELIA Women Analogue Watch Fronte di marmo Blue Leather",
+        "Description": "ORPHELIA Women Analogue Watch Fronte di marmo Blue Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 79,
+        "Price": 79,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Model Name": "Fronte di marmo",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Mother of pearl",
+        "SPEC_Band_Material": "Leather imitation",
+        "SPEC_Band_Color": "Blue",
+        "SPEC_Band_Width_mm": "17",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "36",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "64",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/t3wmu4sr_11707.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:34:01"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/3pbxw7tz_11707.jpg",
+                "ImageUpdateUTC": "2018-03-14T15:31:36"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/de1hsevq_or11707.jpg",
+                "ImageUpdateUTC": "2018-03-14T15:31:36"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ti5dqxll_11707.jpg",
+                "ImageUpdateUTC": "2018-03-14T15:31:36"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/lxlyeg62_11707.jpg",
+                "ImageUpdateUTC": "2018-03-14T15:31:36"
+            }
+        ]
+    },
+    {
+        "SKU": "OR51706",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082166",
+        "Title": "ORPHELIA Unisex Analogue Watch Suede Green Leather",
+        "Description": "ORPHELIA Unisex Analogue Watch Suede Green Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Model Name": "Suede",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Green",
+        "SPEC_Band_Material": "Leather imitation",
+        "SPEC_Band_Color": "Green",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "80",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "Images": [
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zczkv7d1_51706.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T10:00:54"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/u68d5vec_51706.jpg",
+                "ImageUpdateUTC": "2018-03-14T15:21:15"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/gdvs4x4z_or51706.jpg",
+                "ImageUpdateUTC": "2018-03-14T15:21:15"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/2xyjiyi5_51706.jpg",
+                "ImageUpdateUTC": "2018-03-14T15:21:15"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/bunrxwao_51706.jpg",
+                "ImageUpdateUTC": "2018-03-14T15:21:15"
+            }
+        ]
+    },
+    {
+        "SKU": "WC155597",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945192457",
+        "Title": "Pierre Cardin Picpus Gold Brown Swiss Made",
+        "Description": "Pierre Cardin Picpus Gold Brown Swiss Made",
+        "Brand": "Pierre Cardin",
+        "RRP": 160,
+        "Price": 72,
+        "PriceUpdateUTC": null,
+        "Stock": 2,
+        "StockUpdateUTC": "2018-03-14T23:50:20.053",
+        "SPEC_Model Name": "Picpus",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Swiss Made",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "21",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "44",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "63",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "SR920SW"
+    },
+    {
+        "SKU": "OR12707",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081763",
+        "Title": "ORPHELIA Women Analogue Watch The Minimalist Silver Stainless steel",
+        "Description": "ORPHELIA Women Analogue Watch The Minimalist Silver Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 79,
+        "Price": 79,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Model Name": "The Minimalist",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "14",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "32",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "154",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1x7uggjr_12707.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:33:58"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/jq1eu4kn_12707.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:36:33"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/bp1u8p97_or12707.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:36:33"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/x591hxnl_12707.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:36:33"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pdxnqcsi_12707.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:36:33"
+            }
+        ]
+    },
+    {
+        "SKU": "OR11700",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081343",
+        "Title": "ORPHELIA Women Analogue Watch White Leather",
+        "Description": "ORPHELIA Women Analogue Watch White Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 129,
+        "Price": 129,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Model Name": "Hermosa",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "White",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "36",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Gem_Type": "Swarovski-Crystal",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "40",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/11700_lpjw7y.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-10-18T12:13:17"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/11700_v44048.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:31:06"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/9hs9fn56_or11700.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:31:06"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/11700_l7aojh.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:31:06"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/11700_oylfsm.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:31:06"
+            }
+        ]
+    },
+    {
+        "SKU": "OR51705",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082159",
+        "Title": "ORPHELIA Unisex Analogue Watch Suede Blue Leather",
+        "Description": "ORPHELIA Unisex Analogue Watch Suede Blue Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Model Name": "Suede",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Leather imitation",
+        "SPEC_Band_Color": "Blue",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "80",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/75pl9oc2_51705.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:34:01"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/p25lmta3_51705.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:56:40"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/sis9sacz_or51705.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:56:40"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/bpsm8ddd_51705.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:56:40"
+            },
+            {
+                "ImageSort": 7,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/bktgrpb9_51705.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:56:40"
+            }
+        ]
+    },
+    {
+        "SKU": "SNXF09K",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190021448",
+        "Title": "SEIKO HEREN AUTOMATIC",
+        "Description": "SEIKO HEREN AUTOMATIC",
+        "Brand": "SEIKO",
+        "RRP": 149,
+        "Price": 89.91,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Automatic",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "17",
+        "SPEC_Band_Length_cm": "18",
+        "SPEC_Case_Diameter_mm": "37",
+        "SPEC_Case_Thickness_mm": "15",
+        "SPEC_Clasp_Type": "Fold over clasp",
+        "SPEC_Weight_g": "91",
+        "SPEC_Dial_Window_Material": "Special hardened crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/snxf09k.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/s087_1.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/s087_2.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/s087_3.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "OR11723",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081954",
+        "Title": "ORPHELIA Women Analogue Watch Crystal Grey Leather",
+        "Description": "ORPHELIA Women Analogue Watch Crystal Grey Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Model Name": "Crystal",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Rose gold",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Grey",
+        "SPEC_Band_Width_mm": "14",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "38",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "32",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/y6lt8nrr_11723.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-12-19T09:39:53"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ullkgrlg_11723.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:42:21"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/9l9j2gik_or11723.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:42:21"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/bir5z9m4_11723.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:42:21"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/cutwyqcg_11723.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:42:21"
+            }
+        ]
+    },
+    {
+        "SKU": "OR11716",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081886",
+        "Title": "ORPHELIA Women Analogue Watch Fashion Gold Leather",
+        "Description": "ORPHELIA Women Analogue Watch Fashion Gold Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 79,
+        "Price": 79,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Model Name": "Fashion",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Leather imitation",
+        "SPEC_Band_Color": "Yellow Gold",
+        "SPEC_Band_Width_mm": "16",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "34",
+        "SPEC_Case_Thickness_mm": "7",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "56",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/hf5e36wu_11716.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:34:00"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/yew2m45o_11716.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:47:44"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/544wo7st_or11716.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:47:44"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/9c2kuuxh_11716.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:47:44"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/yde9cupb_11716.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:47:44"
+            }
+        ]
+    },
+    {
+        "SKU": "OR12602",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190073225",
+        "Title": "ORPHELIA Ladies Analogue Watch Opulent Chic  Black Stainless steel",
+        "Description": "ORPHELIA Ladies Analogue Watch Opulent Chic  Black Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 75,
+        "Price": 75,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Model Name": "Opulent Chic ",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": null,
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Black",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "16",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "33",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Clasp_Type": "Bangle bracelet clasp",
+        "SPEC_Weight_g": "90",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/12602_ile7gz.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-10-31T11:32:12"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/12602_2jfdg.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:11:05"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/nwrtw15x_or12602.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:11:05"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tapz5yix_12602.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:11:05"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tfqcn5fl_12602.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:11:05"
+            }
+        ]
+    },
+    {
+        "SKU": "OR12603",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190073232",
+        "Title": "ORPHELIA Ladies Analogue Watch Opulent Chic   Stainless steel",
+        "Description": "ORPHELIA Ladies Analogue Watch Opulent Chic   Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 75,
+        "Price": 75,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Model Name": "Opulent Chic ",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": null,
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Rose gold",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": null,
+        "SPEC_Band_Width_mm": "16",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "33",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Clasp_Type": "Bangle bracelet clasp",
+        "SPEC_Weight_g": "90",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/12603_st07v0.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-10-31T11:54:38"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/12603_idwxw.jpg",
+                "ImageUpdateUTC": "2018-03-14T15:27:42"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/k3akduka_12603.jpg",
+                "ImageUpdateUTC": "2018-03-14T15:27:42"
+            },
+            {
+                "ImageSort": 12,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/cbzjjkbx_12603.jpg",
+                "ImageUpdateUTC": "2018-03-14T15:27:42"
+            },
+            {
+                "ImageSort": 13,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/sgxzw73z_12603.jpg",
+                "ImageUpdateUTC": "2018-03-14T15:27:42"
+            }
+        ]
+    },
+    {
+        "SKU": "WC156395",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "0091661474514",
+        "Title": "Guess Watch Perry",
+        "Description": "Guess Watch Perry",
+        "Brand": "Guess",
+        "RRP": 114,
+        "Price": 71.1,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467",
+        "SPEC_Model Name": "Perry",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Black",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Rubber",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "64",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "SR920SW",
+        "SPEC_Product Description": "This gents Guess Perry watch has a black ion-plated steel case and is powered by a quartz movement. It fastens a black rubber strap and has a black dial. The watch also has a date function."
+    },
+    {
+        "SKU": "OR81604",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190073522",
+        "Title": "ORPHELIA Mens Chronograph Watch Rucerna Brown Leather",
+        "Description": "ORPHELIA Mens Chronograph Watch Rucerna Brown Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 199,
+        "Price": 199,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Model Name": "Rucerna",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Chronograph",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_Features_2": "Stopwatch",
+        "SPEC_Features_3": "Tachymeter",
+        "SPEC_Features_4": "Luminous Hand",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Brown",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "21",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Diameter_mm": "44",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Bezel_Function": "Tachymeter",
+        "SPEC_Bezel_Material_Type": "Stainless steel",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "60",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "371",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81604_zgwj3.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-12-05T11:03:57"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81604_d4qq3.jpg",
+                "ImageUpdateUTC": "2016-12-05T11:12:36"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/e6mreayq_or81604.jpg",
+                "ImageUpdateUTC": "2018-03-14T13:58:29"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/qfxprq1u_or81604.jpg",
+                "ImageUpdateUTC": "2018-03-14T13:59:11"
+            }
+        ]
+    },
+    {
+        "SKU": "OR52700",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082210",
+        "Title": "ORPHELIA Unisex Analogue Watch Unico Silver Stainless steel",
+        "Description": "ORPHELIA Unisex Analogue Watch Unico Silver Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 109,
+        "Price": 109,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Model Name": "Unico",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "36",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Clasp_Type": "Magnetic Clasp",
+        "SPEC_Weight_g": "114",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/s2wbopja_52700.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:33:59"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/4lvepnsl_52700.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:52:04"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/s76cf6kp_52700.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:52:04"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/bqfotnwx_or52700.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:52:04"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/w59ngkcj_52700.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:52:04"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/73rswwnj_52700.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:52:04"
+            }
+        ]
+    },
+    {
+        "SKU": "OR11708",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081787",
+        "Title": "ORPHELIA Women Analogue Watch Fronte di marmo Pink Leather",
+        "Description": "ORPHELIA Women Analogue Watch Fronte di marmo Pink Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 79,
+        "Price": 79,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Model Name": "Fronte di marmo",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Mother of pearl",
+        "SPEC_Band_Material": "Leather imitation",
+        "SPEC_Band_Color": "Pink",
+        "SPEC_Band_Width_mm": "17",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "36",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "64",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/r8sc77iy_11708.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:34:00"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ppyp2iik_11708.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:53:54"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/kwp1r3gm_or11708.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:53:54"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/runqmqkq_11708.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:53:54"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/gahbvstk_11708.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:53:54"
+            }
+        ]
+    },
+    {
+        "SKU": "OR11706",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081800",
+        "Title": "ORPHELIA Women Analogue Watch Fronte di marmo White Leather",
+        "Description": "ORPHELIA Women Analogue Watch Fronte di marmo White Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 79,
+        "Price": 79,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Model Name": "Fronte di marmo",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Mother of pearl",
+        "SPEC_Band_Material": "Leather imitation",
+        "SPEC_Band_Color": "White",
+        "SPEC_Band_Width_mm": "17",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "36",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "64",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tvo1osix_11706.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:34:00"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/w1mr2dlx_11706.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:23:32"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/3f64x9pk_or11706.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:23:32"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/v2d9afaa_11706.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:23:32"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/x1q6ck2n_11706.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:23:32"
+            }
+        ]
+    },
+    {
+        "SKU": "OR11702",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081350",
+        "Title": "ORPHELIA Women Analogue Watch Black Leather",
+        "Description": "ORPHELIA Women Analogue Watch Black Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 129,
+        "Price": 129,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-15T00:00:00.98",
+        "SPEC_Model Name": "Hermosa",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "36",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Gem_Type": "Swarovski-Crystal",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "40",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/11702_ssgp6w.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-10-18T12:18:30"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/11702_6z5weq.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:36:39"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tj9ecbwi_or11702.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:36:39"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/11702_b1i6dd.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:36:39"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/11702_b92z2z.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:36:39"
+            }
+        ]
+    },
+    {
+        "SKU": "WC157154",
+        "ParentSKU": null,
+        "Category": "Wedding Rings",
+        "EAN": "5400470252728",
+        "Title": "TROUWRING 9CT",
+        "Description": "TROUWRING 9CT",
+        "Brand": "FAIRBELLE",
+        "RRP": 145,
+        "Price": 90.9,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-03-14T23:42:42.467"
+    }
+]

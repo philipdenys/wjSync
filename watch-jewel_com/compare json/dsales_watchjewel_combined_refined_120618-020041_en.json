@@ -1,0 +1,377 @@
+[
+    {
+        "SKU": "ZO-6070",
+        "ListedSKU": "WC154442",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190019254",
+        "Title": "Orphelia Silver 925 Kids Earring Flower Blue Zirc",
+        "Description": "Orphelia Silver 925 Kids Earring Flower Blue Zirc",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 19,
+        "Price": 14.44,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-11T22:59:58.577",
+        "SPEC_Target_audience": "Child",
+        "SPEC_Weight-Gram": "1.1",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "White",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Height-cm": "0.6",
+        "SPEC_Width-cm": "0.6",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "Blue",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Kids Earring Flower Blue Zirc  ZO-6070",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Kids Earring Flower Blue Zirc  ZO-6070",
+        "SPEC_Fruugo Category": "Jewellery > Kids > Earring",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-6070_psr36g.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/5hki55lk_zo-6070.jpg",
+                "ImageUpdateUTC": "2018-06-11T09:53:58"
+            }
+        ]
+    },
+    {
+        "SKU": "1-1691G",
+        "ListedSKU": "WC155352",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4040662109310",
+        "Title": "JL Dames Sport",
+        "Description": "JL Dames Sport",
+        "Brand": "JACQUES LEMANS",
+        "RRP": 129,
+        "Price": 53.1,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-06-11T22:43:26.01",
+        "SPEC_Model Name": "Sport",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Blue",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "41",
+        "SPEC_Case_Thickness_mm": "10.5",
+        "SPEC_Bezel_Function": "Bezel with numbers",
+        "SPEC_Bezel_Material_Type": "Stainless steel",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "73.2",
+        "SPEC_Dial_Window_Material": "Special hardened crystal",
+        "SPEC_Brand Description": "Jacques Lemans is an international watch producer based in Carinthia/Austria. Milions of content customers in more than 120 countries worldwide love and trust their Jacques Lemans watches every single day.This enormous success is based on a clear-cut philosophy: best quality and manufacturing at an affordable price. Jacques Lemans watches are simply outstanding due to premium manufacturing, absolute reliability, innovative technique and stylish elegance.The various Jacques Lemans styles \u201eClassic\u201c, \u201eSport\u201c, \u201eLa Passion\u201c, \u201eHigh Tech Ceramic\u201c, \u201eAutomatic\u201c or \u201eRetro\u201c enjoy great popularity.From the initial idea to rough sketches, from final design to production, marketing and sales \u2013 Jacques Lemans is doing everything \u201ein-house\u201c, which is not only a slogan but truly lived corporate culture and therefore an immensely important part of the Jacques Lemans success Story.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1-1691g_thx1a.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "122-1728-17",
+        "ListedSKU": "WC155772",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190009620",
+        "Title": "ORPHELIA Analogue Watch Fantasia Pink Silicone",
+        "Description": "ORPHELIA Analogue Watch Fantasia Pink Silicone",
+        "Brand": "ORPHELIA",
+        "RRP": 79,
+        "Price": 79,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-11T22:52:30.84",
+        "SPEC_Model Name": "Fantasia",
+        "SPEC_Target_Audience": "Child",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Plastic",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Multicolour",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Pink",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "41",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Bezel_Function": "Other",
+        "SPEC_Bezel_Material_Type": "Plastic",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "42",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue Year": "2015",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-1728-17_aej8jb.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-1728-17_xbhmli.jpg",
+                "ImageUpdateUTC": "2017-03-14T10:47:29"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-1728-17_zfsy1.jpg",
+                "ImageUpdateUTC": "2017-03-14T10:47:29"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-1728-17_c0ru4.jpg",
+                "ImageUpdateUTC": "2017-03-14T10:47:29"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-1728-17_cpb8bu.jpg",
+                "ImageUpdateUTC": "2018-06-11T15:12:18"
+            }
+        ]
+    },
+    {
+        "SKU": "153-7709-88",
+        "ListedSKU": "WC155827",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190010299",
+        "Title": "ORPHELIA Mens Analogue Watch Galaxy Silver Stainless steel",
+        "Description": "ORPHELIA Mens Analogue Watch Galaxy Silver Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 199,
+        "Price": 199,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-11T22:52:30.84",
+        "SPEC_Model Name": "Galaxy",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "39",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Clasp_Type": "Fold over clasp with double push button safety",
+        "SPEC_Weight_g": "105",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue Year": "2015",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-7709-88_bmcgz9.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-7709-88_jy8tk.jpg",
+                "ImageUpdateUTC": "2018-06-11T10:54:32"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-7709-88_b04z9.jpg",
+                "ImageUpdateUTC": "2018-06-11T10:54:32"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-7709-88_xw2by.jpg",
+                "ImageUpdateUTC": "2018-06-11T10:54:32"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-7709-88_tzxu2.jpg",
+                "ImageUpdateUTC": "2018-06-11T10:54:32"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/69t9zsfz_153-7709-88.jpg",
+                "ImageUpdateUTC": "2018-06-11T10:54:32"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/14n1goyt_153-7709-88.jpg",
+                "ImageUpdateUTC": "2018-06-11T10:54:32"
+            }
+        ]
+    },
+    {
+        "SKU": "153-7709-48",
+        "ListedSKU": "WC156361",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190010282",
+        "Title": "ORPHELIA Mens Analogue Watch Galaxy Silver Stainless steel",
+        "Description": "ORPHELIA Mens Analogue Watch Galaxy Silver Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 199,
+        "Price": 199,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-11T22:52:30.84",
+        "SPEC_Model Name": "Galaxy",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Grey",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "39",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Clasp_Type": "Fold over clasp with double push button safety",
+        "SPEC_Weight_g": "105",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue Year": "2015",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-7709-48_h7ui3o.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-7709-48_8pjpy.jpg",
+                "ImageUpdateUTC": "2018-06-11T10:52:56"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-7709-48_n8cfr.jpg",
+                "ImageUpdateUTC": "2018-06-11T10:52:56"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-7709-48_gqxs6.jpg",
+                "ImageUpdateUTC": "2018-06-11T10:52:56"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-7709-48_twy6j.jpg",
+                "ImageUpdateUTC": "2018-06-11T10:52:56"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/vb5d7949_153-7709-48.jpg",
+                "ImageUpdateUTC": "2018-06-11T10:52:56"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/thadxqot_153-7709-48.jpg",
+                "ImageUpdateUTC": "2018-06-11T10:52:56"
+            }
+        ]
+    },
+    {
+        "SKU": "153-2721-48",
+        "ListedSKU": "WC156932",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190010213",
+        "Title": "ORPHELIA Ladies Analogue Watch Positive Mood Silver Stainless steel",
+        "Description": "ORPHELIA Ladies Analogue Watch Positive Mood Silver Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 169,
+        "Price": 169,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-11T22:52:30.84",
+        "SPEC_Model Name": "Positive Mood",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Grey",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "18,5",
+        "SPEC_Case_Diameter_mm": "39",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Clasp_Type": "Fold over clasp with double push button safety",
+        "SPEC_Weight_g": "91",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue Year": "2015",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-2721-48_m8e54z.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-2721-48_fmlr5.jpg",
+                "ImageUpdateUTC": "2018-06-11T10:55:28"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-2721-48_nl4x2.jpg",
+                "ImageUpdateUTC": "2018-06-11T10:55:28"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-2721-48_4who1.jpg",
+                "ImageUpdateUTC": "2018-06-11T10:55:28"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-2721-48_8okcg.jpg",
+                "ImageUpdateUTC": "2018-06-11T10:55:28"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/dp6oo9ms_153-2721-48.jpg",
+                "ImageUpdateUTC": "2018-06-11T10:55:28"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/xu9ecitj_153-2721-48.jpg",
+                "ImageUpdateUTC": "2018-06-11T10:55:28"
+            }
+        ]
+    }
+]

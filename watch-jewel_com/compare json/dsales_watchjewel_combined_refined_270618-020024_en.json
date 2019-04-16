@@ -1,0 +1,293 @@
+[
+    {
+        "SKU": "1-1691G",
+        "ListedSKU": "WC155352",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4040662109310",
+        "Title": "JL Dames Sport",
+        "Description": "JL Dames Sport",
+        "Brand": "JACQUES LEMANS",
+        "RRP": 129,
+        "Price": 53.1,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-06-26T22:41:10.477",
+        "SPEC_FNSKU": "X000JI7Z9Z",
+        "SPEC_Model Name": "Sport",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Blue",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "41",
+        "SPEC_Case_Thickness_mm": "10.5",
+        "SPEC_Bezel_Function": "Bezel with numbers",
+        "SPEC_Bezel_Material_Type": "Stainless steel",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "73.2",
+        "SPEC_Dial_Window_Material": "Special hardened crystal",
+        "SPEC_Brand Description": "Jacques Lemans is an international watch producer based in Carinthia/Austria. Milions of content customers in more than 120 countries worldwide love and trust their Jacques Lemans watches every single day.This enormous success is based on a clear-cut philosophy: best quality and manufacturing at an affordable price. Jacques Lemans watches are simply outstanding due to premium manufacturing, absolute reliability, innovative technique and stylish elegance.The various Jacques Lemans styles \u201eClassic\u201c, \u201eSport\u201c, \u201eLa Passion\u201c, \u201eHigh Tech Ceramic\u201c, \u201eAutomatic\u201c or \u201eRetro\u201c enjoy great popularity.From the initial idea to rough sketches, from final design to production, marketing and sales \u2013 Jacques Lemans is doing everything \u201ein-house\u201c, which is not only a slogan but truly lived corporate culture and therefore an immensely important part of the Jacques Lemans success Story.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1-1691g_thx1a.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "539-6004-94",
+        "ListedSKU": "WC155550",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5400470197289",
+        "Title": "CLIPS Heren plastik lcd",
+        "Description": "CLIPS Heren plastik lcd",
+        "Brand": "Clips",
+        "RRP": 79,
+        "Price": 17.07,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-26T22:39:38.687",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Digital",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Light",
+        "SPEC_Features_2": "Stop Watch",
+        "SPEC_Features_3": "Alarm",
+        "SPEC_Features_4": "24-Hours display",
+        "SPEC_Calendar": "Day-Date-Month",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Plastic",
+        "SPEC_Case_Style": "Oval",
+        "SPEC_Case_color": "Multicolour",
+        "SPEC_Dial_Color": "Grey",
+        "SPEC_Band_Material": "Rubber",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Width_mm": "40",
+        "SPEC_Case_Length_mm": "50",
+        "SPEC_Case_Thickness_mm": "14",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "37.1",
+        "SPEC_Dial_Window_Material": "Plastic glas",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/539-6004-94.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/539-6004-94_1.jpg",
+                "ImageUpdateUTC": "2018-06-26T11:11:45"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/539-6004-94_2.jpg",
+                "ImageUpdateUTC": "2018-06-26T11:11:45"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/539-6004-94_3.jpg",
+                "ImageUpdateUTC": "2018-06-26T11:11:45"
+            }
+        ]
+    },
+    {
+        "SKU": "539-6001-84",
+        "ListedSKU": "WC162306",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5400470197265",
+        "Title": "CLIPS Heren plastik lcd",
+        "Description": "CLIPS Heren plastik lcd",
+        "Brand": "Clips",
+        "RRP": 89,
+        "Price": 19.94,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-26T22:39:38.687",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Digital",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Light",
+        "SPEC_Features_2": "Stop Watch",
+        "SPEC_Features_3": "Alarm",
+        "SPEC_Features_4": "24-Hours display",
+        "SPEC_Calendar": "Day-Date-Month",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Plastic",
+        "SPEC_Case_Style": "Tonneau",
+        "SPEC_Case_color": "Multicolour",
+        "SPEC_Dial_Color": "Grey",
+        "SPEC_Band_Material": "Rubber",
+        "SPEC_Band_Color": "Multicolour",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Width_mm": "40",
+        "SPEC_Case_Length_mm": "50",
+        "SPEC_Case_Thickness_mm": "14",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "39.4",
+        "SPEC_Dial_Window_Material": "Plastic glas",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/539-6001-84.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/539-6001-84_1.jpg",
+                "ImageUpdateUTC": "2018-06-26T10:48:00"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/539-6001-84_2.jpg",
+                "ImageUpdateUTC": "2018-06-26T10:48:00"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/539-6001-84_3.jpg",
+                "ImageUpdateUTC": "2018-06-26T10:48:00"
+            }
+        ]
+    },
+    {
+        "SKU": "OR62701",
+        "ListedSKU": "WC162367",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082036",
+        "Title": "ORPHELIA Men Analogue Watch Sterling Silver Stainless steel",
+        "Description": "ORPHELIA Men Analogue Watch Sterling Silver Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-26T22:54:11.03",
+        "SPEC_Model Name": "Sterling",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "255",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "SPEC_Product Description": "Orphelia",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2018",
+        "Images": [
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/msiuw7he_62701.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T10:03:54"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pnljgt9b_62701.jpg",
+                "ImageUpdateUTC": "2018-06-26T17:41:20"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/smo7iina_or62701.jpg",
+                "ImageUpdateUTC": "2018-06-26T17:41:20"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/x5pu6jxo_62701.jpg",
+                "ImageUpdateUTC": "2018-06-26T17:41:20"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/bsvs9vvf_62701.jpg",
+                "ImageUpdateUTC": "2018-06-26T17:41:20"
+            }
+        ]
+    },
+    {
+        "SKU": "557-1003-84",
+        "ListedSKU": "WC156480",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5400470212111",
+        "Title": "CLIPS DAMES ANA DIGI  (zilver)",
+        "Description": "CLIPS DAMES ANA DIGI  (zilver)",
+        "Brand": "Clips",
+        "RRP": 69.9,
+        "Price": 21.81,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-26T22:39:38.687",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Digital",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Alarm",
+        "SPEC_Features_2": "Dual Time",
+        "SPEC_Features_3": "Stop Watch",
+        "SPEC_Features_4": "24-Hours display",
+        "SPEC_Calendar": "Day-Date-Month-Year",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Plastic",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Multicolour",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Rubber",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "16",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "36",
+        "SPEC_Case_Thickness_mm": "14.8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "35.6",
+        "SPEC_Dial_Window_Material": "Plastic glas",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/557-1003-84.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/557-1003-84_1.jpg",
+                "ImageUpdateUTC": "2018-06-26T11:12:46"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/557-1003-84_2.jpg",
+                "ImageUpdateUTC": "2018-06-26T11:12:46"
+            }
+        ]
+    }
+]

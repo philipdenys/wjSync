@@ -1,0 +1,213 @@
+[
+    {
+        "SKU": "ASG-050",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470091921",
+        "Title": "Armband stainless steel 21 cm unisex",
+        "Description": "Armband stainless steel 21 cm unisex",
+        "Brand": "ORPHELIA STEEL/OTHER",
+        "RRP": 45,
+        "Price": 25,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-18T23:40:43.793",
+        "SPEC_Weight-Gram": "37",
+        "SPEC_Target_audience": "Unisex",
+        "SPEC_Jewel_type": "Bracelet",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Metal Color": "White",
+        "SPEC_Clasp_type": "Fold over clasp",
+        "SPEC_Length-cm": "21",
+        "SPEC_Width-cm": "1",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/asg-050_2.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/asg-050_ihajlt.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/asg-050.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/asg-050_1.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ESCH91257A000",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945381257",
+        "Title": "Esprit S925 Abi 2013",
+        "Description": "Esprit S925 Abi 2013",
+        "Brand": "Esprit Silver",
+        "RRP": 29.9,
+        "Price": 16.94,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-18T23:40:43.793",
+        "SPEC_Model_Name": "Abi 2013",
+        "SPEC_Model Name": "Abi 2013",
+        "SPEC_Weight-Gram": "2.9",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Charm",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Material_type": "Epoxy",
+        "SPEC_Material_color": "Red",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "0,5",
+        "SPEC_Width-cm": "2",
+        "SPEC_Brand Description": "Modern, always stylish, full of life and yet so beautifully - that's Esprit. And that's what you appreciate and love.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esch91257a000_v3vjx.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ESCO02003C000",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945219352",
+        "Title": "Esprit Brass Megara Rosegold",
+        "Description": "Esprit Brass Megara Rosegold",
+        "Brand": "Esprit Brass",
+        "RRP": 99.9,
+        "Price": 47.61,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-18T23:47:20.08",
+        "SPEC_Model_Name": "Megara",
+        "SPEC_Weight-Gram": "7.5",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Hoop Earrings",
+        "SPEC_Metal_type": "Brass",
+        "SPEC_Metal Color": "Rosegold",
+        "SPEC_Back_finding": "Lever back",
+        "SPEC_Height-cm": "1.7",
+        "SPEC_Width-cm": "0.8",
+        "SPEC_Gem_shape": "Round",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Gem_quantity": "150",
+        "SPEC_Brand Description": "Modern, always stylish, full of life and yet so beautifully - that's Esprit. And that's what you appreciate and love.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esco02003c000_wpnbob.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-04-20T08:37:38"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esco02003c000_yz55s0.jpg",
+                "ImageUpdateUTC": "2017-05-17T10:48:55"
+            }
+        ]
+    },
+    {
+        "SKU": "A00120300",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4050459050459",
+        "Title": "Tamaris Candy Collier mit synthetischem Katzenauge apricot, 75+5 cm",
+        "Description": "Tamaris Candy Collier mit synthetischem Katzenauge apricot, 75+5 cm",
+        "Brand": "Tamaris",
+        "RRP": 59.95,
+        "Price": 40.46,
+        "PriceUpdateUTC": null,
+        "Stock": 5,
+        "StockUpdateUTC": "2018-03-18T23:41:25.453",
+        "SPEC_Model_Name": "Candy",
+        "SPEC_Weight-Gram": "38",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Necklace",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "80",
+        "SPEC_Width-cm": "0.3",
+        "SPEC_Gem_shape": "Tear drop",
+        "SPEC_Gem_type": "Synthetic cat's eye",
+        "SPEC_Gem_color": "Apricot",
+        "SPEC_Gem_quantity": "1",
+        "SPEC_Chain Type": "Belcher",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a00120300_k664m.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a00120300_1.jpg",
+                "ImageUpdateUTC": "2016-09-15T14:35:58"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a00120300_x8opv.jpg",
+                "ImageUpdateUTC": "2016-09-15T14:35:58"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a00120300_7k36q.jpg",
+                "ImageUpdateUTC": "2016-09-15T14:35:58"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a00120300_skxdj.jpg",
+                "ImageUpdateUTC": "2016-09-15T14:35:58"
+            }
+        ]
+    },
+    {
+        "SKU": "WC155228",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945149543",
+        "Title": "Esprit Watch Digital Swap Black",
+        "Description": "Esprit Watch Digital Swap Black",
+        "Brand": "ESPRIT",
+        "RRP": 45,
+        "Price": 24.66,
+        "PriceUpdateUTC": null,
+        "Stock": 2,
+        "StockUpdateUTC": "2018-03-18T23:47:20.08",
+        "SPEC_Model Name": "Digital Swap",
+        "SPEC_Target_Audience": "Child",
+        "SPEC_Display_Type": "Digital",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date-Month",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Plastic",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Blue",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Plastic",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "19",
+        "SPEC_Band_Length_cm": "19",
+        "SPEC_Case_Diameter_mm": "33",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "30",
+        "SPEC_Dial_Window_Material": "Plastic glas",
+        "SPEC_Battery": "V392(MF)"
+    }
+]

@@ -1,0 +1,143 @@
+[
+    {
+        "SKU": "A-713/7",
+        "ListedSKU": "WC148514",
+        "ParentSKU": null,
+        "Category": "Alarm clocks",
+        "EAN": "5415190007220",
+        "Title": "Alarm Clock with Light/Snooze Blue",
+        "Description": "Alarm Clock with Light/Snooze Blue",
+        "Brand": "@TIME",
+        "RRP": 24.99,
+        "Price": 11.33,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-08-15T22:43:04.52",
+        "SPEC_BACKLIGHT": "YES",
+        "SPEC_BATTERY  TYPE": "1X AA",
+        "SPEC_COLOR": "BLUE",
+        "SPEC_RADIO CONTROLLED": "NO",
+        "SPEC_SIZE  W x D x H (mm)": "90 X 55 X 75",
+        "SPEC_SNOOZE FUNCTION": "YES",
+        "SPEC_TYPE ": "ANALOG",
+        "SPEC_WEIGHT  gram": "104",
+        "SPEC_Brand Description": "At Time is always inspiring, modern and timeless. In at TIME we present fashionable watches and alarm clocks for all occasions for men and women. at TIME Stands for many years of fine watches and alarm clocks of the highest quality at an unbeatable price-performance ratio and features in its range one of the largest collections of the entire industry. All watches from at TIME are delivered in a box. Let yourself be inspired. Give yourself a treat, or have a look, at the high-quality watches and alarm clocks from at TIME for your beloved & loved ones.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a-713/7.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a-713_7.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a-713_7_1.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ESNL92730A340",
+        "ListedSKU": "WC153891",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945409586",
+        "Title": "Esprit Silver Little Cross Silver",
+        "Description": "Esprit Silver Little Cross Silver",
+        "Brand": "Esprit Silver",
+        "RRP": 54.9,
+        "Price": 32.12,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-08-15T22:39:58.533",
+        "SPEC_Model_Name": "Little Cross",
+        "SPEC_Target_audience": "Girls",
+        "SPEC_Weight-Gram": "2.2",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "1.2",
+        "SPEC_Length-cm": "34",
+        "SPEC_Width-cm": "0.9",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl92730a340_reqe8i.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-04-26T12:19:32"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl92730a340_g95shc.jpg",
+                "ImageUpdateUTC": "2017-05-11T15:45:15"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl92730a340_v6kz23.jpg",
+                "ImageUpdateUTC": "2017-05-11T15:45:18"
+            }
+        ]
+    },
+    {
+        "SKU": "ESNL03448C420",
+        "ListedSKU": "WC153892",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945238667",
+        "Title": "Esprit Brass JW52882",
+        "Description": "Esprit Brass JW52882",
+        "Brand": "Esprit Brass",
+        "RRP": 79.9,
+        "Price": 44.1,
+        "PriceUpdateUTC": null,
+        "Stock": 3,
+        "StockUpdateUTC": "2018-08-15T22:39:58.533",
+        "SPEC_Model_Name": "JW52882",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "5.2",
+        "SPEC_Jewel_type": "Necklace",
+        "SPEC_Metal_type": "Brass",
+        "SPEC_Metal Color": "Rosegold",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "42",
+        "SPEC_Gem_shape": "Round",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Gem_quantity": "19",
+        "SPEC_Chain Type": "Rolo",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl03448c420_k1w33t.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-04-26T10:44:21"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl03448c420_k2kktf.jpg",
+                "ImageUpdateUTC": "2017-05-18T10:44:07"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl03448c420_abytv6.jpg",
+                "ImageUpdateUTC": "2017-05-18T10:44:09"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl03448c420_1p9h90.jpg",
+                "ImageUpdateUTC": "2017-05-18T10:44:10"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl03448c420_4ciyj8.jpg",
+                "ImageUpdateUTC": "2017-05-18T10:44:11"
+            }
+        ]
+    }
+]

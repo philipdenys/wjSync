@@ -1,0 +1,58 @@
+[
+    {
+        "SKU": "HK940-5",
+        "ListedSKU": "WC155351",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "7300000257248",
+        "Title": "Hello Kitty Watch Segami Pink",
+        "Description": "Hello Kitty Watch Segami Pink",
+        "Brand": "Hello Kitty",
+        "RRP": 19.95,
+        "Price": 14.88,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-13T22:51:23.523",
+        "SPEC_Model Name": "Segami Pink",
+        "SPEC_Target_Audience": "Child",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Alarm",
+        "SPEC_Case_material": "Plastic",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Pink",
+        "SPEC_Dial_Color": "Pink",
+        "SPEC_Case_Diameter_mm": "80",
+        "SPEC_Case_Thickness_mm": "32",
+        "SPEC_Weight_g": "85.5",
+        "SPEC_Dial_Window_Material": "Plastic glas",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/hk940-5.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/hk940-5_3.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/hk940-5_4.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/hk940-5_2.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/hk940-5_1.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    }
+]

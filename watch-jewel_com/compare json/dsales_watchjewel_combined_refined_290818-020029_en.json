@@ -1,0 +1,112 @@
+[
+    {
+        "SKU": "HK940-5",
+        "ListedSKU": "WC155351",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "7300000257248",
+        "Title": "Hello Kitty Watch Segami Pink",
+        "Description": "Hello Kitty Watch Segami Pink",
+        "Brand": "Hello Kitty",
+        "RRP": 19.95,
+        "Price": 14.88,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-08-28T22:47:25.79",
+        "SPEC_FNSKU": "X000AV521J",
+        "SPEC_Model Name": "Segami Pink",
+        "SPEC_Target_Audience": "Child",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Alarm",
+        "SPEC_Case_material": "Plastic",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Pink",
+        "SPEC_Dial_Color": "Pink",
+        "SPEC_Case_Diameter_mm": "80",
+        "SPEC_Case_Thickness_mm": "32",
+        "SPEC_Weight_g": "85.5",
+        "SPEC_Dial_Window_Material": "Plastic glas",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/hk940-5.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/hk940-5_3.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/hk940-5_4.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/hk940-5_2.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/hk940-5_1.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-7226/CI/1",
+        "ListedSKU": "WC150954",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190078602",
+        "Title": "PENDANT DROP WITH CHAIN 42+3 CM 925 SILVER CHAMPAGNE COLOR ZIRCONIUM",
+        "Description": "PENDANT DROP WITH CHAIN 42+3 CM 925 SILVER CHAMPAGNE COLOR ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 49,
+        "Price": 30.6,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-08-28T22:38:48.85",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "3",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "2",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "0.8",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "Orange",
+        "SPEC_Ring type": "Ring without stones",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Pendant Drop With Chain 42+3 Cm Champagne Color Zirconium  ZH-7226/CI/1",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Pendant Drop With Chain 42+3 Cm Champagne Color Zirconium  ZH-7226/CI/1",
+        "SPEC_Fruugo Category": "Jewellery > Women > Pendant",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-7226ci1_v3uh7q.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-08-17T12:18:55"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-7226ci1_zygh1z.jpg",
+                "ImageUpdateUTC": "2018-08-28T14:07:10"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-7226ci1_5prc55.jpg",
+                "ImageUpdateUTC": "2018-08-28T14:07:10"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-7226ci1_93b7ei.jpg",
+                "ImageUpdateUTC": "2018-08-28T14:07:10"
+            }
+        ]
+    }
+]

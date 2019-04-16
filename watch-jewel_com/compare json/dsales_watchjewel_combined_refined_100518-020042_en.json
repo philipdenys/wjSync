@@ -1,0 +1,849 @@
+[
+    {
+        "SKU": "OR81704",
+        "ListedSKU": "WC162237",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081541",
+        "Title": "ORPHELIA Men Chronograph Watch Brown Leather",
+        "Description": "ORPHELIA Men Chronograph Watch Brown Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 199,
+        "Price": 199,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-09T22:56:25.17",
+        "SPEC_Model Name": "Master",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Chronograph",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Features_2": "Luminous Numerals",
+        "SPEC_Features_3": "Stopwatch",
+        "SPEC_Features_4": "24-Hours display",
+        "SPEC_Features_5": "Tachymeter",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "14",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "90",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/hydnu5pf_81704.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T13:54:30"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81704_2vxafs.jpg",
+                "ImageUpdateUTC": "2018-05-09T09:44:23"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/krpw8mwm_or81704.jpg",
+                "ImageUpdateUTC": "2018-05-09T09:44:23"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/q281h33u_or81704.jpg",
+                "ImageUpdateUTC": "2018-05-09T09:44:23"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a54tqg7e_or81704.jpg",
+                "ImageUpdateUTC": "2018-05-09T09:44:23"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/nw5of4at_or81704.jpg",
+                "ImageUpdateUTC": "2018-05-09T09:44:23"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/6xcmv3dt_or81704.jpg",
+                "ImageUpdateUTC": "2018-05-09T09:44:23"
+            },
+            {
+                "ImageSort": 7,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81704_h6iaps.jpg",
+                "ImageUpdateUTC": "2018-05-09T09:44:23"
+            },
+            {
+                "ImageSort": 8,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81704_3wpd6n.jpg",
+                "ImageUpdateUTC": "2018-05-09T09:44:23"
+            }
+        ]
+    },
+    {
+        "SKU": "OR82701",
+        "ListedSKU": "WC162241",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081435",
+        "Title": "ORPHELIA Men Dua Time Watch Black Stainless steel",
+        "Description": "ORPHELIA Men Dua Time Watch Black Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 169,
+        "Price": 169,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-09T22:56:25.17",
+        "SPEC_Model Name": "La Grande",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Features_2": "Luminous Numerals",
+        "SPEC_Features_3": "Dual Time",
+        "SPEC_Features_4": "24-Hours display",
+        "SPEC_Features_5": "Tachymeter",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Black",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Clasp_Type": "Fold over clasp with safety",
+        "SPEC_Weight_g": "170",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/erezd2o6_82701.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T14:07:43"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/82701_r5rnbi.jpg",
+                "ImageUpdateUTC": "2018-05-09T15:54:39"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/p348sfmm_or82701.jpg",
+                "ImageUpdateUTC": "2018-05-09T15:54:39"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/82701_bjhu8j.jpg",
+                "ImageUpdateUTC": "2018-05-09T15:54:39"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/82701_xg9cfn.jpg",
+                "ImageUpdateUTC": "2018-05-09T15:54:39"
+            }
+        ]
+    },
+    {
+        "SKU": "OR86700",
+        "ListedSKU": "WC162263",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081442",
+        "Title": "ORPHELIA Men Dual Time Watch Black Plastic",
+        "Description": "ORPHELIA Men Dual Time Watch Black Plastic",
+        "Brand": "ORPHELIA",
+        "RRP": 149,
+        "Price": 149,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-09T22:56:25.17",
+        "SPEC_Model Name": "La Grande",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Features_2": "Luminous Numerals",
+        "SPEC_Features_3": "Dual Time",
+        "SPEC_Features_4": "24-Hours display",
+        "SPEC_Features_5": "Tachymeter",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Plastic",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "23",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "80",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/soa11jbm_86700.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T14:00:08"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/86700_ggeziz.jpg",
+                "ImageUpdateUTC": "2018-05-09T16:10:45"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/gp4kz85q_or86700.jpg",
+                "ImageUpdateUTC": "2018-05-09T16:10:45"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/86700_idcll8.jpg",
+                "ImageUpdateUTC": "2018-05-09T16:10:45"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/86700_1xqf94.jpg",
+                "ImageUpdateUTC": "2018-05-09T16:10:45"
+            }
+        ]
+    },
+    {
+        "SKU": "OR81701",
+        "ListedSKU": "WC162282",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081404",
+        "Title": "ORPHELIA Men Dual Time Watch Black Leather",
+        "Description": "ORPHELIA Men Dual Time Watch Black Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 149,
+        "Price": 149,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-09T22:56:25.17",
+        "SPEC_Model Name": "24h",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Features_2": "Dual Time",
+        "SPEC_Features_3": "24-Hours display",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "60",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/inte29fb_81701.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T14:06:58"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81701_sh7mij.jpg",
+                "ImageUpdateUTC": "2018-05-09T15:02:52"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/bcylhq8s_or81701.jpg",
+                "ImageUpdateUTC": "2018-05-09T15:02:52"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81701_49be1f.jpg",
+                "ImageUpdateUTC": "2018-05-09T15:02:52"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81701_6gc6bx.jpg",
+                "ImageUpdateUTC": "2018-05-09T15:02:52"
+            }
+        ]
+    },
+    {
+        "SKU": "OR86701",
+        "ListedSKU": "WC162303",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081459",
+        "Title": "ORPHELIA Men Dual Time Watch Black Plastic",
+        "Description": "ORPHELIA Men Dual Time Watch Black Plastic",
+        "Brand": "ORPHELIA",
+        "RRP": 149,
+        "Price": 149,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-09T22:56:25.17",
+        "SPEC_Model Name": "La Grande",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Features_2": "Luminous Numerals",
+        "SPEC_Features_3": "Dual Time",
+        "SPEC_Features_4": "24-Hours display",
+        "SPEC_Features_5": "Tachymeter",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Black",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Plastic",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "23",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "80",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/q5rwrjni_86701.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T14:03:20"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/86701_th0bvk.jpg",
+                "ImageUpdateUTC": "2018-05-09T16:05:14"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/x84juzlo_86701.jpg",
+                "ImageUpdateUTC": "2018-05-09T16:05:14"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/thj66j78_or86701.jpg",
+                "ImageUpdateUTC": "2018-05-09T16:05:14"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/86701_mdtp2m.jpg",
+                "ImageUpdateUTC": "2018-05-09T16:05:14"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/86701_l6q8iu.jpg",
+                "ImageUpdateUTC": "2018-05-09T16:05:14"
+            }
+        ]
+    },
+    {
+        "SKU": "OR81702",
+        "ListedSKU": "WC162334",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081398",
+        "Title": "ORPHELIA Men Dual Time Watch Brown Leather",
+        "Description": "ORPHELIA Men Dual Time Watch Brown Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 149,
+        "Price": 149,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-09T22:56:25.17",
+        "SPEC_Model Name": "24h",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Features_2": "Dual Time",
+        "SPEC_Features_3": "24-Hours display",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "60",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/fgdb84e4_81702.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T13:59:10"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81702_tn6jac.jpg",
+                "ImageUpdateUTC": "2018-05-09T14:56:26"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/65xawcg6_or81702.jpg",
+                "ImageUpdateUTC": "2018-05-09T14:56:26"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81702_uob8oi.jpg",
+                "ImageUpdateUTC": "2018-05-09T14:56:26"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81702_7vaoj6.jpg",
+                "ImageUpdateUTC": "2018-05-09T14:56:26"
+            }
+        ]
+    },
+    {
+        "SKU": "OR51710",
+        "ListedSKU": "WC162384",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082203",
+        "Title": "ORPHELIA Unisex Analogue Watch Modern Classic Blue Leather",
+        "Description": "ORPHELIA Unisex Analogue Watch Modern Classic Blue Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-09T22:56:25.17",
+        "SPEC_Model Name": "Modern Classic",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Blue",
+        "SPEC_Band_Width_mm": "19",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "80",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/nneqk143_51710.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:33:59"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/y9ubnqiy_51710.jpg",
+                "ImageUpdateUTC": "2018-05-09T15:45:21"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/qsl2nck7_or51710.jpg",
+                "ImageUpdateUTC": "2018-05-09T15:45:21"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/g5o8ch3j_or51710.jpg",
+                "ImageUpdateUTC": "2018-05-09T15:45:21"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/wtc4kceg_51710.jpg",
+                "ImageUpdateUTC": "2018-05-09T15:45:21"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/p1lwlktl_51710.jpg",
+                "ImageUpdateUTC": "2018-05-09T15:45:21"
+            }
+        ]
+    },
+    {
+        "SKU": "OR52700",
+        "ListedSKU": "WC162400",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082210",
+        "Title": "ORPHELIA Unisex Analogue Watch Unico Silver Stainless steel",
+        "Description": "ORPHELIA Unisex Analogue Watch Unico Silver Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 109,
+        "Price": 109,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-09T22:56:25.17",
+        "SPEC_Model Name": "Unico",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "36",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Clasp_Type": "Magnetic Clasp",
+        "SPEC_Weight_g": "114",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/s2wbopja_52700.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:33:59"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/v9fy79hp_or52700.jpg",
+                "ImageUpdateUTC": "2018-04-30T17:29:32"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/bqfotnwx_or52700.jpg",
+                "ImageUpdateUTC": "2018-04-30T17:29:32"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/w59ngkcj_52700.jpg",
+                "ImageUpdateUTC": "2018-04-30T17:29:32"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/73rswwnj_52700.jpg",
+                "ImageUpdateUTC": "2018-04-30T17:29:32"
+            }
+        ]
+    },
+    {
+        "SKU": "44-7900-48",
+        "ListedSKU": "WC162396",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5400470410920",
+        "Title": "SHAON HEREN STAAL ANA DIGI 50M",
+        "Description": "SHAON HEREN STAAL ANA DIGI 50M",
+        "Brand": "SHAON",
+        "RRP": 139,
+        "Price": 55.3,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-09T22:39:25.84",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue - Digital",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Stopwatch",
+        "SPEC_Features_2": "Tachymeter",
+        "SPEC_Features_3": "Countdown",
+        "SPEC_Features_4": "Alarm",
+        "SPEC_Calendar": "Day-Date-Month",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": null,
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Grey",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "19",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "39",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Bezel_Function": "Tachymeter",
+        "SPEC_Bezel_Material_Type": "Alloy",
+        "SPEC_Clasp_Type": "Fold over clasp with safety",
+        "SPEC_Weight_g": "111.0",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Brand Description": "SHAON. The brand for watches: SHAON. Inspiring. Modern. Timeless. SHAON. Where we present fashion accessories for every occasion. From the classical, to the fashionably dressed. From the sporty look, to the height of elegance. From the casual, to the sophisticated lady and gentleman. SHAON. Detailed design and lasting quality. SHAON. Where the watch says \u2018chic\u2019, and the price says \u2018affordability\u2019. Allow yourself to be enthused. Give or get a high quality gift that will make you proud to join the SHAON class.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/44-7900-48_3.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/44-7900-48.jpg",
+                "ImageUpdateUTC": "2018-05-09T10:23:44"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/44-7900-48_1.jpg",
+                "ImageUpdateUTC": "2018-05-09T10:23:44"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/44-7900-48_2.jpg",
+                "ImageUpdateUTC": "2018-05-09T10:23:44"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/znqbp8a2_44-7900-48.jpg",
+                "ImageUpdateUTC": "2018-05-09T10:23:44"
+            }
+        ]
+    },
+    {
+        "SKU": "OR81700",
+        "ListedSKU": "WC162409",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081411",
+        "Title": "ORPHELIA Men Dual Time Watch Black Leather",
+        "Description": "ORPHELIA Men Dual Time Watch Black Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 149,
+        "Price": 149,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-09T22:56:25.17",
+        "SPEC_Model Name": "24h",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Features_2": "Dual Time",
+        "SPEC_Features_3": "24-Hours display",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "60",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/jr3ueiuv_81700.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T13:57:26"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81700_vd1t1p.jpg",
+                "ImageUpdateUTC": "2018-05-09T14:31:21"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/fyjslgrn_or81700.jpg",
+                "ImageUpdateUTC": "2018-05-09T14:31:21"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/o31n722o_or81700.jpg",
+                "ImageUpdateUTC": "2018-05-09T14:31:21"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81700_zqb3g1.jpg",
+                "ImageUpdateUTC": "2018-05-09T14:31:21"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81700_ef0pvx.jpg",
+                "ImageUpdateUTC": "2018-05-09T14:31:21"
+            }
+        ]
+    },
+    {
+        "SKU": "OR82700",
+        "ListedSKU": "WC162423",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081428",
+        "Title": "ORPHELIA Men Dual Time Watch Silver Stainless steel",
+        "Description": "ORPHELIA Men Dual Time Watch Silver Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 169,
+        "Price": 169,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-09T22:56:25.17",
+        "SPEC_Model Name": "La Grande",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Features_2": "Luminous Numerals",
+        "SPEC_Features_3": "Dual Time",
+        "SPEC_Features_4": "24-Hours display",
+        "SPEC_Features_5": "Tachymeter",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Clasp_Type": "Fold over clasp with safety",
+        "SPEC_Weight_g": "170",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/2o9ul4kr_82700.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T14:02:33"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/82700_s7c11w.jpg",
+                "ImageUpdateUTC": "2018-05-09T15:38:34"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/g57u2old_or82700.jpg",
+                "ImageUpdateUTC": "2018-05-09T15:38:34"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/82700_qvd34m.jpg",
+                "ImageUpdateUTC": "2018-05-09T15:38:34"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/82700_jgmp6h.jpg",
+                "ImageUpdateUTC": "2018-05-09T15:38:34"
+            }
+        ]
+    },
+    {
+        "SKU": "OR81703",
+        "ListedSKU": "WC162435",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081381",
+        "Title": "ORPHELIA Men Dual Time Watch Brown Leather",
+        "Description": "ORPHELIA Men Dual Time Watch Brown Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 149,
+        "Price": 149,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-09T22:56:25.17",
+        "SPEC_Model Name": "24h",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Features_2": "Dual Time",
+        "SPEC_Features_3": "24-Hours display",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "60",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81703_rwxh4c.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-10-18T12:29:31"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81703_n299ug.jpg",
+                "ImageUpdateUTC": "2018-05-09T14:20:54"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/69mx5v2e_or81703.jpg",
+                "ImageUpdateUTC": "2018-05-09T14:20:54"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81703_i6vwy4.jpg",
+                "ImageUpdateUTC": "2018-05-09T14:20:54"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81703_r2sxhm.jpg",
+                "ImageUpdateUTC": "2018-05-09T14:20:54"
+            }
+        ]
+    }
+]

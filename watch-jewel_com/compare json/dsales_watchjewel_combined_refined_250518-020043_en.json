@@ -1,0 +1,168 @@
+[
+    {
+        "SKU": "ZK-7181",
+        "ListedSKU": "WC153876",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190059243",
+        "Title": "NECKLACE BICOLOR CIRCLES",
+        "Description": "NECKLACE BICOLOR CIRCLES",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 75,
+        "Price": 47.7,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-24T23:00:45.967",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "7.5",
+        "SPEC_Fruugo Category": "Jewellery > Women > Necklace",
+        "SPEC_Fruugo Description": "Orphelia Silver 925  Necklace Bicolor Circles",
+        "SPEC_Jewel_type": "Necklace",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver/rosegold",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "80",
+        "SPEC_Width-cm": "1.7",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7181_62l6xv.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-04-21T11:19:34"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7181_3h1beh.jpg",
+                "ImageUpdateUTC": "2016-05-03T10:51:47"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7181_sl18ff.jpg",
+                "ImageUpdateUTC": "2016-04-21T11:19:31"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7181_b2f03m.jpg",
+                "ImageUpdateUTC": "2016-04-21T11:19:33"
+            }
+        ]
+    },
+    {
+        "SKU": "122-1712-44",
+        "ListedSKU": "WC155346",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5400470268583",
+        "Title": "ORPHELIA Ladies Analogue Watch Everland Black Silicone",
+        "Description": "ORPHELIA Ladies Analogue Watch Everland Black Silicone",
+        "Brand": "ORPHELIA",
+        "RRP": 159,
+        "Price": 159,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-24T22:53:25.62",
+        "SPEC_Model Name": "Everland",
+        "SPEC_Catalogue Year": "2014",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "16",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Diameter_mm": "34",
+        "SPEC_Case_Thickness_mm": "11",
+        "SPEC_Bezel_Function": "Bezel with indices",
+        "SPEC_Bezel_Material_Type": "Stainless steel plated",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "58",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/122-1712-44.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/122-1712-44_3.jpg",
+                "ImageUpdateUTC": "2017-03-14T10:16:54"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/122-1712-44_1.jpg",
+                "ImageUpdateUTC": "2017-03-14T10:16:54"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/122-1712-44_2.jpg",
+                "ImageUpdateUTC": "2017-03-14T10:16:54"
+            }
+        ]
+    },
+    {
+        "SKU": "35-1014-15",
+        "ListedSKU": "WC156385",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5400470646411",
+        "Title": "SHAON DAMES LEDER",
+        "Description": "SHAON DAMES LEDER",
+        "Brand": "SHAON",
+        "RRP": 45,
+        "Price": 13.03,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-24T22:42:25.83",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": null,
+        "SPEC_Case_Style": "Rectangular",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Turquoise",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "18",
+        "SPEC_Case_Width_mm": "26",
+        "SPEC_Case_Length_mm": "26",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "20.4",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Brand Description": "SHAON. The brand for watches: SHAON. Inspiring. Modern. Timeless. SHAON. Where we present fashion accessories for every occasion. From the classical, to the fashionably dressed. From the sporty look, to the height of elegance. From the casual, to the sophisticated lady and gentleman. SHAON. Detailed design and lasting quality. SHAON. Where the watch says \u2018chic\u2019, and the price says \u2018affordability\u2019. Allow yourself to be enthused. Give or get a high quality gift that will make you proud to join the SHAON class.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/35-1014-15.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/35-1014-15_3.jpg",
+                "ImageUpdateUTC": "2018-05-24T16:22:27"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/35-1014-15_2.jpg",
+                "ImageUpdateUTC": "2018-05-24T16:22:27"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/35-1014-15_1.jpg",
+                "ImageUpdateUTC": "2018-05-24T16:22:27"
+            }
+        ]
+    }
+]

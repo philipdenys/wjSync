@@ -1,0 +1,32 @@
+[
+    {
+        "SKU": "S-R46B52",
+        "ListedSKU": "WC153901",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4040662601784",
+        "Title": "JL RING SS SWAROVSKI KRISTAL",
+        "Description": "JL RING SS SWAROVSKI KRISTAL",
+        "Brand": "JACQUES LEMANS",
+        "RRP": 59,
+        "Price": 59,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-05-01T22:33:38.433",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Material_color": "Silver",
+        "SPEC_Ring_size": "52",
+        "SPEC_Gem_type": "Swarovski-Crystal",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/s-r46b52.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    }
+]

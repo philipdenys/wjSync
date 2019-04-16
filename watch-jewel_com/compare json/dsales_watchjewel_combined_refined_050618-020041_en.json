@@ -1,0 +1,572 @@
+[
+    {
+        "SKU": "122-1724-44",
+        "ListedSKU": "WC155018",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190009576",
+        "Title": "ORPHELIA Ladies Analogue Watch Provence Black Leather",
+        "Description": "ORPHELIA Ladies Analogue Watch Provence Black Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 199,
+        "Price": 199,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-04T22:50:08.527",
+        "SPEC_Model Name": "Provence",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Titanium",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "33",
+        "SPEC_Case_Thickness_mm": "7",
+        "SPEC_Bezel_Function": "Stone settings",
+        "SPEC_Bezel_Material_Type": "Platinum",
+        "SPEC_Gem_Type": "Zirkonia",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "21",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2015",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-1724-44_lmbx7w.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-03-10T12:16:56"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-1724-44_s86cl.jpg",
+                "ImageUpdateUTC": "2018-06-04T13:49:39"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-1724-44_5vvks.jpg",
+                "ImageUpdateUTC": "2018-06-04T13:49:39"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/122-1724-44_3.jpg",
+                "ImageUpdateUTC": "2018-06-04T13:49:39"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/5mw7pe12_122-1724-44.jpg",
+                "ImageUpdateUTC": "2018-06-04T13:49:39"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/lpu6btyi_122-1724-44.jpg",
+                "ImageUpdateUTC": "2018-06-04T13:49:39"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/wiirajwx_122-1724-44.jpg",
+                "ImageUpdateUTC": "2018-06-04T13:49:39"
+            }
+        ]
+    },
+    {
+        "SKU": "ZA-1008",
+        "ListedSKU": "WC154175",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470269702",
+        "Title": "ARMBAND 18.5 CM FANTASY ZIRCONIUM",
+        "Description": "ARMBAND 18.5 CM FANTASY ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 65,
+        "Price": 29.16,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-04T22:32:58.34",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "7.4683",
+        "SPEC_Jewel_type": "Bracelet",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "18.5",
+        "SPEC_Width-cm": "1",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1008_syboye.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1008_mlnexz.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/za-1008.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1008_141b17.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "T2P292",
+        "ListedSKU": "WC170656",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "0753048500635",
+        "Title": "Timex Camper Men's Watch T2P292",
+        "Description": "Timex Camper Men's Watch T2P292",
+        "Brand": "TIMEX",
+        "RRP": 55,
+        "Price": 35.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-04T22:40:46.17",
+        "SPEC_Model Name": "Camper",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_Features_2": "Luminous Hand",
+        "SPEC_Features_3": "Indiglo Light",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Plastic",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Brown",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Nylon",
+        "SPEC_Band_Color": "Multicolour",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "35",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "CR2016",
+        "SPEC_Product Description": "This men's Timex Camper watch has a plastic/resin case and is fitted with a quartz movement. It fastens a khaki fabric strap and has a black dial. The watch also has a date function. ",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/weyq1ms9_t2p292.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-01-15T10:17:27"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pkj25xza_t2p292.jpg",
+                "ImageUpdateUTC": "2018-01-31T09:47:53"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/lpzyzbne_t2p292.jpg",
+                "ImageUpdateUTC": "2018-01-31T09:47:53"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/i45111h6_t2p292.jpg",
+                "ImageUpdateUTC": "2018-01-31T09:47:53"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/wk92ba6q_t2p292.jpg",
+                "ImageUpdateUTC": "2018-01-31T09:47:53"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/3kmvrz7f_t2p292.jpg",
+                "ImageUpdateUTC": "2018-01-31T09:47:53"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5001",
+        "ListedSKU": "WC152146",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470168012",
+        "Title": "Orphelia Silver 925 Earring Double Square Diamond ",
+        "Description": "Orphelia Silver 925 Earring Double Square Diamond ",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 149,
+        "Price": 42.75,
+        "PriceUpdateUTC": null,
+        "Stock": 6,
+        "StockUpdateUTC": "2018-06-04T22:32:58.34",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "2.2000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Length-cm": "1.2",
+        "SPEC_Width-cm": "0.9",
+        "SPEC_Gem_type": "Diamond",
+        "SPEC_Diamond_quantity": "2",
+        "SPEC_Total_Diamond_Weight": "0.03",
+        "SPEC_Gem_color": "White",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Double Square Diamond ",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zo-5001.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5001_fio91d.jpg",
+                "ImageUpdateUTC": "2018-06-04T12:01:51"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/gjn1777b_zo-5001.jpg",
+                "ImageUpdateUTC": "2018-06-04T12:01:51"
+            }
+        ]
+    },
+    {
+        "SKU": "122-1722-11",
+        "ListedSKU": "WC156144",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190009552",
+        "Title": "ORPHELIA Ladies Analogue Watch Provence White Leather",
+        "Description": "ORPHELIA Ladies Analogue Watch Provence White Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 239,
+        "Price": 239,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-04T22:43:51.453",
+        "SPEC_Model Name": "Provence",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Titanium",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "White",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "19",
+        "SPEC_Case_Diameter_mm": "33",
+        "SPEC_Case_Thickness_mm": "7",
+        "SPEC_Bezel_Function": "Stone settings",
+        "SPEC_Bezel_Material_Type": "Titanium",
+        "SPEC_Gem_Type": "Zirkonia",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "19,6",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue Year": "2015",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-1722-11_9juboe.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-1722-11_gt7atj.jpg",
+                "ImageUpdateUTC": "2018-06-04T14:03:44"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/jad2qcdv_122-1722-11.jpg",
+                "ImageUpdateUTC": "2018-06-04T14:03:44"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-1722-11_cki20r.jpg",
+                "ImageUpdateUTC": "2018-06-04T14:03:44"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-1722-11_z3q6jf.jpg",
+                "ImageUpdateUTC": "2018-06-04T14:03:44"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zf8nrkuh_122-1722-11.jpg",
+                "ImageUpdateUTC": "2018-06-04T14:03:44"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/63eii27f_122-1722-11.jpg",
+                "ImageUpdateUTC": "2018-06-04T14:03:44"
+            }
+        ]
+    },
+    {
+        "SKU": "TW2P81000",
+        "ListedSKU": "WC170630",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "0753048588565",
+        "Title": "Timex Weekender Purple Ladies Watch TW2P81000",
+        "Description": "Timex Weekender Purple Ladies Watch TW2P81000",
+        "Brand": "TIMEX",
+        "RRP": 79,
+        "Price": 49.5,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-04T22:40:46.17",
+        "SPEC_Model Name": "Weekender",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_Features_2": "Indiglo Light",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Beige",
+        "SPEC_Band_Material": "Nylon",
+        "SPEC_Band_Color": "Purple",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "19",
+        "SPEC_Case_Diameter_mm": "38",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "44",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "CR2016",
+        "SPEC_Product Description": "This ladies Timex Weekender watch has a PVD gold plated case and is powered by a quartz movement. It is fastened with a purple fabric strap and has a cream dial. ",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/gk54qz6v_tw2p81000.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-01-31T09:17:51"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/o15msrlq_tw2p81000.jpeg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/3py3y45t_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/uwk8le12_tw2p81000.jpeg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/g4cgeq6c_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/i2a2ylff_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zvtxhtuw_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-16T17:11:46"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/2rj67k8x_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 7,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/54wrooq4_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 8,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/n6kmu1cu_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 9,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/m8a9t1ja_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            }
+        ]
+    },
+    {
+        "SKU": "OR51710",
+        "ListedSKU": "WC162384",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082203",
+        "Title": "ORPHELIA Unisex Analogue Watch Modern Classic Blue Leather",
+        "Description": "ORPHELIA Unisex Analogue Watch Modern Classic Blue Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-04T22:50:08.527",
+        "SPEC_Model Name": "Modern Classic",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Blue",
+        "SPEC_Band_Width_mm": "19",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "80",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2018",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/nneqk143_51710.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:33:59"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/y9ubnqiy_51710.jpg",
+                "ImageUpdateUTC": "2018-06-04T10:10:11"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ziqe9tsr_or51710.jpg",
+                "ImageUpdateUTC": "2018-06-04T10:10:11"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/x5ffoscm_or51710.jpg",
+                "ImageUpdateUTC": "2018-06-04T10:10:11"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/g5o8ch3j_or51710.jpg",
+                "ImageUpdateUTC": "2018-06-04T10:10:11"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/wtc4kceg_51710.jpg",
+                "ImageUpdateUTC": "2018-06-04T10:10:11"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/p1lwlktl_51710.jpg",
+                "ImageUpdateUTC": "2018-06-04T10:10:11"
+            }
+        ]
+    },
+    {
+        "SKU": "122-1723-84",
+        "ListedSKU": "WC156768",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190009569",
+        "Title": "ORPHELIA Ladies Analogue Watch Provence Black Leather",
+        "Description": "ORPHELIA Ladies Analogue Watch Provence Black Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 199,
+        "Price": 199,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-04T22:43:51.453",
+        "SPEC_Model Name": "Provence",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Titanium",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "33",
+        "SPEC_Case_Thickness_mm": "7",
+        "SPEC_Bezel_Function": "Stone settings",
+        "SPEC_Bezel_Material_Type": "Titanium",
+        "SPEC_Gem_Type": "Zirkonia",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "20",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue Year": "2015",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-1723-84_3pbvtt.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-1723-84_ejj6q.jpg",
+                "ImageUpdateUTC": "2018-06-04T14:06:15"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-1723-84_uamxv.jpg",
+                "ImageUpdateUTC": "2018-06-04T14:06:15"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/reebpena_122-1723-84.jpg",
+                "ImageUpdateUTC": "2018-06-04T14:06:15"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-1723-84_0b90hp.jpg",
+                "ImageUpdateUTC": "2018-06-04T14:06:15"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-1723-84_2jwgs7.jpg",
+                "ImageUpdateUTC": "2018-06-04T14:06:15"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/h63u76vb_122-1723-84.jpg",
+                "ImageUpdateUTC": "2018-06-04T14:06:15"
+            },
+            {
+                "ImageSort": 7,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/r48fo5jy_122-1723-84.jpg",
+                "ImageUpdateUTC": "2018-06-04T14:06:15"
+            }
+        ]
+    }
+]

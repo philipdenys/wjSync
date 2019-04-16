@@ -1,0 +1,1836 @@
+[
+    {
+        "SKU": "OR11600",
+        "ListedSKU": "WC164124",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190072976",
+        "Title": "ORPHELIA Ladies Analogue Watch Lavardin Brown Leather",
+        "Description": "ORPHELIA Ladies Analogue Watch Lavardin Brown Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 149,
+        "Price": 149,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:54:37.02",
+        "SPEC_Model Name": "Lavardin",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "16",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "33",
+        "SPEC_Case_Thickness_mm": "5",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "23",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "317",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2017",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/11600_1ufs2x.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-10-11T10:06:25"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/11600_cckjb2.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:14:01"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/11600_xesks1.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:14:01"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/oklx6gx4_11600.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:14:01"
+            }
+        ]
+    },
+    {
+        "SKU": "TR-006/1",
+        "ListedSKU": "WC154079",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470087283",
+        "Title": "KETTING 45 CM WG 0.15 CRT HVS",
+        "Description": "KETTING 45 CM WG 0.15 CRT HVS",
+        "Brand": "ORPHELIA GOLD",
+        "RRP": 1299,
+        "Price": 701.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:54:37.02",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "6.7000",
+        "SPEC_Jewel_type": "Necklace",
+        "SPEC_Metal_type": "Whitegold 18K",
+        "SPEC_Gem_type": "Diamond",
+        "SPEC_Diamond_quantity": "3",
+        "SPEC_Total_Diamond_Weight": "0.15",
+        "SPEC_Diamond_color": "White/Wesselton (H)",
+        "SPEC_Diamond_clarity": "very small inclusions (VS1)",
+        "Images": [
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tr-0061_aifxwt.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/tr-0061.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:47:55"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/tr-0061_1.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:47:55"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tr-0061_ddqkdq.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:47:55"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tr-0061_jfkarm.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:47:55"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/tr-0061_2.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:47:55"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/tr-0061_3.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:47:55"
+            },
+            {
+                "ImageSort": 7,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tr-0061_0ncw98.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:47:55"
+            },
+            {
+                "ImageSort": 8,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/awibgo1e_tr-0061.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:47:55"
+            }
+        ]
+    },
+    {
+        "SKU": "OR61508",
+        "ListedSKU": "WC164129",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190040739",
+        "Title": "ORPHELIA Mens Analogue Watch Simplicity Black Leather",
+        "Description": "ORPHELIA Mens Analogue Watch Simplicity Black Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 129,
+        "Price": 129,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:54:37.02",
+        "SPEC_Model Name": "Simplicity",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "24",
+        "SPEC_Case_Diameter_mm": "41",
+        "SPEC_Case_Thickness_mm": "7.5",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "45",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2016",
+        "Images": [
+            {
+                "ImageSort": 12,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/61508_wa1m7.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-05-29T14:03:39"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/61508_sak8p.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:04:49"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/61508_vjnsy.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:04:49"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/61508_epl5q.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:04:49"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/61508_4v725.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:04:49"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/kk15fluq_or61508.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:04:49"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/6gjyez9a_or61508.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:04:49"
+            },
+            {
+                "ImageSort": 7,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/4degi7bb_or61508.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:04:49"
+            }
+        ]
+    },
+    {
+        "SKU": "ZA-1008",
+        "ListedSKU": "WC154175",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470269702",
+        "Title": "ARMBAND 18.5 CM FANTASY ZIRCONIUM",
+        "Description": "ARMBAND 18.5 CM FANTASY ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 65,
+        "Price": 29.16,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:39:39.343",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "7.4683",
+        "SPEC_Jewel_type": "Bracelet",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "18.5",
+        "SPEC_Width-cm": "1",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1008_syboye.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/za-1008.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1008_mlnexz.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1008_141b17.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "OR51707",
+        "ListedSKU": "WC162248",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082173",
+        "Title": "ORPHELIA Unisex Analogue Watch Suede Burgundy Leather",
+        "Description": "ORPHELIA Unisex Analogue Watch Suede Burgundy Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:54:37.02",
+        "SPEC_Model Name": "Suede",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Burgundy",
+        "SPEC_Band_Material": "Leather imitation",
+        "SPEC_Band_Color": "Burgundy",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "80",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2018",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/uvtajja9_51707.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:34:01"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/h8jcb6vm_51707.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:28:05"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pyy4n229_or51707.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:28:05"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/gvezjqdj_or51707.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:28:05"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/xmw24uv5_or51707.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:28:05"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/i4dxqva5_51707.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:28:05"
+            },
+            {
+                "ImageSort": 7,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/fefah3xd_51707.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:28:05"
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-4382",
+        "ListedSKU": "WC153900",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470642406",
+        "Title": "PENDANT WITH CHAIN 925 SILVER DIAMOND AND ZIRCONIUM",
+        "Description": "PENDANT WITH CHAIN 925 SILVER DIAMOND AND ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 89,
+        "Price": 32.58,
+        "PriceUpdateUTC": null,
+        "Stock": 6,
+        "StockUpdateUTC": "2018-05-29T22:39:39.343",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "2.1000",
+        "SPEC_Jewel_type": "Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "1.3",
+        "SPEC_Width-cm": "1",
+        "SPEC_Diamond_quantity": "2",
+        "SPEC_Total_Diamond_Weight": "0.02",
+        "SPEC_Diamond_color": "White/Wesselton (H)",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_actll7.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-06-28T10:14:38"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_hoqzmk.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_6fw4ni.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_ad7l73.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            }
+        ]
+    },
+    {
+        "SKU": "S-R46B52",
+        "ListedSKU": "WC153901",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4040662601784",
+        "Title": "JL RING SS SWAROVSKI KRISTAL",
+        "Description": "JL RING SS SWAROVSKI KRISTAL",
+        "Brand": "JACQUES LEMANS",
+        "RRP": 59,
+        "Price": 59,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-05-29T22:39:39.343",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Material_color": "Silver",
+        "SPEC_Ring_size": "52",
+        "SPEC_Gem_type": "Swarovski-Crystal",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/s-r46b52.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "OR71601",
+        "ListedSKU": "WC171305",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190073485",
+        "Title": "ORPHELIA Mens Multi Dial Watch Joyce Black Leather",
+        "Description": "ORPHELIA Mens Multi Dial Watch Joyce Black Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 159,
+        "Price": 159,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:54:37.02",
+        "SPEC_Model Name": "Joyce",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Beige",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "55",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "371",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2017",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/71601_5vifj.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-12-05T11:03:58"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/71601_kfnb5.jpg",
+                "ImageUpdateUTC": "2016-12-05T11:12:38"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/q4rjqnds_or71601.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:44:12"
+            }
+        ]
+    },
+    {
+        "SKU": "OR12600",
+        "ListedSKU": "WC164728",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190073010",
+        "Title": "ORPHELIA Ladies Analogue Watch Carnaby Rose Gold Stainless steel",
+        "Description": "ORPHELIA Ladies Analogue Watch Carnaby Rose Gold Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 149,
+        "Price": 149,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:54:37.02",
+        "SPEC_Model Name": "Carnaby",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Rose gold",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Rose Gold",
+        "SPEC_Band_Width_mm": "16",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "31",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Fold over clasp with double push button safety",
+        "SPEC_Weight_g": "65",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "364",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2017",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/12600_jvf2rf.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-10-11T10:07:43"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/12600_76tbyc.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:29:05"
+            }
+        ]
+    },
+    {
+        "SKU": "OR71602",
+        "ListedSKU": "WC171306",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190073492",
+        "Title": "ORPHELIA Mens Multi Dial Watch Joyce Brown Leather",
+        "Description": "ORPHELIA Mens Multi Dial Watch Joyce Brown Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 159,
+        "Price": 159,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:54:37.02",
+        "SPEC_Model Name": "Joyce",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "55",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "371",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2017",
+        "Images": [
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/71602_2q43x.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-12-05T11:30:07"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/71602_3uess.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:36:57"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/xrq24iux_or71602.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:36:57"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/f3ydfxjx_71602.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:36:57"
+            }
+        ]
+    },
+    {
+        "SKU": "OR61704",
+        "ListedSKU": "WC162258",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082098",
+        "Title": "ORPHELIA Men Analogue Watch Tiempo Brown Leather",
+        "Description": "ORPHELIA Men Analogue Watch Tiempo Brown Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 99,
+        "Price": 99,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:54:37.02",
+        "SPEC_Model Name": "Tiempo",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Brown",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "19",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Diameter_mm": "44",
+        "SPEC_Case_Thickness_mm": "11",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "115",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2018",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/on43n65h_61704.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:34:01"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/9omfa4a6_61704.jpg",
+                "ImageUpdateUTC": "2017-11-22T08:46:35"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/gefdcln6_61704.jpg",
+                "ImageUpdateUTC": "2017-11-22T09:05:12"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a911bu7l_61704.jpg",
+                "ImageUpdateUTC": "2017-11-22T09:05:13"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/kuqwsmbv_or61704.jpg",
+                "ImageUpdateUTC": "2018-05-29T10:11:27"
+            }
+        ]
+    },
+    {
+        "SKU": "OR81601",
+        "ListedSKU": "WC164133",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190073089",
+        "Title": "ORPHELIA Mens Chronograph Watch X-plane  Brown Leather",
+        "Description": "ORPHELIA Mens Chronograph Watch X-plane  Brown Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 299,
+        "Price": 299,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:54:37.02",
+        "SPEC_Model Name": "X-plane ",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Chronograph",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_Features_2": "Stopwatch",
+        "SPEC_Features_3": "Luminous Hand",
+        "SPEC_Features_4": "Luminous Numerals",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Multicolour",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "46",
+        "SPEC_Case_Thickness_mm": "14",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "89",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "371",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2017",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81601_rcnyjp.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-10-11T10:09:45"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81601_6bqkmp.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:21:46"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/9ga22omh_81601.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:21:46"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/3ww1k1r2_81601.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:21:46"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/yrivkwvl_or81601.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:21:46"
+            }
+        ]
+    },
+    {
+        "SKU": "122-1732-81",
+        "ListedSKU": "WC155608",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190009668",
+        "Title": "ORPHELIA Ladies Analogue Watch Temptation White Leather",
+        "Description": "ORPHELIA Ladies Analogue Watch Temptation White Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 129,
+        "Price": 129,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:54:37.02",
+        "SPEC_Model Name": "Temptation",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "White",
+        "SPEC_Band_Width_mm": "17",
+        "SPEC_Band_Length_cm": "18,50",
+        "SPEC_Case_Diameter_mm": "30",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Bezel_Function": "Stone settings",
+        "SPEC_Bezel_Material_Type": "Stainless steel",
+        "SPEC_Gem_Type": "Zirkonia",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "33",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2015",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-1732-81_ib4llo.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-1732-81_qw25d.jpg",
+                "ImageUpdateUTC": "2018-05-29T11:55:15"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-1732-81_ge9lh0.jpg",
+                "ImageUpdateUTC": "2018-05-29T11:55:15"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-1732-81_olfxae.jpg",
+                "ImageUpdateUTC": "2018-05-29T11:55:15"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/122-1732-81_ikyci.jpg",
+                "ImageUpdateUTC": "2018-05-29T11:55:15"
+            },
+            {
+                "ImageSort": 7,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/c2d8b78q_122-1732-81.jpg",
+                "ImageUpdateUTC": "2018-05-29T11:55:15"
+            },
+            {
+                "ImageSort": 8,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/5165t2r5_122-1732-81.jpg",
+                "ImageUpdateUTC": "2018-05-29T11:55:15"
+            },
+            {
+                "ImageSort": 9,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/hqe1zpvk_122-1732-81.jpg",
+                "ImageUpdateUTC": "2018-05-29T11:55:15"
+            }
+        ]
+    },
+    {
+        "SKU": "ES108241003",
+        "ListedSKU": "WC155572",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945198176",
+        "Title": "Esprit Watch Ryan ",
+        "Description": "Esprit Watch Ryan ",
+        "Brand": "ESPRIT",
+        "RRP": 175,
+        "Price": 71.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:39:39.343",
+        "SPEC_Model Name": "Ryan",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Chronograph",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Stopwatch",
+        "SPEC_Features_2": "Luminous Hand",
+        "SPEC_Features_3": "Luminous Numerals",
+        "SPEC_Features_4": "24-Hours display",
+        "SPEC_Features_5": "Tachymeter",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Green",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "45",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Bezel_Function": "Tachymeter",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "85",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Battery": "SR621SW",
+        "SPEC_Brand Description": "The Esprit brand, established in San Francisco in 1968, is internationally known and stands for a modern, self-confident, but also uncomplicated design. Not only in terms of clothing, shoes and handbags Esprit is constantly setting new trends. With the Esprit Home line, the brand has established itself very successfully in residential design and lifestyle.  Timely  The Esprit Timewear brand line has long been an integral part of the international watch market and stands for the Esprit-typical combination of modern style, combined with self-confidence and sensuality as well as the highest quality standards.  Design  Esprit Timewear whether classic, glamorous or sporty, whether fashionable ladies watches with refined details or functional men's watches with a lot of flair for style and trends: Under the motto of designs, Esprit watch collection provides numerous opportunities to delight and connect people.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/es108241003_rt1q5q.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-11-02T10:08:28"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/es108241003_tcvob3.jpg",
+                "ImageUpdateUTC": "2018-05-29T10:46:14"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/es108241003_zcp9vm.jpg",
+                "ImageUpdateUTC": "2018-05-29T10:46:14"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/es108241003_j4pfog.jpg",
+                "ImageUpdateUTC": "2018-05-29T10:46:14"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/nkiilosu_es108241003.jpg",
+                "ImageUpdateUTC": "2018-05-29T10:46:14"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/es108241003_paglew.jpg",
+                "ImageUpdateUTC": "2018-05-29T10:46:14"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/es108241003_dvp4wz.jpg",
+                "ImageUpdateUTC": "2018-05-29T10:46:14"
+            }
+        ]
+    },
+    {
+        "SKU": "TR-001",
+        "ListedSKU": "WC152909",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470087207",
+        "Title": "KETTING 45 CM WG 0.10 CRT HVS",
+        "Description": "KETTING 45 CM WG 0.10 CRT HVS",
+        "Brand": "ORPHELIA GOLD",
+        "RRP": 1150,
+        "Price": 621,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:39:39.343",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "6.2000",
+        "SPEC_Jewel_type": "Necklace",
+        "SPEC_Metal_type": "Whitegold 18K",
+        "SPEC_Gem_type": "Diamond",
+        "SPEC_Diamond_quantity": "1",
+        "SPEC_Total_Diamond_Weight": "0.1",
+        "SPEC_Diamond_color": "White/Wesselton (H)",
+        "SPEC_Diamond_clarity": "very small inclusions (VS1)",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tr-001_ejp4vz.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tr-001_o0wqvp.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tr-001_sfbjbh.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/tr-001_1.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tr-001_bc0psq.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/tr-001_3.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/tr-001_2.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:45:48"
+            },
+            {
+                "ImageSort": 7,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tr-001_29vmsh.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "RD-014/1",
+        "ListedSKU": "WC152554",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470087757",
+        "Title": "OORBELLEN WG 0.40 CRT HVS",
+        "Description": "OORBELLEN WG 0.40 CRT HVS",
+        "Brand": "ORPHELIA GOLD",
+        "RRP": 1625,
+        "Price": 767.69,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:54:37.02",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "3.3250",
+        "SPEC_Jewel_type": "Drop Earrings",
+        "SPEC_Metal_type": "Whitegold 18K",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Length-cm": "3.5",
+        "SPEC_Width-cm": "0.5",
+        "SPEC_Gem_type": "Diamond",
+        "SPEC_Diamond_quantity": "4",
+        "SPEC_Total_Diamond_Weight": "0.40",
+        "SPEC_Diamond_color": "White/Wesselton (H)",
+        "SPEC_Diamond_clarity": "very small inclusions (VS1)",
+        "SPEC_Diamond_setting": "Rahmenfassung",
+        "SPEC_Diamond_shape": "Brillant Cut",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rd-0141_7kjtvq.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/rd-0141.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:39:39"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/rd-0141_1.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:39:39"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/4h48s6am_rd-0141.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:39:39"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/rd-0141_2.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:39:39"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rd-0141_8azv98.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:39:39"
+            }
+        ]
+    },
+    {
+        "SKU": "OR11705",
+        "ListedSKU": "WC162305",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081534",
+        "Title": "ORPHELIA Women Analogue Watch Brown Leather",
+        "Description": "ORPHELIA Women Analogue Watch Brown Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 149,
+        "Price": 149,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:54:37.02",
+        "SPEC_Model Name": "Ricci",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "17",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "35",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Gem_Type": "Zirkonia",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "35",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2018",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pkyybig5_11705.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-12-01T09:28:16"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/11705_n3bky3.jpg",
+                "ImageUpdateUTC": "2018-05-29T11:53:07"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/5ws1x71z_or11705.jpg",
+                "ImageUpdateUTC": "2018-05-29T11:53:07"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/11705_la9yxz.jpg",
+                "ImageUpdateUTC": "2018-05-29T11:53:07"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/11705_t1g1zy.jpg",
+                "ImageUpdateUTC": "2018-05-29T11:53:07"
+            }
+        ]
+    },
+    {
+        "SKU": "OR61600",
+        "ListedSKU": "WC164143",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190073027",
+        "Title": "ORPHELIA Mens Analogue Watch Lavardin Brown Leather",
+        "Description": "ORPHELIA Mens Analogue Watch Lavardin Brown Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 149,
+        "Price": 149,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:54:37.02",
+        "SPEC_Model Name": "Lavardin",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "6",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "38",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "321",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2017",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/61600_2jezfb.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-10-11T10:08:03"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/61600_n3s4nu.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:12:15"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/61600_pgfb9v.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:12:15"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rtp2wnyc_or61600.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:12:15"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pgbqvesy_61600.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:12:15"
+            }
+        ]
+    },
+    {
+        "SKU": "OR81705",
+        "ListedSKU": "WC162363",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081558",
+        "Title": "ORPHELIA Men Chronograph Watch Master Black Leather",
+        "Description": "ORPHELIA Men Chronograph Watch Master Black Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 199,
+        "Price": 199,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:54:37.02",
+        "SPEC_Model Name": "Master",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Chronograph",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Features_2": "Luminous Numerals",
+        "SPEC_Features_3": "Stopwatch",
+        "SPEC_Features_4": "24-Hours display",
+        "SPEC_Features_5": "Tachymeter",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "14",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "90",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2018",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/dzxwdjmt_81705.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T13:55:18"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81705_xkjr7e.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:37:48"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/dd2z3iyo_or81705.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:37:48"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/t5yckylt_or81705.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:37:48"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a6zhfjgo_or81705.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:37:48"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/i8sgzbab_or81705.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:37:48"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81705_0dl653.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:37:48"
+            },
+            {
+                "ImageSort": 7,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81705_wihitc.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:37:48"
+            }
+        ]
+    },
+    {
+        "SKU": "OR66502",
+        "ListedSKU": "WC164146",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190040852",
+        "Title": "ORPHELIA Unisex Analogue Watch Infinity White Silicone - Ceramic",
+        "Description": "ORPHELIA Unisex Analogue Watch Infinity White Silicone - Ceramic",
+        "Brand": "ORPHELIA",
+        "RRP": 159,
+        "Price": 159,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:54:37.02",
+        "SPEC_Model Name": "Infinity",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Ceramic",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "White",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "White",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "39",
+        "SPEC_Case_Thickness_mm": "8.5",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "50",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2016",
+        "Images": [
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/66502_e99c0.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/66502_55xml.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:22:09"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/66502_wcpde.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:22:09"
+            }
+        ]
+    },
+    {
+        "SKU": "OR66501",
+        "ListedSKU": "WC164154",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190040845",
+        "Title": "ORPHELIA Mens Analogue Watch Infinity Black Silicone - Ceramic",
+        "Description": "ORPHELIA Mens Analogue Watch Infinity Black Silicone - Ceramic",
+        "Brand": "ORPHELIA",
+        "RRP": 159,
+        "Price": 159,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:54:37.02",
+        "SPEC_Model Name": "Infinity",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Ceramic",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Black",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "39",
+        "SPEC_Case_Thickness_mm": "8.5",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "50",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2016",
+        "Images": [
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/66501_0ao0d.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/66501_brhge.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:23:48"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/66501_a5wuq.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:23:48"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/u3vuhvqb_or66501.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:23:48"
+            }
+        ]
+    },
+    {
+        "SKU": "OR51708",
+        "ListedSKU": "WC162398",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082180",
+        "Title": "ORPHELIA Unisex Analogue Watch Modern Classic Brown Leather",
+        "Description": "ORPHELIA Unisex Analogue Watch Modern Classic Brown Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:54:37.02",
+        "SPEC_Model Name": "Modern Classic",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "19",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "80",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2018",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ht2jhk25_51708.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:34:00"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/3ffar1jr_51708.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:17:55"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ipu2aqlf_or51708.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:17:55"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/uzeqqwbr_or51708.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:17:55"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ufya7n2q_or51708.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:17:55"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/uj5723ys_51708.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:17:55"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/166xd4ls_51708.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:17:55"
+            }
+        ]
+    },
+    {
+        "SKU": "OR82700",
+        "ListedSKU": "WC162423",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081428",
+        "Title": "ORPHELIA Men Dual Time Watch Silver Stainless steel",
+        "Description": "ORPHELIA Men Dual Time Watch Silver Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 169,
+        "Price": 169,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:54:37.02",
+        "SPEC_Model Name": "La Grande",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Features_2": "Luminous Numerals",
+        "SPEC_Features_3": "Dual Time",
+        "SPEC_Features_4": "24-Hours display",
+        "SPEC_Features_5": "Tachymeter",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Clasp_Type": "Fold over clasp with safety",
+        "SPEC_Weight_g": "170",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2018",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/2o9ul4kr_82700.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T14:02:33"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/82700_s7c11w.jpg",
+                "ImageUpdateUTC": "2018-05-29T13:08:26"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/g57u2old_or82700.jpg",
+                "ImageUpdateUTC": "2018-05-29T13:08:26"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/8b1jekgr_or82700.jpg",
+                "ImageUpdateUTC": "2018-05-29T13:08:26"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/82700_qvd34m.jpg",
+                "ImageUpdateUTC": "2018-05-29T13:08:26"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/82700_jgmp6h.jpg",
+                "ImageUpdateUTC": "2018-05-29T13:08:26"
+            }
+        ]
+    },
+    {
+        "SKU": "OR11706",
+        "ListedSKU": "WC162421",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081800",
+        "Title": "ORPHELIA Women Analogue Watch Fronte di marmo White Leather",
+        "Description": "ORPHELIA Women Analogue Watch Fronte di marmo White Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 79,
+        "Price": 79,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:54:37.02",
+        "SPEC_Model Name": "Fronte di marmo",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Mother of pearl",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "White",
+        "SPEC_Band_Width_mm": "17",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "36",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "64",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2018",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tvo1osix_11706.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:34:00"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/w1mr2dlx_11706.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:08:52"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/3f64x9pk_or11706.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:08:52"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/gzmisb35_or11706.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:08:52"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tty9iata_or11706.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:08:52"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/v2d9afaa_11706.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:08:52"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/x1q6ck2n_11706.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:08:52"
+            }
+        ]
+    },
+    {
+        "SKU": "TR-006",
+        "ListedSKU": "WC149427",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470087245",
+        "Title": "KETTING 45 CM GG 0.15 CRT HVS",
+        "Description": "KETTING 45 CM GG 0.15 CRT HVS",
+        "Brand": "ORPHELIA GOLD",
+        "RRP": 1299,
+        "Price": 634.9,
+        "PriceUpdateUTC": null,
+        "Stock": 3,
+        "StockUpdateUTC": "2018-05-29T22:54:37.02",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "6.9000",
+        "SPEC_Jewel_type": "Necklace",
+        "SPEC_Metal_type": "Yellowgold 18K",
+        "SPEC_Gem_type": "Diamond",
+        "SPEC_Diamond_quantity": "3",
+        "SPEC_Total_Diamond_Weight": "0.15",
+        "SPEC_Diamond_color": "White/Wesselton (H)",
+        "SPEC_Diamond_clarity": "very small inclusions (VS1)",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tr-006_z0vrqi.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-06-19T09:00:03"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tr-006_2igw7k.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:47:28"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tr-006_4h8327.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:47:28"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/tr-006.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:47:28"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/tr-006_1.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:47:28"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/tr-006_2.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:47:28"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/tr-006_3.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:47:28"
+            },
+            {
+                "ImageSort": 7,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tr-006_m2xy2h.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:47:28"
+            },
+            {
+                "ImageSort": 8,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/jnlmjms2_tr-006.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:47:28"
+            }
+        ]
+    },
+    {
+        "SKU": "OR11606",
+        "ListedSKU": "WC171590",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190073171",
+        "Title": "ORPHELIA Ladies Analogue Watch Light Lusion Black Leather",
+        "Description": "ORPHELIA Ladies Analogue Watch Light Lusion Black Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 129,
+        "Price": 129,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:54:37.02",
+        "SPEC_Model Name": "Light Lusion",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "19",
+        "SPEC_Case_Diameter_mm": "35",
+        "SPEC_Case_Thickness_mm": "7",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "35",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "364",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2017",
+        "Images": [
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/11606_i5mj7.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-12-05T11:16:52"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/11606_suu1c.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:01:00"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pnij4iz7_11606.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:01:00"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/qx3n8tk7_11606.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:01:00"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/jdiaol5k_11606.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:01:00"
+            }
+        ]
+    },
+    {
+        "SKU": "TR-018/1",
+        "ListedSKU": "WC158511",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470087320",
+        "Title": "KETTING 45 CM WG 0.05 CRT HVS",
+        "Description": "KETTING 45 CM WG 0.05 CRT HVS",
+        "Brand": "ORPHELIA GOLD",
+        "RRP": 975,
+        "Price": 526.5,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:39:39.343",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "6.0000",
+        "SPEC_Jewel_type": "Necklace",
+        "SPEC_Metal_type": "Whitegold 18K",
+        "SPEC_Gem_type": "Diamond",
+        "SPEC_Diamond_quantity": "1",
+        "SPEC_Total_Diamond_Weight": "0.05",
+        "SPEC_Diamond_color": "White/Wesselton (H)",
+        "SPEC_Diamond_clarity": "very small inclusions (VS1)",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tr-0181_izuh2i.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-06-19T08:31:49"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/tr-0181_1.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:26:38"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tr-0181_6b4eop.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:26:38"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tr-0181_apj429.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:26:38"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tr-0181_pvllme.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:26:38"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/tr-0181_2.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:26:38"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/tr-0181_3.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:26:38"
+            },
+            {
+                "ImageSort": 7,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tr-0181_s7p4p1.jpg",
+                "ImageUpdateUTC": "2018-05-29T14:26:38"
+            }
+        ]
+    },
+    {
+        "SKU": "OR62700",
+        "ListedSKU": "WC162436",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082029",
+        "Title": "ORPHELIA Men Analogue Watch Sterling Silver Stainless steel",
+        "Description": "ORPHELIA Men Analogue Watch Sterling Silver Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-29T22:54:37.02",
+        "SPEC_Model Name": "Sterling",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "255",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2018",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/eh2qdxkw_62700.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:34:00"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tq9flocl_62700.jpg",
+                "ImageUpdateUTC": "2018-05-29T13:57:48"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zbgrpb4f_or62700.jpg",
+                "ImageUpdateUTC": "2018-05-29T13:57:48"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/vckv4lsl_62700.jpg",
+                "ImageUpdateUTC": "2018-05-29T13:57:48"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/246nsa7a_62700.jpg",
+                "ImageUpdateUTC": "2018-05-29T13:57:48"
+            }
+        ]
+    }
+]

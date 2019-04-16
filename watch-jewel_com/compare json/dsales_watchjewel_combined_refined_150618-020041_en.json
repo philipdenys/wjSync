@@ -1,0 +1,206 @@
+[
+    {
+        "SKU": "SUP351P1",
+        "ListedSKU": "WC170657",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4954628210937",
+        "Title": "Seiko Solar Powered Ladies Watch SUP351P1",
+        "Description": "Seiko Solar Powered Ladies Watch SUP351P1",
+        "Brand": "SEIKO",
+        "RRP": 319,
+        "Price": 179.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-14T22:48:20.547",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Solar",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Multicolour",
+        "SPEC_Band_Width_mm": "12",
+        "SPEC_Band_Length_cm": "19",
+        "SPEC_Case_Diameter_mm": "23",
+        "SPEC_Case_Thickness_mm": "7",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "45",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/dba6yoj5_sup351p1.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-01-11T10:33:58"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ifagg5xx_sup351p1.jpg",
+                "ImageUpdateUTC": "2018-06-14T14:48:48"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/49kyhkab_sup351p1.jpg",
+                "ImageUpdateUTC": "2018-06-14T14:48:48"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/m1pvl5wk_sup351p1.jpg",
+                "ImageUpdateUTC": "2018-06-14T14:48:48"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/qqtf7krj_sup351p1.jpg",
+                "ImageUpdateUTC": "2018-06-14T14:48:48"
+            }
+        ]
+    },
+    {
+        "SKU": "ESBA11258C600",
+        "ListedSKU": "WC153874",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945214548",
+        "Title": "Esprit Steel Chic Rose",
+        "Description": "Esprit Steel Chic Rose",
+        "Brand": "Esprit Steel",
+        "RRP": 64.9,
+        "Price": 37.97,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-14T22:48:20.547",
+        "SPEC_Model_Name": "Chic",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "18.8",
+        "SPEC_Jewel_type": "Bangle",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Metal Color": "Rosegold",
+        "SPEC_Clasp_type": "Bangle bracelet clasp",
+        "SPEC_Length-cm": "60",
+        "SPEC_Width-cm": "0.4",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esba11258c600_85n6jc.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-04-20T08:55:10"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esba11258c600_xkdow7.jpg",
+                "ImageUpdateUTC": "2017-05-18T14:47:02"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esba11258c600_0mcrca.jpg",
+                "ImageUpdateUTC": "2017-05-18T14:47:02"
+            }
+        ]
+    },
+    {
+        "SKU": "1-1691G",
+        "ListedSKU": "WC155352",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4040662109310",
+        "Title": "JL Dames Sport",
+        "Description": "JL Dames Sport",
+        "Brand": "JACQUES LEMANS",
+        "RRP": 129,
+        "Price": 53.1,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-06-14T22:42:16.303",
+        "SPEC_FNSKU": "X000JI7Z9Z",
+        "SPEC_Model Name": "Sport",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Blue",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "41",
+        "SPEC_Case_Thickness_mm": "10.5",
+        "SPEC_Bezel_Function": "Bezel with numbers",
+        "SPEC_Bezel_Material_Type": "Stainless steel",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "73.2",
+        "SPEC_Dial_Window_Material": "Special hardened crystal",
+        "SPEC_Brand Description": "Jacques Lemans is an international watch producer based in Carinthia/Austria. Milions of content customers in more than 120 countries worldwide love and trust their Jacques Lemans watches every single day.This enormous success is based on a clear-cut philosophy: best quality and manufacturing at an affordable price. Jacques Lemans watches are simply outstanding due to premium manufacturing, absolute reliability, innovative technique and stylish elegance.The various Jacques Lemans styles \u201eClassic\u201c, \u201eSport\u201c, \u201eLa Passion\u201c, \u201eHigh Tech Ceramic\u201c, \u201eAutomatic\u201c or \u201eRetro\u201c enjoy great popularity.From the initial idea to rough sketches, from final design to production, marketing and sales \u2013 Jacques Lemans is doing everything \u201ein-house\u201c, which is not only a slogan but truly lived corporate culture and therefore an immensely important part of the Jacques Lemans success Story.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1-1691g_thx1a.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "1-1461C",
+        "ListedSKU": "WC171591",
+        "ParentSKU": "1-1461GR",
+        "Category": "Watches",
+        "EAN": "4040662096177",
+        "Title": "JL Classic London Unisex",
+        "Description": "JL Classic London Unisex",
+        "Brand": "JACQUES LEMANS",
+        "RRP": 99,
+        "Price": 66.64,
+        "PriceUpdateUTC": null,
+        "Stock": 2,
+        "StockUpdateUTC": "2018-06-14T22:51:31.91",
+        "SPEC_FNSKU": "X000JI7S1F",
+        "SPEC_Model Name": "Classic London",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "19",
+        "SPEC_Band_Length_cm": "25",
+        "SPEC_Case_Diameter_mm": "38",
+        "SPEC_Case_Thickness_mm": "6.5",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "37.1",
+        "SPEC_Dial_Window_Material": "Special hardened crystal",
+        "SPEC_Brand Description": "Jacques Lemans is an international watch producer based in Carinthia/Austria. Milions of content customers in more than 120 countries worldwide love and trust their Jacques Lemans watches every single day.This enormous success is based on a clear-cut philosophy: best quality and manufacturing at an affordable price. Jacques Lemans watches are simply outstanding due to premium manufacturing, absolute reliability, innovative technique and stylish elegance.The various Jacques Lemans styles \u201eClassic\u201c, \u201eSport\u201c, \u201eLa Passion\u201c, \u201eHigh Tech Ceramic\u201c, \u201eAutomatic\u201c or \u201eRetro\u201c enjoy great popularity.From the initial idea to rough sketches, from final design to production, marketing and sales \u2013 Jacques Lemans is doing everything \u201ein-house\u201c, which is not only a slogan but truly lived corporate culture and therefore an immensely important part of the Jacques Lemans success Story.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tl6rfprk_1-1461c.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-06-14T13:37:53"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/nhfjakfn_1-1461c.jpg",
+                "ImageUpdateUTC": "2018-06-14T16:03:00"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1-1461c_flwi1a.jpg",
+                "ImageUpdateUTC": "2018-06-14T16:03:00"
+            }
+        ]
+    }
+]

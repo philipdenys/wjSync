@@ -1,0 +1,48 @@
+[
+    {
+        "SKU": "ASG-050",
+        "ListedSKU": "WC148903",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470091921",
+        "Title": "Armband stainless steel 21 cm unisex",
+        "Description": "Armband stainless steel 21 cm unisex",
+        "Brand": "ORPHELIA STEEL/OTHER",
+        "RRP": 45,
+        "Price": 25,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-07-11T22:40:02.06",
+        "SPEC_Target_audience": "Unisex",
+        "SPEC_Weight-Gram": "37",
+        "SPEC_Jewel_type": "Bracelet",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Metal Color": "White",
+        "SPEC_Clasp_type": "Fold over clasp",
+        "SPEC_Length-cm": "21",
+        "SPEC_Width-cm": "1",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/asg-050_2.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/asg-050_ihajlt.jpg",
+                "ImageUpdateUTC": "2018-07-11T16:09:22"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/asg-050.jpg",
+                "ImageUpdateUTC": "2018-07-11T16:09:22"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/asg-050_1.jpg",
+                "ImageUpdateUTC": "2018-07-11T16:09:22"
+            }
+        ]
+    }
+]

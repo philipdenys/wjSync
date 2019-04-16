@@ -1,0 +1,233 @@
+[
+    {
+        "SKU": "1-1691G",
+        "ListedSKU": "WC155352",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4040662109310",
+        "Title": "JL Dames Sport",
+        "Description": "JL Dames Sport",
+        "Brand": "JACQUES LEMANS",
+        "RRP": 129,
+        "Price": 53.1,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-05-23T22:41:01.343",
+        "SPEC_Model Name": "Sport",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Blue",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "41",
+        "SPEC_Case_Thickness_mm": "10.5",
+        "SPEC_Bezel_Function": "Bezel with numbers",
+        "SPEC_Bezel_Material_Type": "Stainless steel",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "73.2",
+        "SPEC_Dial_Window_Material": "Special hardened crystal",
+        "SPEC_Brand Description": "Jacques Lemans is an international watch producer based in Carinthia/Austria. Milions of content customers in more than 120 countries worldwide love and trust their Jacques Lemans watches every single day.This enormous success is based on a clear-cut philosophy: best quality and manufacturing at an affordable price. Jacques Lemans watches are simply outstanding due to premium manufacturing, absolute reliability, innovative technique and stylish elegance.The various Jacques Lemans styles \u201eClassic\u201c, \u201eSport\u201c, \u201eLa Passion\u201c, \u201eHigh Tech Ceramic\u201c, \u201eAutomatic\u201c or \u201eRetro\u201c enjoy great popularity.From the initial idea to rough sketches, from final design to production, marketing and sales \u2013 Jacques Lemans is doing everything \u201ein-house\u201c, which is not only a slogan but truly lived corporate culture and therefore an immensely important part of the Jacques Lemans success Story.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1-1691g_thx1a.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "W86-1VQES",
+        "ListedSKU": "WC170626",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4971850437307",
+        "Title": "Casio Classic Collection",
+        "Description": "Casio Classic Collection",
+        "Brand": "CASIO",
+        "RRP": 35,
+        "Price": 15.21,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-05-23T22:39:28.82",
+        "SPEC_Model Name": "Classic Collection",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Digital",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Alarm",
+        "SPEC_Features_2": "Stopwatch",
+        "SPEC_Features_3": "Light",
+        "SPEC_Features_4": "24-Hours display",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Plastic",
+        "SPEC_Case_Style": "Rectangular",
+        "SPEC_Case_color": "Black",
+        "SPEC_Dial_Color": "Grey",
+        "SPEC_Band_Material": "Rubber",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Width_mm": "37",
+        "SPEC_Case_Length_mm": "39",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "26",
+        "SPEC_Dial_Window_Material": "Plastic glas",
+        "SPEC_Battery": "CR1620",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rtd4jc96_w-86-1vqes.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-01-04T10:13:01"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/wzldre85_w-86-1vqes.jpg",
+                "ImageUpdateUTC": "2018-02-21T10:11:57"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/9kgc3vpi_w-86-1vqes.jpg",
+                "ImageUpdateUTC": "2018-02-21T10:11:57"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/w-86-1vqe_1.jpg",
+                "ImageUpdateUTC": "2018-02-21T10:11:57"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/u2p3eugt_w-86-1vqes.jpg",
+                "ImageUpdateUTC": "2018-02-21T10:11:57"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/5cbyjq28_w-86-1vqes.jpg",
+                "ImageUpdateUTC": "2018-02-21T10:11:57"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/3a4puzac_w-86-1vqes.jpg",
+                "ImageUpdateUTC": "2018-02-21T10:11:57"
+            }
+        ]
+    },
+    {
+        "SKU": "153-7708-18",
+        "ListedSKU": "WC156274",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190010275",
+        "Title": "ORPHELIA Mens Analogue Watch Origin Silver Stainless steel",
+        "Description": "ORPHELIA Mens Analogue Watch Origin Silver Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 129,
+        "Price": 129,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-23T22:48:54.61",
+        "SPEC_Model Name": "Origin",
+        "SPEC_Catalogue Year": "2015",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "19",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "38",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Clasp_Type": "Expanding bracelet",
+        "SPEC_Weight_g": "73",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-7708-18_2abl45.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-03-10T11:45:12"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/153-7708-18_3.jpg",
+                "ImageUpdateUTC": "2018-05-23T15:39:40"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-7708-18_febqz.jpg",
+                "ImageUpdateUTC": "2018-05-23T15:39:40"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-7708-18_x0qw7.jpg",
+                "ImageUpdateUTC": "2018-05-23T15:39:40"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-7708-18_77vbi.jpg",
+                "ImageUpdateUTC": "2018-05-23T15:39:40"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/6ix4ajmb_153-7708-18.jpg",
+                "ImageUpdateUTC": "2018-05-23T15:39:40"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ikrfm3dd_153-7708-18.jpg",
+                "ImageUpdateUTC": "2018-05-23T15:39:40"
+            }
+        ]
+    },
+    {
+        "SKU": "A663.9025PEPA",
+        "ListedSKU": "WC171107",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "7611382556189",
+        "Title": "CAMEL ACTIVE OUTDOORS TIMEDATE RONDA 715 LI Rotating SWISS MADE 44",
+        "Description": "CAMEL ACTIVE OUTDOORS TIMEDATE RONDA 715 LI Rotating SWISS MADE 44",
+        "Brand": "CAMEL ACTIVE",
+        "RRP": 325,
+        "Price": 134.1,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-05-23T22:39:28.82",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/2pg9gjaz_a663.9025pepa.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-02-26T16:23:41"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/uewex6fm_a663.9025pepa.jpg",
+                "ImageUpdateUTC": "2018-05-23T17:04:37"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/h75jyhjt_a663.9025pepa.jpg",
+                "ImageUpdateUTC": "2018-05-23T17:04:37"
+            }
+        ]
+    }
+]

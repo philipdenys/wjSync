@@ -1,0 +1,112 @@
+[
+    {
+        "SKU": "PCNL10018C420",
+        "ListedSKU": "WC163962",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945375089",
+        "Title": "Pierre Cardin Steel L'Anneau",
+        "Description": "Pierre Cardin Steel L'Anneau",
+        "Brand": "Pierre Cardin Steel",
+        "RRP": 99,
+        "Price": 53.46,
+        "PriceUpdateUTC": null,
+        "Stock": 5,
+        "StockUpdateUTC": "2018-09-28T22:46:47.817",
+        "SPEC_Model_Name": "L'Anneau",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "15.15",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Metal Color": "Gold",
+        "SPEC_Material_type": "Epoxy",
+        "SPEC_Material_color": "White",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "4.5",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "3.4",
+        "SPEC_Gem_shape": "Round",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Gem_quantity": "12",
+        "SPEC_Info": "Length 40 cm+5 cm",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcnl10018c420_wimr3z.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-11-10T11:08:01"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcnl10018c420_140gyq.jpg",
+                "ImageUpdateUTC": "2017-03-21T12:13:36"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcnl10018c420_6pwsb6.jpg",
+                "ImageUpdateUTC": "2017-03-21T12:13:36"
+            }
+        ]
+    },
+    {
+        "SKU": "ESNL93226A420",
+        "ListedSKU": "WC153968",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945215248",
+        "Title": "Esprit Silver Symphony Silver",
+        "Description": "Esprit Silver Symphony Silver",
+        "Brand": "Esprit Silver",
+        "RRP": 99.9,
+        "Price": 58.45,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-09-28T22:46:47.817",
+        "SPEC_Model_Name": "Symphony",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "5.7",
+        "SPEC_Jewel_type": "Necklace",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "1.8",
+        "SPEC_Length-cm": "42",
+        "SPEC_Width-cm": "0.9",
+        "SPEC_Gem_shape": "Round",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Gem_quantity": "9",
+        "SPEC_Fruugo Title": "Esprit Silver Symphony Silver ESNL93226",
+        "SPEC_Fruugo Description": "Esprit Silver Symphony Silver ESNL93226A420",
+        "SPEC_Fruugo Category": "Apparel & Accessories > Jewelry > Necklaces > Womens",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl93226a420_rwy7a4.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-04-20T08:37:57"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl93226a420_8ubdba.jpg",
+                "ImageUpdateUTC": "2017-05-29T14:20:19"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl93226a420_576l94.jpg",
+                "ImageUpdateUTC": "2017-05-10T13:52:27"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl93226a420_lksfyl.jpg",
+                "ImageUpdateUTC": "2017-05-10T13:52:27"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl93226a420_axkfod.jpg",
+                "ImageUpdateUTC": "2017-05-10T13:52:27"
+            }
+        ]
+    }
+]

@@ -1,0 +1,441 @@
+[
+    {
+        "SKU": "PU911021001",
+        "ListedSKU": "PU911021001",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945167110",
+        "Title": "Puma Fuel Silver Black",
+        "Description": "Puma Fuel Silver Black",
+        "Brand": "Puma",
+        "RRP": null,
+        "Price": 40.2,
+        "PriceUpdateUTC": "2018-06-27T13:27:23.853",
+        "Stock": 0,
+        "StockUpdateUTC": "2018-06-27T22:39:34.297",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue - Digital",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Alarm",
+        "SPEC_Features_2": "Light",
+        "SPEC_Features_3": "Stop Watch",
+        "SPEC_Features_4": "Dual Time",
+        "SPEC_Calendar": "Day-Date-Month",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Plastic",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "20.0",
+        "SPEC_Case_Diameter_mm": "51",
+        "SPEC_Case_Thickness_mm": "18",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "62",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu911021001_f8bpy.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu911021001.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu911021001_1.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "SET-5228",
+        "ListedSKU": "WC163662",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470269528",
+        "Title": "Orphelia Damen Schmuckset Anh\u00e4nger mit kette + Ohrh\u00e4nger 925 Sterlingsilver mit Zirkonia SET-5228 / ZO-5228 ZH-4840",
+        "Description": "Orphelia Damen Schmuckset Anh\u00e4nger mit kette + Ohrh\u00e4nger 925 Sterlingsilver mit Zirkonia SET-5228 / ZO-5228 ZH-4840",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 210,
+        "Price": 89.1,
+        "PriceUpdateUTC": null,
+        "Stock": 5,
+        "StockUpdateUTC": "2018-06-27T22:39:34.297",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Set: Chain-Pendant + Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/set-5228_nt21zt.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/set-5228_6oqx7d.jpg",
+                "ImageUpdateUTC": "2017-03-08T10:22:33"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/set-5228_957ifr.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/set-5228_ne0zj8.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/set-5228_8wjg73.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "PU910801005",
+        "ListedSKU": "PU910801005",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945117153",
+        "Title": "Puma Loop Black",
+        "Description": "Puma Loop Black",
+        "Brand": "Puma",
+        "RRP": null,
+        "Price": 22.98,
+        "PriceUpdateUTC": "2018-06-27T13:27:24.66",
+        "Stock": 0,
+        "StockUpdateUTC": "2018-06-27T22:39:34.297",
+        "SPEC_Model Name": "Empower L",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Digital",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Stop Watch",
+        "SPEC_Features_2": "Alarm",
+        "SPEC_Features_3": "Timer",
+        "SPEC_Features_4": "Dual Time",
+        "SPEC_Calendar": "Day-Date-Month",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Plastic",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Black",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Plastic",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "44",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "45.7",
+        "SPEC_Dial_Window_Material": "Plexiglass",
+        "SPEC_Battery": "CR2016",
+        "SPEC_Brand Description": "The watches of PUMA Time collection emphasizes the casual and cool lifestyle of young, active and sporty PUMA fans. This is reflected in the very clear and minimalist aesthetics of the dials, the trendy color selection and the high-quality materials. In conjunction with sophisticated technical functions, the women's and men's watches are the absolute trendsetters.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu910801005_n1npok.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-03-22T16:22:42"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu910801005_u0q6rx.jpg",
+                "ImageUpdateUTC": "2017-04-04T11:01:33"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu910801005_8athim.jpg",
+                "ImageUpdateUTC": "2017-04-04T11:01:33"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu910801005_b8mjlr.jpg",
+                "ImageUpdateUTC": "2017-04-04T11:01:33"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu910801005_euc9n5.jpg",
+                "ImageUpdateUTC": "2017-04-04T11:01:33"
+            }
+        ]
+    },
+    {
+        "SKU": "PU103641001",
+        "ListedSKU": "PU103641001",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945178826",
+        "Title": "Puma Cool Down grey yellow",
+        "Description": "Puma Cool Down grey yellow",
+        "Brand": "Puma",
+        "RRP": null,
+        "Price": 48,
+        "PriceUpdateUTC": "2018-06-27T13:27:24.73",
+        "Stock": 0,
+        "StockUpdateUTC": "2018-06-27T22:39:34.297",
+        "SPEC_Model Name": "Cool Down",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Grey",
+        "SPEC_Dial_Color": "Grey",
+        "SPEC_Band_Material": "Nylon",
+        "SPEC_Band_Color": "Bicolour",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "46",
+        "SPEC_Case_Thickness_mm": "11",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "70",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "SR626SW",
+        "SPEC_Brand Description": "The watches of PUMA Time collection emphasizes the casual and cool lifestyle of young, active and sporty PUMA fans. This is reflected in the very clear and minimalist aesthetics of the dials, the trendy color selection and the high-quality materials. In conjunction with sophisticated technical functions, the women's and men's watches are the absolute trendsetters.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu103641001_nmmtas.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-08-02T08:49:49"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu103641001_le01de.jpg",
+                "ImageUpdateUTC": "2016-10-31T13:57:27"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu103641001_wqijnv.jpg",
+                "ImageUpdateUTC": "2016-10-31T13:57:27"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu103641001_3l6str.jpg",
+                "ImageUpdateUTC": "2016-10-31T13:57:27"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu103641001_v2yzr2.jpg",
+                "ImageUpdateUTC": "2016-10-31T13:57:27"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu103641001_0ol84n.jpg",
+                "ImageUpdateUTC": "2016-10-31T13:57:27"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu103641001_4nyi88.jpg",
+                "ImageUpdateUTC": "2016-10-31T13:57:27"
+            }
+        ]
+    },
+    {
+        "SKU": "OR12703",
+        "ListedSKU": "WC162364",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081510",
+        "Title": "ORPHELIA Women Analogue Watch Silver Stainless steel",
+        "Description": "ORPHELIA Women Analogue Watch Silver Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 129,
+        "Price": 129,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-27T22:54:02.247",
+        "SPEC_FNSKU": "X000RIG3S1",
+        "SPEC_Model Name": "La Rose",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Mother of pearl",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "36",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Gem_Type": "Zirkonia",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "100",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "SPEC_Product Description": "Orphelia",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2018",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/lmhswnrt_12703.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-06T08:37:19"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/12703_4thp4z.jpg",
+                "ImageUpdateUTC": "2018-06-27T12:34:18"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/xyb6lzoe_or12703.jpg",
+                "ImageUpdateUTC": "2018-06-27T12:34:18"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/12703_lqqhwp.jpg",
+                "ImageUpdateUTC": "2018-06-27T12:34:18"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/12703_lc0ugf.jpg",
+                "ImageUpdateUTC": "2018-06-27T12:34:18"
+            }
+        ]
+    },
+    {
+        "SKU": "PU102941001",
+        "ListedSKU": "PU102941001",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945155834",
+        "Title": "Puma Ultrasize Black",
+        "Description": "Puma Ultrasize Black",
+        "Brand": "Puma",
+        "RRP": null,
+        "Price": 53.04,
+        "PriceUpdateUTC": "2018-06-27T13:27:25.183",
+        "Stock": 0,
+        "StockUpdateUTC": "2018-06-27T22:39:34.297",
+        "SPEC_Model Name": "Ultrasize 50",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Black",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Plastic",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "27",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Diameter_mm": "50",
+        "SPEC_Case_Thickness_mm": "13",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "109",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Battery": "SR626SW",
+        "SPEC_Brand Description": "The watches of PUMA Time collection emphasizes the casual and cool lifestyle of young, active and sporty PUMA fans. This is reflected in the very clear and minimalist aesthetics of the dials, the trendy color selection and the high-quality materials. In conjunction with sophisticated technical functions, the women's and men's watches are the absolute trendsetters.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu102941001_x8hr3p.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu102941001_4e6f2u.jpg",
+                "ImageUpdateUTC": "2017-04-04T11:25:38"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu102941001_7e25jg.jpg",
+                "ImageUpdateUTC": "2017-04-04T11:25:38"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu102941001_071hxd.jpg",
+                "ImageUpdateUTC": "2017-04-04T11:25:38"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu102941001_3zzoks.jpg",
+                "ImageUpdateUTC": "2017-04-04T11:25:38"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu102941001_ilnpgn.jpg",
+                "ImageUpdateUTC": "2017-04-04T11:25:38"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu102941001_om5w45.jpg",
+                "ImageUpdateUTC": "2017-04-04T11:25:38"
+            }
+        ]
+    },
+    {
+        "SKU": "132-7709-88",
+        "ListedSKU": "WC156868",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5400470138022",
+        "Title": "ORPHELIA Mens Analogue Watch Puro Silver Stainless steel",
+        "Description": "ORPHELIA Mens Analogue Watch Puro Silver Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 159,
+        "Price": 159,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-27T22:46:10.91",
+        "SPEC_FNSKU": "X000KYDRH7",
+        "SPEC_Model Name": "Puro",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "38",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "88.8",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Product Description": "Orphelia",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue Year": "2012",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/132-7709-88_wdu9pn.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/132-7709-88_ttti8u.jpg",
+                "ImageUpdateUTC": "2018-06-27T11:46:31"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/132-7709-88_goj9yl.jpg",
+                "ImageUpdateUTC": "2018-06-27T11:46:31"
+            }
+        ]
+    }
+]

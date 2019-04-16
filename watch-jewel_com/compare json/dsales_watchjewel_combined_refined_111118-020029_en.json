@@ -1,0 +1,66 @@
+[
+    {
+        "SKU": "PU103501002",
+        "ListedSKU": "WC155230",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945178253",
+        "Title": "Puma Iconic Black",
+        "Description": "Puma Iconic Black",
+        "Brand": "Puma",
+        "RRP": 85,
+        "Price": 40.8,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-11-10T23:50:28.82",
+        "SPEC_Model Name": "Iconic",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Plastic",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Black",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Plastic",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "49",
+        "SPEC_Case_Thickness_mm": "13",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "70",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "SR626SW",
+        "SPEC_Brand Description": "The watches of PUMA Time collection emphasizes the casual and cool lifestyle of young, active and sporty PUMA fans. This is reflected in the very clear and minimalist aesthetics of the dials, the trendy color selection and the high-quality materials. In conjunction with sophisticated technical functions, the women's and men's watches are the absolute trendsetters.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu103501002_ufqhwc.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-08-01T15:02:40"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu103501002_gs1rhi.jpg",
+                "ImageUpdateUTC": "2017-01-17T16:36:42"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu103501002_bvqvmz.jpg",
+                "ImageUpdateUTC": "2017-01-17T16:36:42"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu103501002_laiv0h.jpg",
+                "ImageUpdateUTC": "2017-01-17T16:36:42"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu103501002_62wpu7.jpg",
+                "ImageUpdateUTC": "2017-01-17T16:36:42"
+            }
+        ]
+    }
+]

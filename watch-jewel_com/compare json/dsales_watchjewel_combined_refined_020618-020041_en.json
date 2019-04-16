@@ -1,0 +1,124 @@
+[
+    {
+        "SKU": "ESBA11258C600",
+        "ListedSKU": "WC153874",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945214548",
+        "Title": "Esprit Steel Chic Rose",
+        "Description": "Esprit Steel Chic Rose",
+        "Brand": "Esprit Steel",
+        "RRP": 64.9,
+        "Price": 37.97,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-01T22:47:16.357",
+        "SPEC_Model_Name": "Chic",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "18.8",
+        "SPEC_Jewel_type": "Bangle",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Metal Color": "Rosegold",
+        "SPEC_Clasp_type": "Bangle bracelet clasp",
+        "SPEC_Length-cm": "60",
+        "SPEC_Width-cm": "0.4",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esba11258c600_85n6jc.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-04-20T08:55:10"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esba11258c600_xkdow7.jpg",
+                "ImageUpdateUTC": "2017-05-18T14:47:02"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esba11258c600_0mcrca.jpg",
+                "ImageUpdateUTC": "2017-05-18T14:47:02"
+            }
+        ]
+    },
+    {
+        "SKU": "153-7901-48",
+        "ListedSKU": "WC155912",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190010329",
+        "Title": "ORPHELIA Mens Chronograph Watch Drive Silver Stainless steel",
+        "Description": "ORPHELIA Mens Chronograph Watch Drive Silver Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 269,
+        "Price": 269,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-01T22:56:20.443",
+        "SPEC_Model Name": "Drive",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Chronograph",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_Features_2": "Stopwatch",
+        "SPEC_Features_3": "Luminous Hand",
+        "SPEC_Features_4": "Luminous Numerals",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "27",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "46",
+        "SPEC_Case_Thickness_mm": "13",
+        "SPEC_Bezel_Function": "Tachymeter",
+        "SPEC_Clasp_Type": "Fold over clasp with double push button safety",
+        "SPEC_Weight_g": "171",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2015",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-7901-48_jgc970.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-7901-48_yv99t.jpg",
+                "ImageUpdateUTC": "2018-06-01T11:06:30"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-7901-48_o4kmi.jpg",
+                "ImageUpdateUTC": "2018-06-01T11:06:30"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-7901-48_f2yfv.jpg",
+                "ImageUpdateUTC": "2018-06-01T11:06:30"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/153-7901-48_8avbzd.jpg",
+                "ImageUpdateUTC": "2018-06-01T11:06:30"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/fbqzh49r_153-7901-48.jpg",
+                "ImageUpdateUTC": "2018-06-01T11:06:30"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/nkictc6q_153-7901-48.jpg",
+                "ImageUpdateUTC": "2018-06-01T11:06:30"
+            }
+        ]
+    }
+]

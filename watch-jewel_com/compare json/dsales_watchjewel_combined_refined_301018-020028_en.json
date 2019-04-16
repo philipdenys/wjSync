@@ -1,0 +1,175 @@
+[
+    {
+        "SKU": "PK-021",
+        "ListedSKU": "WC154224",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470637310",
+        "Title": "KETTING 45CM ZIRC.",
+        "Description": "KETTING 45CM ZIRC.",
+        "Brand": "ORPHELIA STEEL/OTHER",
+        "RRP": 119,
+        "Price": 44.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-10-29T23:40:43.76",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "1.2",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pk-021_luack3.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-06-28T10:13:09"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pk-021_iehw0q.jpg",
+                "ImageUpdateUTC": "2016-06-28T10:13:45"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pk-021_nz9f2h.jpg",
+                "ImageUpdateUTC": "2016-06-28T10:13:45"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pk-021_1kfzw8.jpg",
+                "ImageUpdateUTC": "2016-06-28T10:13:45"
+            }
+        ]
+    },
+    {
+        "SKU": "PU104181001",
+        "ListedSKU": "WC155331",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945228323",
+        "Title": "Puma Impact One Black Gold",
+        "Description": "Puma Impact One Black Gold",
+        "Brand": "Puma",
+        "RRP": 115,
+        "Price": 55.2,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-10-29T23:49:11.237",
+        "SPEC_Model Name": "Impact One",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Black",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "23",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Diameter_mm": "48",
+        "SPEC_Case_Thickness_mm": "11",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "100",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "SR626SW",
+        "SPEC_Brand Description": "The watches of PUMA Time collection emphasizes the casual and cool lifestyle of young, active and sporty PUMA fans. This is reflected in the very clear and minimalist aesthetics of the dials, the trendy color selection and the high-quality materials. In conjunction with sophisticated technical functions, the women's and men's watches are the absolute trendsetters.",
+        "Images": [
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu104181001_y2qqx6.jpeg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-01-11T15:24:38"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu104181001_kz1u1b.jpg",
+                "ImageUpdateUTC": "2017-01-17T15:08:19"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu104181001_mb6med.jpg",
+                "ImageUpdateUTC": "2017-01-17T15:08:19"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu104181001_fdy72o.jpg",
+                "ImageUpdateUTC": "2017-01-17T15:08:19"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu104181001_ep08qi.jpg",
+                "ImageUpdateUTC": "2017-01-17T15:08:19"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu104181001_85yivv.jpg",
+                "ImageUpdateUTC": "2017-01-17T15:08:19"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-7211",
+        "ListedSKU": "WC162746",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190069815",
+        "Title": "Orphelia Silver 925 Earring Drop Links Zirconium",
+        "Description": "Orphelia Silver 925 Earring Drop Links Zirconium",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 169,
+        "Price": 89.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-10-29T23:59:38.35",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "10.6",
+        "SPEC_Jewel_type": "Drop Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Length-cm": "4",
+        "SPEC_Width-cm": "1.5",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Earring Drop Links Zirconium  ZO-7211",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Drop Links Zirconium  ZO-7211",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7211_4hukze.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-03-28T09:31:14"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7211_j8c7mq.jpg",
+                "ImageUpdateUTC": "2018-10-29T14:12:21"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7211_czjyvw.jpg",
+                "ImageUpdateUTC": "2018-10-29T14:12:21"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7211_bh9qyp.jpg",
+                "ImageUpdateUTC": "2018-10-29T14:12:21"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7211_ewqxsj.jpg",
+                "ImageUpdateUTC": "2018-10-29T14:12:21"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7211_561vcp.jpg",
+                "ImageUpdateUTC": "2018-10-29T14:12:21"
+            }
+        ]
+    }
+]

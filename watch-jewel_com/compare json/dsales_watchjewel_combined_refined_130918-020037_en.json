@@ -1,0 +1,544 @@
+[
+    {
+        "SKU": "1-1808C",
+        "ListedSKU": "WC155333",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4040662125259",
+        "Title": "Heren Sport Liverpool",
+        "Description": "Heren Sport Liverpool",
+        "Brand": "JACQUES LEMANS",
+        "RRP": 229,
+        "Price": 229,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-09-12T22:49:09.863",
+        "SPEC_FNSKU": "X000JI80LR",
+        "SPEC_Model Name": "Sport Liverpool",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Chronograph",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Stop Watch",
+        "SPEC_Features_2": "24-Hours display",
+        "SPEC_Features_3": "Luminous Hand",
+        "SPEC_Features_4": "Luminous Numerals",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Multicolour",
+        "SPEC_Dial_Color": "Multicolour",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "24",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Diameter_mm": "50",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Bezel_Function": "Bezel with indices",
+        "SPEC_Bezel_Material_Type": "Stainless steel",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "125",
+        "SPEC_Dial_Window_Material": "Special hardened crystal",
+        "SPEC_Brand Description": "Jacques Lemans is an international watch producer based in Carinthia/Austria. Milions of content customers in more than 120 countries worldwide love and trust their Jacques Lemans watches every single day.This enormous success is based on a clear-cut philosophy: best quality and manufacturing at an affordable price. Jacques Lemans watches are simply outstanding due to premium manufacturing, absolute reliability, innovative technique and stylish elegance.The various Jacques Lemans styles \u201eClassic\u201c, \u201eSport\u201c, \u201eLa Passion\u201c, \u201eHigh Tech Ceramic\u201c, \u201eAutomatic\u201c or \u201eRetro\u201c enjoy great popularity.From the initial idea to rough sketches, from final design to production, marketing and sales \u2013 Jacques Lemans is doing everything \u201ein-house\u201c, which is not only a slogan but truly lived corporate culture and therefore an immensely important part of the Jacques Lemans success Story.",
+        "Images": [
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1-1808c_7dhxcn.png",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "PK-021",
+        "ListedSKU": "WC154224",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470637310",
+        "Title": "KETTING 45CM ZIRC.",
+        "Description": "KETTING 45CM ZIRC.",
+        "Brand": "ORPHELIA STEEL/OTHER",
+        "RRP": 119,
+        "Price": 44.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-09-12T22:39:07.97",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "1.2",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pk-021_luack3.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-06-28T10:13:09"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pk-021_iehw0q.jpg",
+                "ImageUpdateUTC": "2016-06-28T10:13:45"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pk-021_nz9f2h.jpg",
+                "ImageUpdateUTC": "2016-06-28T10:13:45"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pk-021_1kfzw8.jpg",
+                "ImageUpdateUTC": "2016-06-28T10:13:45"
+            }
+        ]
+    },
+    {
+        "SKU": "ZA-1975",
+        "ListedSKU": "WC163652",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470193076",
+        "Title": "ORPHELIA BRACELET HAMMERED 19 CM",
+        "Description": "ORPHELIA BRACELET HAMMERED 19 CM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 149,
+        "Price": 44.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-09-12T22:54:33.173",
+        "SPEC_FNSKU": "X000VD74F3",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "14.3120",
+        "SPEC_Jewel_type": "Bracelet",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "19",
+        "SPEC_Width-cm": "1",
+        "SPEC_Ring type": "Ring without stones",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1975.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rir4dzqd_za-1975.jpg",
+                "ImageUpdateUTC": "2018-09-12T09:27:26"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ovpq65sw_za-1975.jpg",
+                "ImageUpdateUTC": "2018-09-12T09:27:26"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/gygyfovm_za-1975.jpg",
+                "ImageUpdateUTC": "2018-09-12T09:27:26"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1975_isskdc.jpg",
+                "ImageUpdateUTC": "2018-09-12T09:27:26"
+            }
+        ]
+    },
+    {
+        "SKU": "ZA-6012",
+        "ListedSKU": "WC151068",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190010916",
+        "Title": "ORPHELIA BRACELET ROSE LEATHER ZIRCONIUM",
+        "Description": "ORPHELIA BRACELET ROSE LEATHER ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 89,
+        "Price": 44.1,
+        "PriceUpdateUTC": null,
+        "Stock": 3,
+        "StockUpdateUTC": "2018-09-12T22:41:00.627",
+        "SPEC_FNSKU": "X000VCXN77",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "8.2",
+        "SPEC_Jewel_type": "Bracelet",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Material_type": "Glass",
+        "SPEC_Material_color": "White",
+        "SPEC_Length-cm": "38",
+        "SPEC_Width-cm": "0.5",
+        "SPEC_Diameter-cm": "7",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Ring type": "Ring without stones",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Bracelet Rose Leather Zirconium  ZA-6012",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Bracelet Rose Leather Zirconium  ZA-6012",
+        "SPEC_Fruugo Category": "Jewellery > Women > Bracelet ",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-6012_3h5x86.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-08-01T12:01:12"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-6012_w89gwx.jpg",
+                "ImageUpdateUTC": "2018-09-12T09:36:38"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-6012_1.jpg",
+                "ImageUpdateUTC": "2018-09-12T09:36:38"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-6012_92gx96.jpg",
+                "ImageUpdateUTC": "2018-09-12T09:36:38"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/jsns8del_za-6012.jpg",
+                "ImageUpdateUTC": "2018-09-12T09:36:38"
+            }
+        ]
+    },
+    {
+        "SKU": "OR51709",
+        "ListedSKU": "WC162372",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082197",
+        "Title": "ORPHELIA Unisex Analogue Watch Modern Classic Black Leather",
+        "Description": "ORPHELIA Unisex Analogue Watch Modern Classic Black Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-09-12T22:54:33.173",
+        "SPEC_FNSKU": "X000S3U84Z",
+        "SPEC_Model Name": "Modern Classic",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "19",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "38",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "SPEC_Product Description": "Orphelia",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Fruugo Title": "ORPHELIA Unisex Analogue Watch Modern Classic Black Leather OR51709",
+        "SPEC_Fruugo Description": "ORPHELIA Unisex Analogue Watch Modern Classic Black Leather OR51709",
+        "SPEC_Fruugo Category": "Apparel & Accessories > Jewelry > Watches > Adult (unisex)",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/7mh59lsz_51709.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:33:59"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/6wd5dsqo_51709.jpg",
+                "ImageUpdateUTC": "2018-07-03T13:46:28"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/4q44p5bp_or51709.jpg",
+                "ImageUpdateUTC": "2018-07-03T13:46:28"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/e1zoc25q_or51709.jpg",
+                "ImageUpdateUTC": "2018-07-03T13:46:28"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/3g1t783p_or51709.jpg",
+                "ImageUpdateUTC": "2018-07-03T13:46:28"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1klbepmn_51709.jpg",
+                "ImageUpdateUTC": "2018-07-03T13:46:28"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/e5ivku38_51709.jpg",
+                "ImageUpdateUTC": "2018-07-03T13:46:28"
+            }
+        ]
+    },
+    {
+        "SKU": "OR51710",
+        "ListedSKU": "WC162384",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082203",
+        "Title": "ORPHELIA Unisex Analogue Watch Modern Classic Blue Leather",
+        "Description": "ORPHELIA Unisex Analogue Watch Modern Classic Blue Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-09-12T22:54:33.173",
+        "SPEC_FNSKU": "X000S3QLK5",
+        "SPEC_Model Name": "Modern Classic",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Blue",
+        "SPEC_Band_Width_mm": "19",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "38",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "SPEC_Product Description": "Orphelia",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2018",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/nneqk143_51710.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:33:59"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/y9ubnqiy_51710.jpg",
+                "ImageUpdateUTC": "2018-06-04T10:10:11"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ziqe9tsr_or51710.jpg",
+                "ImageUpdateUTC": "2018-06-04T10:10:11"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/x5ffoscm_or51710.jpg",
+                "ImageUpdateUTC": "2018-06-04T10:10:11"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/g5o8ch3j_or51710.jpg",
+                "ImageUpdateUTC": "2018-06-04T10:10:11"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/wtc4kceg_51710.jpg",
+                "ImageUpdateUTC": "2018-06-04T10:10:11"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/p1lwlktl_51710.jpg",
+                "ImageUpdateUTC": "2018-06-04T10:10:11"
+            }
+        ]
+    },
+    {
+        "SKU": "OR51708",
+        "ListedSKU": "WC162398",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082180",
+        "Title": "ORPHELIA Unisex Analogue Watch Modern Classic Brown Leather",
+        "Description": "ORPHELIA Unisex Analogue Watch Modern Classic Brown Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-09-12T22:54:33.173",
+        "SPEC_FNSKU": "X000S3NM0H",
+        "SPEC_Model Name": "Modern Classic",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Burgundy",
+        "SPEC_Band_Width_mm": "19",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "38",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "SPEC_Product Description": "Orphelia",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Fruugo Title": "ORPHELIA Unisex Analogue Watch Modern Classic Brown Leather OR51708",
+        "SPEC_Fruugo Description": "ORPHELIA Unisex Analogue Watch Modern Classic Brown Leather OR51708",
+        "SPEC_Fruugo Category": "Apparel & Accessories > Jewelry > Watches > Adult (unisex)",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ht2jhk25_51708.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:34:00"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/3ffar1jr_51708.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:17:55"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ipu2aqlf_or51708.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:17:55"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/uzeqqwbr_or51708.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:17:55"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ufya7n2q_or51708.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:17:55"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/uj5723ys_51708.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:17:55"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/166xd4ls_51708.jpg",
+                "ImageUpdateUTC": "2018-05-29T12:17:55"
+            }
+        ]
+    },
+    {
+        "SKU": "ZA-1976",
+        "ListedSKU": "WC162735",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470193083",
+        "Title": "ORPHELIA BRACELET CHARMS 19 CM",
+        "Description": "ORPHELIA BRACELET CHARMS 19 CM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 75,
+        "Price": 28.8,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-09-12T22:54:33.173",
+        "SPEC_FNSKU": "X000VD74DZ",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "7.4654",
+        "SPEC_Jewel_type": "Bracelet",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring type": "Ring without stones",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1976.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1976_ab80u9.jpg",
+                "ImageUpdateUTC": "2018-09-12T09:28:53"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1976_btes5d.jpg",
+                "ImageUpdateUTC": "2018-09-12T09:28:53"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1976_n8padi.jpg",
+                "ImageUpdateUTC": "2018-09-12T09:28:53"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1976_usx1el.jpg",
+                "ImageUpdateUTC": "2018-09-12T09:28:53"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1976_kri4nn.jpg",
+                "ImageUpdateUTC": "2018-09-12T09:28:53"
+            }
+        ]
+    },
+    {
+        "SKU": "ZA-6069",
+        "ListedSKU": "WC162568",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190019230",
+        "Title": "ORPHELIA KIDS BRACELET RED HEART",
+        "Description": "ORPHELIA KIDS BRACELET RED HEART",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 27,
+        "Price": 21.5,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-09-12T22:54:33.173",
+        "SPEC_FNSKU": "X000VD5F6X",
+        "SPEC_Target_audience": "Child",
+        "SPEC_Weight-Gram": "2",
+        "SPEC_Jewel_type": "Bracelet",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "14",
+        "SPEC_Width-cm": "0.5",
+        "SPEC_Ring type": "Ring without stones",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Kids Bracelet Red Heart  ZA-6069",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Kids Bracelet Red Heart  ZA-6069",
+        "SPEC_Fruugo Category": "Jewellery > Kids > Bracelet ",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-6069_t5tsjb.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-6069_o0jjqk.jpg",
+                "ImageUpdateUTC": "2018-09-12T09:41:30"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/jvz2r5fl_za-6069.jpg",
+                "ImageUpdateUTC": "2018-09-12T09:41:30"
+            }
+        ]
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "SKU": "155-2703-18",
+        "ListedSKU": "WC155496",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190010398",
+        "Title": "ORPHELIA Ladies Analogue Watch La belle  Silver Stainless steel",
+        "Description": "ORPHELIA Ladies Analogue Watch La belle  Silver Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 139,
+        "Price": 139,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-09-26T23:00:59.46",
+        "SPEC_FNSKU": "X000KYCZF7",
+        "SPEC_Model Name": "La belle ",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "19",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Bezel_Function": "Stone settings",
+        "SPEC_Bezel_Material_Type": "Stainless steel",
+        "SPEC_Gem_Type": "Swarovski-Crystal",
+        "SPEC_Clasp_Type": "Fold over clasp with double push button safety",
+        "SPEC_Weight_g": "124,3",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Product Description": "Orphelia",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2015",
+        "SPEC_Fruugo Title": "ORPHELIA Ladies Analogue Watch La belle  Silver Stainless steel 155-2703-18",
+        "SPEC_Fruugo Description": "ORPHELIA Ladies Analogue Watch La belle  Silver Stainless steel 155-2703-18",
+        "SPEC_Fruugo Category": "Apparel & Accessories > Jewelry > Watches > Womens",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/155-2703-18_9r8srk.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-03-10T12:02:30"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/155-2703-18_9sqat.jpg",
+                "ImageUpdateUTC": "2018-05-31T16:01:33"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/155-2703-18_42vbz.jpg",
+                "ImageUpdateUTC": "2018-05-31T16:01:33"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/155-2703-18_ksbs6.jpg",
+                "ImageUpdateUTC": "2018-05-31T16:01:33"
+            }
+        ]
+    }
+]

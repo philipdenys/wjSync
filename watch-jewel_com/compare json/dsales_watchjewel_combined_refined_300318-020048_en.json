@@ -1,0 +1,448 @@
+[
+    {
+        "SKU": "W0990G1",
+        "ListedSKU": "WC170599",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "0091661474460",
+        "Title": "Guess Watch Escrow",
+        "Description": "Guess Watch Escrow",
+        "Brand": "Guess",
+        "RRP": 159,
+        "Price": 98.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-29T22:38:12.16",
+        "SPEC_Model Name": "Escrow",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "44",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "125",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "SR920SW",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/w0990g1_yur2a1.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-06-27T08:41:51"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/k98p3s3b_w0990g1.jpg",
+                "ImageUpdateUTC": "2018-03-29T16:23:11"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/v7fa6g8u_w0990g1.jpg",
+                "ImageUpdateUTC": "2018-03-29T16:23:11"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/izgh3cnf_w0990g1.jpg",
+                "ImageUpdateUTC": "2018-03-29T16:23:11"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/aqzg641g_w0990g1.jpg",
+                "ImageUpdateUTC": "2018-03-29T16:23:11"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/w0990g1_bdq0gv.jpg",
+                "ImageUpdateUTC": "2018-03-29T16:23:11"
+            }
+        ]
+    },
+    {
+        "SKU": "ZA-1008",
+        "ListedSKU": "WC154175",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470269702",
+        "Title": "ARMBAND 18.5 CM FANTASY ZIRCONIUM",
+        "Description": "ARMBAND 18.5 CM FANTASY ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 65,
+        "Price": 29.16,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-29T22:38:12.16",
+        "SPEC_Weight-Gram": "7.4683",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Bracelet",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "18.5",
+        "SPEC_Width-cm": "1",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1008_syboye.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/za-1008.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1008_mlnexz.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1008_141b17.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "OR11707",
+        "ListedSKU": "WC162270",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081794",
+        "Title": "ORPHELIA Women Analogue Watch Fronte di marmo Blue Leather",
+        "Description": "ORPHELIA Women Analogue Watch Fronte di marmo Blue Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 79,
+        "Price": 79,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-29T22:52:46.313",
+        "SPEC_Model Name": "Fronte di marmo",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Mother of pearl",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Blue",
+        "SPEC_Band_Width_mm": "17",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "36",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "64",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/t3wmu4sr_11707.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:34:01"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/3pbxw7tz_11707.jpg",
+                "ImageUpdateUTC": "2018-03-14T15:31:36"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/de1hsevq_or11707.jpg",
+                "ImageUpdateUTC": "2018-03-14T15:31:36"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ti5dqxll_11707.jpg",
+                "ImageUpdateUTC": "2018-03-14T15:31:36"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/lxlyeg62_11707.jpg",
+                "ImageUpdateUTC": "2018-03-14T15:31:36"
+            }
+        ]
+    },
+    {
+        "SKU": "W0289L1",
+        "ListedSKU": "WC170609",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "0091661433535",
+        "Title": "Guess Watch Jet Setter Mlt 5 Atm 39.0mm Slb/Rgld Ladies Sport",
+        "Description": "Guess Watch Jet Setter Mlt 5 Atm 39.0mm Slb/Rgld Ladies Sport",
+        "Brand": "Guess",
+        "RRP": 199,
+        "Price": 120,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-03-29T22:38:12.16",
+        "SPEC_Model Name": "Jet Setter",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Fabric",
+        "SPEC_Band_Color": "Blue",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "18",
+        "SPEC_Case_Diameter_mm": "39",
+        "SPEC_Case_Thickness_mm": "11",
+        "SPEC_Bezel_Function": "Stone settings",
+        "SPEC_Bezel_Material_Type": "Stainless steel",
+        "SPEC_Gem_Type": "Zirkonia",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "70",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ed98ye63_w0289l1.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-03-29T10:22:07"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/d8ibjjc6_w0289l1.jpg",
+                "ImageUpdateUTC": "2018-03-29T12:25:18"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/qpipbwb1_w0289l1.jpg",
+                "ImageUpdateUTC": "2018-03-29T12:25:18"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/2r2pqtzy_w0289l1.jpg",
+                "ImageUpdateUTC": "2018-03-29T12:25:18"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/29a6n4gj_w0289l1.jpg",
+                "ImageUpdateUTC": "2018-03-29T12:25:18"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/p4ze4ns2_w0289l1.jpg",
+                "ImageUpdateUTC": "2018-03-29T12:25:18"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ixejexg4_w0289l1.jpg",
+                "ImageUpdateUTC": "2018-03-29T12:25:18"
+            }
+        ]
+    },
+    {
+        "SKU": "W0969G2",
+        "ListedSKU": "WC155821",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "0091661471360",
+        "Title": "Guess Watch Fleet",
+        "Description": "Guess Watch Fleet",
+        "Brand": "Guess",
+        "RRP": 269,
+        "Price": 152.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-29T22:44:54.763",
+        "SPEC_Model Name": "Fleet",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Chronograph",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Stopwatch",
+        "SPEC_Features_2": "24-Hours display",
+        "SPEC_Features_3": "Tachymeter",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Black",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "44",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Bezel_Function": "Tachymeter",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "360",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/w0969g2_b8nypf.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-10-24T15:15:22"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/w0969g2_bf95xd.jpg",
+                "ImageUpdateUTC": "2017-11-02T16:48:22"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/w9x2uo53_w0969g2.jpg",
+                "ImageUpdateUTC": "2018-03-29T14:17:00"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/w0969g2_xlop6s.jpg",
+                "ImageUpdateUTC": "2017-11-02T11:24:29"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/w0969g2_tugjz5.jpg",
+                "ImageUpdateUTC": "2017-11-02T11:24:29"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/w0969g2_mmhcin.jpg",
+                "ImageUpdateUTC": "2017-11-02T11:24:29"
+            }
+        ]
+    },
+    {
+        "SKU": "OR11708",
+        "ListedSKU": "WC162406",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081787",
+        "Title": "ORPHELIA Women Analogue Watch Fronte di marmo Pink Leather",
+        "Description": "ORPHELIA Women Analogue Watch Fronte di marmo Pink Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 79,
+        "Price": 79,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-29T22:52:46.313",
+        "SPEC_Model Name": "Fronte di marmo",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Mother of pearl",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Pink",
+        "SPEC_Band_Width_mm": "17",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "36",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "64",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/r8sc77iy_11708.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:34:00"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ppyp2iik_11708.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:53:54"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/kwp1r3gm_or11708.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:53:54"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/runqmqkq_11708.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:53:54"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/gahbvstk_11708.jpg",
+                "ImageUpdateUTC": "2018-03-14T17:53:54"
+            }
+        ]
+    },
+    {
+        "SKU": "OR11706",
+        "ListedSKU": "WC162421",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081800",
+        "Title": "ORPHELIA Women Analogue Watch Fronte di marmo White Leather",
+        "Description": "ORPHELIA Women Analogue Watch Fronte di marmo White Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 79,
+        "Price": 79,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-29T22:52:46.313",
+        "SPEC_Model Name": "Fronte di marmo",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Alloy",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Mother of pearl",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "White",
+        "SPEC_Band_Width_mm": "17",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "36",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "64",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "377",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tvo1osix_11706.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-21T16:34:00"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/w1mr2dlx_11706.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:23:32"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/3f64x9pk_or11706.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:23:32"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/v2d9afaa_11706.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:23:32"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/x1q6ck2n_11706.jpg",
+                "ImageUpdateUTC": "2018-03-14T16:23:32"
+            }
+        ]
+    }
+]

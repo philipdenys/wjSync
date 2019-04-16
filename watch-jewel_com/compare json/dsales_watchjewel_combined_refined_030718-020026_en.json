@@ -1,0 +1,294 @@
+[
+    {
+        "SKU": "122-2702-88",
+        "ListedSKU": "WC154998",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5400470268521",
+        "Title": "ORPHELIA Ladies Analogue Watch A Dream Silver Stainless steel",
+        "Description": "ORPHELIA Ladies Analogue Watch A Dream Silver Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 199,
+        "Price": 199,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-07-02T22:33:51.04",
+        "SPEC_FNSKU": "X000KXPUOB",
+        "SPEC_Model Name": "A Dream",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "19",
+        "SPEC_Case_Diameter_mm": "29",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Bezel_Function": "Stone settings",
+        "SPEC_Bezel_Material_Type": "Stainless steel",
+        "SPEC_Gem_Type": "Zirkonia",
+        "SPEC_Clasp_Type": "Bangle bracelet clasp",
+        "SPEC_Weight_g": "96",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Product Description": "Orphelia",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue Year": "2014",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/122-2702-88.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/122-2702-88_3.jpg",
+                "ImageUpdateUTC": "2018-07-02T12:19:27"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/122-2702-88_1.jpg",
+                "ImageUpdateUTC": "2018-07-02T12:19:27"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/122-2702-88_2.jpg",
+                "ImageUpdateUTC": "2018-07-02T12:19:27"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/71whz1d7_122-2702-88.jpg",
+                "ImageUpdateUTC": "2018-07-02T12:19:27"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/fqhcayne_122-2702-88.jpg",
+                "ImageUpdateUTC": "2018-07-02T12:19:27"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/sjondv2a_122-2702-88.jpg",
+                "ImageUpdateUTC": "2018-07-02T12:19:27"
+            },
+            {
+                "ImageSort": 7,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/h2fi3lul_122-2702-88.jpg",
+                "ImageUpdateUTC": "2018-07-02T12:19:27"
+            }
+        ]
+    },
+    {
+        "SKU": "ZA-1008",
+        "ListedSKU": "WC154175",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470269702",
+        "Title": "ARMBAND 18.5 CM FANTASY ZIRCONIUM",
+        "Description": "ARMBAND 18.5 CM FANTASY ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 65,
+        "Price": 29.16,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-07-02T22:32:18.13",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "7.4683",
+        "SPEC_Jewel_type": "Bracelet",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "18.5",
+        "SPEC_Width-cm": "1",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1008_syboye.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1008_mlnexz.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/za-1008.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1008_141b17.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "JP101462003",
+        "ListedSKU": "WC155357",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945194307",
+        "Title": "Joop Watch Sophia Simply Silver",
+        "Description": "Joop Watch Sophia Simply Silver",
+        "Brand": "Joop",
+        "RRP": 249,
+        "Price": 85.5,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-07-02T22:32:18.13",
+        "SPEC_Model Name": "Sophia",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Rectangular",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "10",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Width_mm": "17",
+        "SPEC_Case_Length_mm": "34",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Gem_Type": "Zirkonia",
+        "SPEC_Clasp_Type": "Jewelry Clasp",
+        "SPEC_Weight_g": "60",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Brand Description": "Joop! is a first-class German branch created by the brilliant fashion designer Wolfgang Joop. It's famous all over the world thanks to its unconventional models, watches, and jewellery. Joop's! watches stand out among others thanks to their original perspective of the world and their style you never grow bored of. The jewellery and watches both for men and women are designed with their unique expressions. Joop!It's all about FASHION!",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/jp101462003_ohuvyy.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-02-16T09:11:39"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/jp101462003_i7vqqf.jpg",
+                "ImageUpdateUTC": "2017-02-16T10:11:48"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/jp101462003_0cp3nc.jpg",
+                "ImageUpdateUTC": "2017-02-16T10:11:48"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/jp101462003_grwky3.jpg",
+                "ImageUpdateUTC": "2017-02-16T10:11:48"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/jp101462003_485yfp.jpg",
+                "ImageUpdateUTC": "2017-02-16T10:11:48"
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-4382",
+        "ListedSKU": "WC153900",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470642406",
+        "Title": "PENDANT WITH CHAIN 925 SILVER DIAMOND AND ZIRCONIUM",
+        "Description": "PENDANT WITH CHAIN 925 SILVER DIAMOND AND ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 89,
+        "Price": 32.58,
+        "PriceUpdateUTC": null,
+        "Stock": 5,
+        "StockUpdateUTC": "2018-07-02T22:32:18.13",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "2.1000",
+        "SPEC_Jewel_type": "Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "1.3",
+        "SPEC_Width-cm": "1",
+        "SPEC_Diamond_quantity": "2",
+        "SPEC_Total_Diamond_Weight": "0.02",
+        "SPEC_Diamond_color": "White/Wesselton (H)",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_actll7.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-06-28T10:14:38"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_hoqzmk.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_6fw4ni.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_ad7l73.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            }
+        ]
+    },
+    {
+        "SKU": "554-6027-99",
+        "ListedSKU": "WC156786",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5400470645384",
+        "Title": "CLIPS HEREN LEDER STAAL",
+        "Description": "CLIPS HEREN LEDER STAAL",
+        "Brand": "Clips",
+        "RRP": 59,
+        "Price": 14.07,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-07-02T22:32:18.13",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": null,
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "23.5",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "8.5",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "37.2",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pidymko4_554-6027-99.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-04-17T15:10:10"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/lrgsfiv7_554-6027-99.jpg",
+                "ImageUpdateUTC": "2018-07-02T15:02:41"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/554-6027-99_1.jpg",
+                "ImageUpdateUTC": "2018-04-17T17:10:36"
+            }
+        ]
+    }
+]

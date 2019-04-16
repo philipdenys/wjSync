@@ -1,0 +1,247 @@
+[
+    {
+        "SKU": "ES108952002",
+        "ListedSKU": "WC155332",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945224370",
+        "Title": "Esprit Watch TP10895 Gold",
+        "Description": "Esprit Watch TP10895 Gold",
+        "Brand": "ESPRIT",
+        "RRP": 195,
+        "Price": 71.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-11-01T23:33:04.85",
+        "SPEC_FNSKU": "X000RHP79X",
+        "SPEC_Model Name": "TP1895",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Gold",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Gold",
+        "SPEC_Band_Width_mm": "16",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "36",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Bezel_Function": "Stone settings",
+        "SPEC_Gem_Type": "Swarovski-Crystal",
+        "SPEC_Clasp_Type": "Double fold over clasp with safety",
+        "SPEC_Weight_g": "95",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Battery": "SR621SW",
+        "SPEC_Brand Description": "The Esprit brand, established in San Francisco in 1968, is internationally known and stands for a modern, self-confident, but also uncomplicated design. Not only in terms of clothing, shoes and handbags Esprit is constantly setting new trends. With the Esprit Home line, the brand has established itself very successfully in residential design and lifestyle.  Timely  The Esprit Timewear brand line has long been an integral part of the international watch market and stands for the Esprit-typical combination of modern style, combined with self-confidence and sensuality as well as the highest quality standards.  Design  Esprit Timewear whether classic, glamorous or sporty, whether fashionable ladies watches with refined details or functional men's watches with a lot of flair for style and trends: Under the motto of designs, Esprit watch collection provides numerous opportunities to delight and connect people.",
+        "SPEC_Fruugo Title": "Esprit Watch TP10895 Gold ES108952002",
+        "SPEC_Fruugo Description": "Esprit Watch TP10895 Gold ES108952002",
+        "SPEC_Fruugo Category": "Apparel & Accessories > Jewelry > Watches > Womens",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/es108952002_hu57aj.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-12-12T14:43:43"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/es108952002_vhulo7.jpg",
+                "ImageUpdateUTC": "2016-12-20T15:48:29"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/es108952002_reqtn2.jpg",
+                "ImageUpdateUTC": "2016-12-20T15:48:33"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/es108952002_cnrigw.jpg",
+                "ImageUpdateUTC": "2016-12-21T15:31:54"
+            }
+        ]
+    },
+    {
+        "SKU": "PCNL10018C420",
+        "ListedSKU": "WC163962",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945375089",
+        "Title": "Pierre Cardin Steel L'Anneau",
+        "Description": "Pierre Cardin Steel L'Anneau",
+        "Brand": "Pierre Cardin Steel",
+        "RRP": 99,
+        "Price": 53.46,
+        "PriceUpdateUTC": null,
+        "Stock": 5,
+        "StockUpdateUTC": "2018-11-01T23:48:49.883",
+        "SPEC_Model_Name": "L'Anneau",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "15.15",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Metal Color": "Gold",
+        "SPEC_Material_type": "Epoxy",
+        "SPEC_Material_color": "White",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "4.5",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "3.4",
+        "SPEC_Gem_shape": "Round",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Gem_quantity": "12",
+        "SPEC_Info": "Length 40 cm+5 cm",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcnl10018c420_wimr3z.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-11-10T11:08:01"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcnl10018c420_140gyq.jpg",
+                "ImageUpdateUTC": "2017-03-21T12:13:36"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcnl10018c420_6pwsb6.jpg",
+                "ImageUpdateUTC": "2017-03-21T12:13:36"
+            }
+        ]
+    },
+    {
+        "SKU": "PC107861F03",
+        "ListedSKU": "WC155224",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945234515",
+        "Title": "Pierre Cardin Bourse Steel Brown",
+        "Description": "Pierre Cardin Bourse Steel Brown",
+        "Brand": "Pierre Cardin",
+        "RRP": 89.9,
+        "Price": 53.1,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-11-01T23:48:49.883",
+        "SPEC_Model Name": "Bourse",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Multicolour",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "21",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "48",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Battery": "SR621SW",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pc107861f03_babcw9.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-10-19T15:42:45"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/m1siivky_pc107861f03.jpg",
+                "ImageUpdateUTC": "2017-11-13T16:18:42"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pc107861f03_vgdo1c.jpg",
+                "ImageUpdateUTC": "2017-11-07T12:19:33"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pc107861f03_z8h2tu.jpg",
+                "ImageUpdateUTC": "2017-11-07T12:19:33"
+            }
+        ]
+    },
+    {
+        "SKU": "MRW-200H-1BVEF",
+        "ListedSKU": "MRW-200H-1BVEF",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4971850965022",
+        "Title": "Casio Collection Mens Watch MRW-200H-1BVEF",
+        "Description": "Casio Collection Mens Watch MRW-200H-1BVEF",
+        "Brand": "CASIO",
+        "RRP": 45,
+        "Price": 27.51,
+        "PriceUpdateUTC": "2018-08-29T14:31:09.83",
+        "Stock": 1,
+        "StockUpdateUTC": "2018-11-01T23:33:04.85",
+        "SPEC_Model Name": "Casio Collection",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Resin",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Black",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Plastic",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "45",
+        "SPEC_Case_Thickness_mm": "11",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "38",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Fruugo Title": "Casio Collection Mens Watch MRW-200H-1BVEF",
+        "SPEC_Fruugo Description": "Casio Collection Mens Watch MRW-200H-1BVEF",
+        "SPEC_Fruugo Category": "Apparel & Accessories > Jewelry > Watches > Men",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/bioxgteg_mrw-200h-1bvef.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-11-01T09:46:21"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/gne8ikuf_mrw-200h-1bvef.jpg",
+                "ImageUpdateUTC": "2018-11-01T10:48:29"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/s2m86cxh_mrw-200h-1bvef.jpg",
+                "ImageUpdateUTC": "2018-11-01T10:48:29"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/6qmfe9h9_mrw-200h-1bvef.jpg",
+                "ImageUpdateUTC": "2018-11-01T10:48:29"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/l5uyz3ku_mrw-200h-1bvef.jpg",
+                "ImageUpdateUTC": "2018-11-01T10:48:29"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/lkw6sshb_mrw-200h-1bvef.jpg",
+                "ImageUpdateUTC": "2018-11-01T10:48:29"
+            }
+        ]
+    }
+]

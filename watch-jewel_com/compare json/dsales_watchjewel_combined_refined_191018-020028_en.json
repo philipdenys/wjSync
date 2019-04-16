@@ -1,0 +1,349 @@
+[
+    {
+        "SKU": "PCNL10018C420",
+        "ListedSKU": "WC163962",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945375089",
+        "Title": "Pierre Cardin Steel L'Anneau",
+        "Description": "Pierre Cardin Steel L'Anneau",
+        "Brand": "Pierre Cardin Steel",
+        "RRP": 99,
+        "Price": 53.46,
+        "PriceUpdateUTC": null,
+        "Stock": 5,
+        "StockUpdateUTC": "2018-10-18T22:49:40.237",
+        "SPEC_Model_Name": "L'Anneau",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "15.15",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Metal Color": "Gold",
+        "SPEC_Material_type": "Epoxy",
+        "SPEC_Material_color": "White",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "4.5",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "3.4",
+        "SPEC_Gem_shape": "Round",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Gem_quantity": "12",
+        "SPEC_Info": "Length 40 cm+5 cm",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcnl10018c420_wimr3z.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-11-10T11:08:01"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcnl10018c420_140gyq.jpg",
+                "ImageUpdateUTC": "2017-03-21T12:13:36"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcnl10018c420_6pwsb6.jpg",
+                "ImageUpdateUTC": "2017-03-21T12:13:36"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3525/56",
+        "ListedSKU": "WC160780",
+        "ParentSKU": "ZR-3525",
+        "Category": "Jewellery",
+        "EAN": "5400470066103",
+        "Title": "Orphelia Silver 925 Ring Micro Pave  Zirconium ",
+        "Description": "Orphelia Silver 925 Ring Micro Pave  Zirconium ",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 110,
+        "Price": 39.06,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-10-18T22:41:38.397",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "56",
+        "SPEC_Width-cm": "1.9",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Ring Micro Pave  Zirconium   ZR-3525",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Ring Micro Pave  Zirconium   ZR-3525/56",
+        "SPEC_Fruugo Category": "Jewellery > Women > Ring",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352556_vlcskx.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352556_4jr7j9.jpg",
+                "ImageUpdateUTC": "2018-10-18T12:06:33"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352556_c08hi9.jpg",
+                "ImageUpdateUTC": "2018-10-18T12:06:33"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352556_cnvf74.jpg",
+                "ImageUpdateUTC": "2018-10-18T12:06:33"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3525/58",
+        "ListedSKU": "WC149451",
+        "ParentSKU": "ZR-3525",
+        "Category": "Jewellery",
+        "EAN": "5400470066110",
+        "Title": "Orphelia Silver 925 Ring Micro Pave  Zirconium ",
+        "Description": "Orphelia Silver 925 Ring Micro Pave  Zirconium ",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 110,
+        "Price": 39.06,
+        "PriceUpdateUTC": null,
+        "Stock": 4,
+        "StockUpdateUTC": "2018-10-18T22:41:38.397",
+        "SPEC_FNSKU": "X000WT5QQ5",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "58",
+        "SPEC_Width-cm": "1.9",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Ring Micro Pave  Zirconium   ZR-3525",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Ring Micro Pave  Zirconium   ZR-3525/58",
+        "SPEC_Fruugo Category": "Jewellery > Women > Ring",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352558_3r3mgv.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352558_jjpbot.jpg",
+                "ImageUpdateUTC": "2018-10-18T12:06:37"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352558_p211lu.jpg",
+                "ImageUpdateUTC": "2018-10-18T12:06:37"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352558_chbe09.jpg",
+                "ImageUpdateUTC": "2018-10-18T12:06:37"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3525/52",
+        "ListedSKU": "WC149450",
+        "ParentSKU": "ZR-3525",
+        "Category": "Jewellery",
+        "EAN": "5400470066080",
+        "Title": "Orphelia Silver 925 Ring Micro Pave  Zirconium ",
+        "Description": "Orphelia Silver 925 Ring Micro Pave  Zirconium ",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 110,
+        "Price": 39.06,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-10-18T22:41:38.397",
+        "SPEC_FNSKU": "X000WLYLZ5",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "52",
+        "SPEC_Width-cm": "1.9",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Ring Micro Pave  Zirconium   ZR-3525",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Ring Micro Pave  Zirconium   ZR-3525/52",
+        "SPEC_Fruugo Category": "Jewellery > Women > Ring",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352552_hn4y0i.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352552_yrory2.jpg",
+                "ImageUpdateUTC": "2018-10-18T12:06:12"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352552_jiismr.jpg",
+                "ImageUpdateUTC": "2018-10-18T12:06:12"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352552_u5xiat.jpg",
+                "ImageUpdateUTC": "2018-10-18T12:06:12"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3526/60",
+        "ListedSKU": "WC151002",
+        "ParentSKU": "ZR-3526",
+        "Category": "Jewellery",
+        "EAN": "5400470066189",
+        "Title": "Orphelia Silver 925 Ring Mounting Micro Pave Zirconium",
+        "Description": "Orphelia Silver 925 Ring Mounting Micro Pave Zirconium",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 139,
+        "Price": 48.78,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-10-18T22:41:38.397",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "60",
+        "SPEC_Width-cm": "1.2",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Ring Mounting Micro Pave Zirc  ZR-3526",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Ring Mounting Micro Pave Zirc  ZR-3526/60",
+        "SPEC_Fruugo Category": "Jewellery > Women > Ring",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352660_4nmsbg.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352660_wtcmq1.jpg",
+                "ImageUpdateUTC": "2018-10-18T12:07:11"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352660_49h561.jpg",
+                "ImageUpdateUTC": "2018-10-18T12:07:11"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352660_0c65kb.jpg",
+                "ImageUpdateUTC": "2018-10-18T12:07:11"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352660_4p3pud.jpg",
+                "ImageUpdateUTC": "2018-10-18T12:07:11"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3526/52",
+        "ListedSKU": "WC150957",
+        "ParentSKU": "ZR-3526",
+        "Category": "Jewellery",
+        "EAN": "5400470066141",
+        "Title": "Orphelia Silver 925 Ring Mounting Micro Pave Zirconium",
+        "Description": "Orphelia Silver 925 Ring Mounting Micro Pave Zirconium",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 139,
+        "Price": 48.78,
+        "PriceUpdateUTC": null,
+        "Stock": 5,
+        "StockUpdateUTC": "2018-10-18T22:41:38.397",
+        "SPEC_FNSKU": "X000WT5QQF",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "52",
+        "SPEC_Width-cm": "1.2",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Ring Mounting Micro Pave Zirc  ZR-3526",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Ring Mounting Micro Pave Zirc  ZR-3526/52",
+        "SPEC_Fruugo Category": "Jewellery > Women > Ring",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352652_wab4ho.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352652_lanhl2.jpg",
+                "ImageUpdateUTC": "2018-10-18T12:07:03"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352652_qcn3sv.jpg",
+                "ImageUpdateUTC": "2018-10-18T12:07:03"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352652_puttd7.jpg",
+                "ImageUpdateUTC": "2018-10-18T12:07:03"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352652_5aay1v.jpg",
+                "ImageUpdateUTC": "2018-10-18T12:07:03"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3526/50",
+        "ListedSKU": "WC153632",
+        "ParentSKU": "ZR-3526",
+        "Category": "Jewellery",
+        "EAN": "5400470066134",
+        "Title": "Orphelia Silver 925 Ring Mounting Micro Pave Zirconium",
+        "Description": "Orphelia Silver 925 Ring Mounting Micro Pave Zirconium",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 139,
+        "Price": 48.78,
+        "PriceUpdateUTC": null,
+        "Stock": 2,
+        "StockUpdateUTC": "2018-10-18T22:41:38.397",
+        "SPEC_FNSKU": "X000WLE4NT",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "5.0000",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "50",
+        "SPEC_Width-cm": "1.2",
+        "SPEC_Ring type": "Ring without stones",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Ring Mounting Micro Pave Zirc  ZR-3526",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Ring Mounting Micro Pave Zirc  ZR-3526/50",
+        "SPEC_Fruugo Category": "Jewellery > Women > Ring",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352650_pycdm6.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352650_vmuolh.jpg",
+                "ImageUpdateUTC": "2018-10-18T12:06:52"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352650_12hjfv.jpg",
+                "ImageUpdateUTC": "2018-10-18T12:06:52"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352650_e4pegx.jpg",
+                "ImageUpdateUTC": "2018-10-18T12:06:52"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-352650_iok2qu.jpg",
+                "ImageUpdateUTC": "2018-10-18T12:06:52"
+            }
+        ]
+    }
+]

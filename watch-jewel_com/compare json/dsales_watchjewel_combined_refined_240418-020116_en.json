@@ -1,0 +1,60 @@
+[
+    {
+        "SKU": "1-1461H",
+        "ListedSKU": "WC155301",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4040662096221",
+        "Title": "JL Heren Classic London",
+        "Description": "JL Heren Classic London",
+        "Brand": "JACQUES LEMANS",
+        "RRP": 129,
+        "Price": 86.84,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-04-23T22:34:12.99",
+        "SPEC_Model Name": "Classic London",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Solid stainless steel ip-ros\u00e9",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "19",
+        "SPEC_Band_Length_cm": "25",
+        "SPEC_Case_Diameter_mm": "38",
+        "SPEC_Case_Thickness_mm": "6.5",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "36.5",
+        "SPEC_Dial_Window_Material": "Special hardened crystal",
+        "SPEC_Brand Description": "Jacques Lemans is an international watch producer based in Carinthia/Austria. Milions of content customers in more than 120 countries worldwide love and trust their Jacques Lemans watches every single day.This enormous success is based on a clear-cut philosophy: best quality and manufacturing at an affordable price. Jacques Lemans watches are simply outstanding due to premium manufacturing, absolute reliability, innovative technique and stylish elegance.The various Jacques Lemans styles \u201eClassic\u201c, \u201eSport\u201c, \u201eLa Passion\u201c, \u201eHigh Tech Ceramic\u201c, \u201eAutomatic\u201c or \u201eRetro\u201c enjoy great popularity.From the initial idea to rough sketches, from final design to production, marketing and sales \u2013 Jacques Lemans is doing everything \u201ein-house\u201c, which is not only a slogan but truly lived corporate culture and therefore an immensely important part of the Jacques Lemans success Story.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1-1461h_h2c69d.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-10-07T07:49:44"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1-1461h_ab39nz.jpg",
+                "ImageUpdateUTC": "2016-10-07T07:49:46"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1-1461h_35wlcp.jpg",
+                "ImageUpdateUTC": "2016-10-07T07:49:48"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1-1461h_uwkpn6.jpg",
+                "ImageUpdateUTC": "2018-04-23T16:11:41"
+            }
+        ]
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "SKU": "OR12702",
+        "ListedSKU": "WC162412",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081473",
+        "Title": "ORPHELIA Women Analogue Watch Rose Gold Stainless steel",
+        "Description": "ORPHELIA Women Analogue Watch Rose Gold Stainless steel",
+        "Brand": "ORPHELIA",
+        "RRP": 129,
+        "Price": 129,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-08-31T22:54:30.467",
+        "SPEC_FNSKU": "X000RIKNYB",
+        "SPEC_Model Name": "Lignum",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Mother of pearl",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Rose Gold",
+        "SPEC_Band_Width_mm": "14",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "32",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "75",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "SPEC_Product Description": "Orphelia",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Fruugo Title": "ORPHELIA Women Analogue Watch Rose Gold Stainless steel OR12702",
+        "SPEC_Fruugo Description": "ORPHELIA Women Analogue Watch Rose Gold Stainless steel OR12702",
+        "SPEC_Fruugo Category": "Watch > Analogue > Women > Stainless steel",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/12702_wtvsvm.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-10-18T12:21:56"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/12702_2z0ys5.jpg",
+                "ImageUpdateUTC": "2018-08-31T10:53:21"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/85opggcm_or12702.jpg",
+                "ImageUpdateUTC": "2018-08-31T10:53:21"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/12702_odoz7i.jpg",
+                "ImageUpdateUTC": "2018-08-31T10:53:21"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/12702_uqhynv.jpg",
+                "ImageUpdateUTC": "2018-08-31T10:53:21"
+            }
+        ]
+    }
+]

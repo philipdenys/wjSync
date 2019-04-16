@@ -1,0 +1,140 @@
+[
+    {
+        "SKU": "1-1691G",
+        "ListedSKU": "WC155352",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4040662109310",
+        "Title": "JL Dames Sport",
+        "Description": "JL Dames Sport",
+        "Brand": "JACQUES LEMANS",
+        "RRP": 129,
+        "Price": 53.1,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-07-13T22:33:55.79",
+        "SPEC_FNSKU": "X000JI7Z9Z",
+        "SPEC_Model Name": "Sport",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Blue",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "41",
+        "SPEC_Case_Thickness_mm": "10.5",
+        "SPEC_Bezel_Function": "Bezel with numbers",
+        "SPEC_Bezel_Material_Type": "Stainless steel",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "73.2",
+        "SPEC_Dial_Window_Material": "Special hardened crystal",
+        "SPEC_Brand Description": "Jacques Lemans is an international watch producer based in Carinthia/Austria. Milions of content customers in more than 120 countries worldwide love and trust their Jacques Lemans watches every single day.This enormous success is based on a clear-cut philosophy: best quality and manufacturing at an affordable price. Jacques Lemans watches are simply outstanding due to premium manufacturing, absolute reliability, innovative technique and stylish elegance.The various Jacques Lemans styles \u201eClassic\u201c, \u201eSport\u201c, \u201eLa Passion\u201c, \u201eHigh Tech Ceramic\u201c, \u201eAutomatic\u201c or \u201eRetro\u201c enjoy great popularity.From the initial idea to rough sketches, from final design to production, marketing and sales \u2013 Jacques Lemans is doing everything \u201ein-house\u201c, which is not only a slogan but truly lived corporate culture and therefore an immensely important part of the Jacques Lemans success Story.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1-1691g_thx1a.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "47-8000-18",
+        "ListedSKU": "WC155977",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5400470432908",
+        "Title": "SHAON HEREN BICOLOR DATUM",
+        "Description": "SHAON HEREN BICOLOR DATUM",
+        "Brand": "SHAON",
+        "RRP": 99,
+        "Price": 39.38,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-07-13T22:42:33.9",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": null,
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Multicolour",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Alloy",
+        "SPEC_Band_Color": "Multicolour",
+        "SPEC_Band_Width_mm": "17.6",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "34",
+        "SPEC_Case_Thickness_mm": "7.6",
+        "SPEC_Clasp_Type": "Bangle bracelet clasp",
+        "SPEC_Weight_g": "94.6",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Brand Description": "SHAON. The brand for watches: SHAON. Inspiring. Modern. Timeless. SHAON. Where we present fashion accessories for every occasion. From the classical, to the fashionably dressed. From the sporty look, to the height of elegance. From the casual, to the sophisticated lady and gentleman. SHAON. Detailed design and lasting quality. SHAON. Where the watch says \u2018chic\u2019, and the price says \u2018affordability\u2019. Allow yourself to be enthused. Give or get a high quality gift that will make you proud to join the SHAON class.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/47-8000-18_ujc7x1.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/47-8000-18_sisb7s.jpg",
+                "ImageUpdateUTC": "2018-07-13T12:23:17"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/47-8000-18_xc77rb.jpg",
+                "ImageUpdateUTC": "2018-07-13T12:23:17"
+            }
+        ]
+    },
+    {
+        "SKU": "ZA-1871",
+        "ListedSKU": "WC162647",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470008905",
+        "Title": "SLAAF ARMBAND MICRO PAVE ZIRCONIUM",
+        "Description": "SLAAF ARMBAND MICRO PAVE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 265,
+        "Price": 99,
+        "PriceUpdateUTC": "2018-06-14T14:06:58.057",
+        "Stock": 1,
+        "StockUpdateUTC": "2018-07-13T22:48:39.407",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "7.1300",
+        "SPEC_Jewel_type": "Bracelet",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Width-cm": "0.4",
+        "SPEC_Diameter-cm": "6",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/6acptx2t_za-1871.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-07-13T09:36:49"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/mrxe78ch_za-1871.jpg",
+                "ImageUpdateUTC": "2018-07-13T09:37:23"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1871_xampiv.jpg",
+                "ImageUpdateUTC": "2017-07-14T10:10:16"
+            }
+        ]
+    }
+]

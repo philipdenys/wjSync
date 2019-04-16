@@ -1,0 +1,375 @@
+[
+    {
+        "SKU": "1791421",
+        "ListedSKU": "1791421",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "7613272249881",
+        "Title": "Tommy Hilfiger Mens Watch Damon Blue",
+        "Description": "Tommy Hilfiger Mens Watch Damon Blue",
+        "Brand": "Tommy Hilfiger",
+        "RRP": 199,
+        "Price": 149.25,
+        "PriceUpdateUTC": "2018-08-29T14:31:09.83",
+        "Stock": 0,
+        "StockUpdateUTC": "2018-10-09T22:46:48.087",
+        "SPEC_Model Name": "Damon",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Blue",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Blue",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "44",
+        "SPEC_Case_Thickness_mm": "11",
+        "SPEC_Clasp_Type": "Fold over clasp",
+        "SPEC_Weight_g": "105",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Fruugo Title": "Tommy Hilfiger Mens Watch Damon Blue 1791421",
+        "SPEC_Fruugo Description": "Tommy Hilfiger Mens Watch Damon Blue 1791421",
+        "SPEC_Fruugo Category": "Apparel & Accessories > Jewelry > Watches > Mens",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ugh7xcpx_1791421.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-07-05T08:53:40"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/qvzo827e_1791421.jpg",
+                "ImageUpdateUTC": "2018-10-09T16:02:04"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/n5gx6j2c_1791421.jpg",
+                "ImageUpdateUTC": "2018-10-09T16:02:04"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/c1x8a6fk_1791421.jpg",
+                "ImageUpdateUTC": "2018-10-09T16:02:04"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1cqjvzea_1791421.jpg",
+                "ImageUpdateUTC": "2018-10-09T16:02:04"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/cwjag26i_1791421.jpg",
+                "ImageUpdateUTC": "2018-10-09T16:02:04"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/97qohlu3_1791421.jpg",
+                "ImageUpdateUTC": "2018-10-09T16:02:04"
+            },
+            {
+                "ImageSort": 7,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/54trh5yc_1791421.jpg",
+                "ImageUpdateUTC": "2018-10-09T16:02:04"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-7149/2",
+        "ListedSKU": "WC153965",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190070774",
+        "Title": "Orphelia Silver 925 Kids Earring  Red Cherry",
+        "Description": "Orphelia Silver 925 Kids Earring  Red Cherry",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 45,
+        "Price": 28.35,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-10-09T22:55:33.273",
+        "SPEC_Target_audience": "Child",
+        "SPEC_Weight-Gram": "1.56",
+        "SPEC_Jewel_type": "Drop Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Back_finding": "Safety Hook",
+        "SPEC_Length-cm": "1.5",
+        "SPEC_Width-cm": "0.5",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Kids Earring  Red Cherry  ZO-7149/2",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Kids Earring  Red Cherry  ZO-7149/2",
+        "SPEC_Fruugo Category": "Jewellery > Kids > Earring",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-71492_zvzpxp.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-06-28T12:10:14"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-71492_ls418u.jpg",
+                "ImageUpdateUTC": "2016-06-28T12:10:15"
+            }
+        ]
+    },
+    {
+        "SKU": "PC104322S01",
+        "ListedSKU": "WC155328",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945351717",
+        "Title": "Pierre Cardin P\u00e9tales Swiss Made",
+        "Description": "Pierre Cardin P\u00e9tales Swiss Made",
+        "Brand": "Pierre Cardin",
+        "RRP": 135,
+        "Price": 72.9,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-10-09T22:39:15.04",
+        "SPEC_Model Name": "P\u00e9tales",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Swiss Made",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Other",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Mother of pearl",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "19",
+        "SPEC_Case_Width_mm": "32.00",
+        "SPEC_Case_Length_mm": "27.00",
+        "SPEC_Case_Thickness_mm": "7.2",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "30",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Brand Description": "PIERRE CARDIN is one of the best known brands in the world. And as Pierre Cardin himself says, PIERRE CARDIN is no fashion for millionaires, but for millions: commercial, high-quality and with design requirements. The fashion of PIERRE CARDIN is made for people who always want to appear in a modern, well-maintained way and value the perfect fit, in their spare time and in business, while at the same time achieving a worthwhile price comparison.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pc104322s01_3zemv.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pc104322s01_56urfe.jpg",
+                "ImageUpdateUTC": "2016-08-11T10:04:31"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pc104322s01_q8w6x7.jpg",
+                "ImageUpdateUTC": "2016-08-11T10:04:31"
+            }
+        ]
+    },
+    {
+        "SKU": "OR11705",
+        "ListedSKU": "WC162305",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081534",
+        "Title": "ORPHELIA Women Analogue Watch Ricci Burgundy Leather",
+        "Description": "ORPHELIA Women Analogue Watch Ricci Burgundy Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 149,
+        "Price": 149,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-10-09T22:55:33.273",
+        "SPEC_FNSKU": "X000RIJQZN",
+        "SPEC_Model Name": "Ricci",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "17",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "35",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Gem_Type": "Zirkonia",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "35",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "SPEC_Product Description": "Orphelia",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Fruugo Title": "ORPHELIA Women Analogue Watch Brown Leather OR11705",
+        "SPEC_Fruugo Description": "ORPHELIA Women Analogue Watch Brown Leather OR11705",
+        "SPEC_Fruugo Category": "Apparel & Accessories > Jewelry > Watches > Womens",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pkyybig5_11705.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-12-01T09:28:16"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/11705_n3bky3.jpg",
+                "ImageUpdateUTC": "2018-06-18T16:53:55"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/5ws1x71z_or11705.jpg",
+                "ImageUpdateUTC": "2018-06-18T16:53:55"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/d45cdtat_or11705.jpg",
+                "ImageUpdateUTC": "2018-06-18T16:53:55"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/11705_la9yxz.jpg",
+                "ImageUpdateUTC": "2018-06-18T16:53:55"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/11705_t1g1zy.jpg",
+                "ImageUpdateUTC": "2018-06-18T16:53:55"
+            }
+        ]
+    },
+    {
+        "SKU": "OR11704",
+        "ListedSKU": "WC162321",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081527",
+        "Title": "ORPHELIA Women Analogue Watch Ricci Black Leather",
+        "Description": "ORPHELIA Women Analogue Watch Ricci Black Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 149,
+        "Price": 149,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-10-09T22:55:33.273",
+        "SPEC_FNSKU": "X000RIGP89",
+        "SPEC_Model Name": "Ricci",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "17",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "35",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Gem_Type": "Zirkonia",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "35",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "SPEC_Product Description": "Orphelia",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Fruugo Title": "ORPHELIA Women Analogue Watch Black Leather OR11704",
+        "SPEC_Fruugo Description": "ORPHELIA Women Analogue Watch Black Leather OR11704",
+        "SPEC_Fruugo Category": "Apparel & Accessories > Jewelry > Watches > Womens",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/28rpthw8_11704.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-12-01T09:28:55"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/11704_axyt2k.jpg",
+                "ImageUpdateUTC": "2018-10-04T15:18:45"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/2n2biadd_or11704.jpg",
+                "ImageUpdateUTC": "2018-10-04T15:18:45"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/11704_rvbs5y.jpg",
+                "ImageUpdateUTC": "2018-10-04T15:18:45"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/11704_4gqh38.jpg",
+                "ImageUpdateUTC": "2018-10-04T15:18:45"
+            }
+        ]
+    },
+    {
+        "SKU": "1781958",
+        "ListedSKU": "1781958",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "7613272293334",
+        "Title": "Tommy Hilfiger Ladies Watch Avery Grey",
+        "Description": "Tommy Hilfiger Ladies Watch Avery Grey",
+        "Brand": "Tommy Hilfiger",
+        "RRP": 159,
+        "Price": 119.25,
+        "PriceUpdateUTC": "2018-08-29T14:31:09.83",
+        "Stock": 7,
+        "StockUpdateUTC": "2018-10-09T22:39:15.04",
+        "SPEC_Model Name": "Avery",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Grey",
+        "SPEC_Dial_Color": "Grey",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Grey",
+        "SPEC_Band_Width_mm": "16",
+        "SPEC_Band_Length_cm": "19",
+        "SPEC_Case_Diameter_mm": "36",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "75",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Fruugo Title": "Tommy Hilfiger Ladies Watch Avery Grey 1781958",
+        "SPEC_Fruugo Description": "Tommy Hilfiger Ladies Watch Avery Grey 1781958",
+        "SPEC_Fruugo Category": "Apparel & Accessories > Jewelry > Watches > Womens",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ypi1uzhw_1781958.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-10-08T15:59:17"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ygi2diy7_1781958.jpg",
+                "ImageUpdateUTC": "2018-10-08T15:59:37"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/wd4xy7iy_1781958.jpg",
+                "ImageUpdateUTC": "2018-10-09T07:52:10"
+            }
+        ]
+    }
+]
