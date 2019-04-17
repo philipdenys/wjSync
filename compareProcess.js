@@ -1,7 +1,4 @@
 const fs = require("fs");
-//is equal with last file don't continue or do anything
-
-//is not equal get the difference
 
 //what is the last file?
 var files = fs.readdirSync("./json");
@@ -9,6 +6,10 @@ var filesSorted = files.sort();
 var lastFile = filesSorted[filesSorted.length - 1];
 var preLastFile = filesSorted[filesSorted.length - 2];
 console.log(lastFile, preLastFile);
+
+//is equal with last file don't continue or do anything
+
+//is not equal get the difference
 
 //get difference from the latest file
 
