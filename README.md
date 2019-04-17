@@ -15,11 +15,11 @@ https://github.com/christiannwamba/node-cron-jobs/blob/master/index.js
 
 ## CRON steps
 
-daily fetch of the url
+_daily fetch of the url_
 https://www.npmjs.com/package/cron
 
 1. 2.
- 
+
 ## Issues
 
 ### fetch()
@@ -37,11 +37,8 @@ https://stackoverflow.com/questions/48433783/referenceerror-fetch-is-not-defined
 ### require()
 
 This is because require() does not exist in the browser/client-side JavaScript.
-
 Now you're going to have to make some choices about your client-side JavaScript script management.
-
 You have three options:
-
 Use <script> tag.
 Use a CommonJS implementation. Synchronous dependencies like Node.js
 Use an AMD implementation.
@@ -50,10 +47,14 @@ https://stackoverflow.com/questions/19059580/client-on-node-uncaught-referenceer
 https://medium.freecodecamp.org/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8
 
 ### fs (is standard in NODEjs doesn't need a package)
+
 https://tutorialedge.net/javascript/nodejs/reading-writing-files-with-nodejs/
 
 ### date
+
 https://www.toptal.com/software/definitive-guide-to-datetime-manipulation
+
+###
 
 ## Git (from server to git)
 
