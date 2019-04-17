@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/philipdenys/wjSync#readme",
   "dependencies": {
+    "cron": "^1.7.0",
     "node-fetch": "^2.3.0",
     "requirejs": "^2.3.6"
   }

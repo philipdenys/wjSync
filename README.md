@@ -19,8 +19,9 @@ fs - node file system module
 
 ## CRON steps
 daily fetch of the url
+https://www.npmjs.com/package/cron
 
-1. 
+1. 0 22 * * 1-5 (pattern) https://crontab.guru/#0_22_*_*_1-5
 2.
 
 ## Issues
