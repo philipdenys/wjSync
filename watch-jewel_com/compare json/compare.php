@@ -4,7 +4,7 @@ include 'utility.php';
 if (!file_exists(getFileName('old'))) {
     file_put_contents(getFileName('old'), json_encode([]));
 }
-
+ 
 $oldData = json_decode(file_get_contents(getFileName('old')), true);
 $newData = json_decode(file_get_contents(getFileName('new')), true);
 
