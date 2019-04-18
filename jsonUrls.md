@@ -28,4 +28,4 @@ You can use the following dns which connects to the local server from outside th
 
 _http://uwt.clients.tradepeg.co.uk:18099/services/api/integrations/complete-customer-pricelist/dbcee1c1-97a9-48bd-ad80-ec2a43604bc3/_
 
-In the close future, all these types of URLs will only work on local server
+**In the close future, all these types of URLs will only work on local server**
