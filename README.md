@@ -54,7 +54,9 @@ https://tutorialedge.net/javascript/nodejs/reading-writing-files-with-nodejs/
 
 https://www.toptal.com/software/definitive-guide-to-datetime-manipulation
 
-###
+### jewelry vs watches
+
+Seperate the catergories and push?
 
 ## Git (from server to git)
 

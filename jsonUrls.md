@@ -1,4 +1,12 @@
-Hi
+## Orphelia.eu
+
+dbcee1c1-97a9-48bd-ad80-ec2a43604bc3
+
+## Watch-Jewel.com
+
+cd788eb9-3b41-4163-9f9d-49d6c588241a
+
+---
 
 1. You can now apply a language to the URL query like this: culture=language
    When language is not set the contact language is used.
@@ -21,11 +29,3 @@ You can use the following dns which connects to the local server from outside th
 _http://uwt.clients.tradepeg.co.uk:18099/services/api/integrations/complete-customer-pricelist/dbcee1c1-97a9-48bd-ad80-ec2a43604bc3/_
 
 In the close future, all these types of URLs will only work on local server
-
-## Orphelia.eu
-
-dbcee1c1-97a9-48bd-ad80-ec2a43604bc3
-
-## Watch-Jewel.com
-
-cd788eb9-3b41-4163-9f9d-49d6c588241a
