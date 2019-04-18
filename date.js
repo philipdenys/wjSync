@@ -1,5 +1,3 @@
-//console.log(dateStringNow);
-
 module.exports = {
   dateNow: function() {
     var currentDate = new Date();
@@ -9,8 +7,9 @@ module.exports = {
       (currentDate.getMonth() + 1);
     //Be careful! January is 0 not 1
     var YYYY = currentDate.getFullYear();
-    var hh = currentDate.getHours();
-    var mm = currentDate.getMinutes();
+    var hh = (currentDate.getHours() < 10 ? "0" : "") + currentDate.getHours();
+    var mm =
+      (currentDate.getMinutes() < 10 ? "0" : "") + currentDate.getMinutes();
     //var dateStringNow =  year + "-" + (month + 1) + "-" + date + "-" + hour + "-" + minutes;
     dateString = `${YYYY}${MM}${DD}_${hh}${mm}`;
     //console.log(dateString);
