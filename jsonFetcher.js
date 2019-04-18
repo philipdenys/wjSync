@@ -13,12 +13,10 @@ module.exports = {
     var pricelist = "complete-customer-pricelist/";
     var pricelistStatus = "complete-customer-pricelist-status/";
 
-    //var dsalesUrlStatus = baseUrl + pricelistStatus + wjId; //json price stock
-    var dsalesUrl = baseUrl + pricelist + wjId; //json with full specs
+    var dsalesUrlStatus = baseUrl + pricelistStatus + wjId; //json price stock
+    var dsalesUrl = baseUrl + pricelist + wjId; //json with "full" specs
 
-    //console.log(dsalesUrlStatus);
-
-    fetch(dsalesUrl)
+    fetch(dsalesUrlStatus)
       .then(function(response) {
         if (response.status !== 200) {
           console.log(
@@ -29,17 +27,10 @@ module.exports = {
 
         console.log("downloading the json file...");
         response.json().then(function(data) {
-          //console.log(data);
-          //console.log(data.length);
-          //document.getElementById("root").innerHTML = JSON.stringify(data);
           var data = JSON.stringify(data);
 
           var fileName = "dsales" + dateNow; //date.js
-          const path = `${__dirname}/json/${fileName}.json`;
-          // console.log(fileName);
-
-          // json write to file
-          //var data = fetch(dsalesUrl); //comes as a promise
+          const path = `${__dirname}/json/${fileName}.json`; //if is dsalesUrlStatus then add string in filename
 
           fs.writeFile(path, data, err => {
             if (err) console.log(err);
