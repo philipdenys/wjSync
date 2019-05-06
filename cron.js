@@ -4,7 +4,8 @@ const myModule = require("./date");
 let dateNow = myModule.dateNow();
 
 console.log("Initiating the cronjob ... every 2mins \n" + dateNow);
-const job = new CronJob("*/2 * * * *", function() {
+const job = new CronJob("0 23 * * *", function() {
+  // everyday at 23:00
   const d = new Date();
   console.log("cronjob triggered:", d);
 
