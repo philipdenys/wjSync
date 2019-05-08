@@ -9,8 +9,8 @@ var wjId = "cd788eb9-3b41-4163-9f9d-49d6c588241a";
 //only locally
 var baseUrl = "http://192.168.0.10:8099/services/api/integrations/";
 
-var pricelist = "complete-customer-pricelist/";
 var pricelistStatus = "complete-customer-pricelist-status/";
+var pricelist = "complete-customer-pricelist/";
 
 //var dsalesUrlStatus = baseUrl + pricelistStatus + wjId; //json price stock
 var dsalesUrl = baseUrl + pricelist + wjId; //json with "full" specs
