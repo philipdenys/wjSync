@@ -1,5 +1,5 @@
 module.exports = {
-  jsonFetch: function() {
+  jsonFetch: function () {
     const fetch = require("node-fetch");
     var fs = require("fs");
 
@@ -13,11 +13,11 @@ module.exports = {
     var pricelist = "complete-customer-pricelist/";
     var pricelistStatus = "complete-customer-pricelist-status/";
 
-    var dsalesUrlStatus = baseUrl + pricelistStatus + wjId; //json price stock
+    //var dsalesUrlStatus = baseUrl + pricelistStatus + wjId; //json price stock
     var dsalesUrl = baseUrl + pricelist + wjId; //json with "full" specs
 
-    fetch(dsalesUrlStatus)
-      .then(function(response) {
+    fetch(dsalesUrl) //change var ^
+      .then(function (response) {
         if (response.status !== 200) {
           console.log(
             "Looks like there was a problem. Status Code: " + response.status
@@ -26,7 +26,7 @@ module.exports = {
         }
 
         console.log("downloading the json file...");
-        response.json().then(function(data) {
+        response.json().then(function (data) {
           var data = JSON.stringify(data); //(data, null, "\t") ->prettify
 
           var fileName = "dsales" + dateNow; //date.js
@@ -38,7 +38,7 @@ module.exports = {
           });
         });
       })
-      .catch(function(err) {
+      .catch(function (err) {
         console.log("Fetch Error :-S", err);
       });
   }
