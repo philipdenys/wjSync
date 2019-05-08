@@ -47,3 +47,12 @@ Seperate the catergories and push?
 ## Git (from server to git)
 
 git push origin master
+
+## Convert filename string with a new format
+
+1. get json file
+2. get all values image link without extracting the keys and values (just replace)
+3. get filename (https://befused.com/javascript/get-filename-url)
+4. remove/replace the base url string
+5. apply regex to find out the series of 2 letters and 5 numbers
+6.
