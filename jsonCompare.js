@@ -16,7 +16,8 @@ var preLastFile = filesSorted[filesSorted.length - 2];
 var path1 = "./json/" + lastFile;
 var path2 = "./json/" + preLastFile;
 
-//console.log(path1);
+console.log(path1);
+console.log(path2);
 
 // var first = fs.readFile(path1, "utf8", function(err, contents) {
 //   const first = [];
