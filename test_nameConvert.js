@@ -35,7 +35,6 @@ var jsonExample = {
 };
 
 
-
 // KEYS
 //console.log(jsonExample.Images[0].length;
 // console.log(Object.keys(jsonExample.Images).length); //get amount of keys per product // 4
