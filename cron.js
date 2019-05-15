@@ -1,3 +1,7 @@
+// server is on cloudways
+// CI is travis
+
+
 var express = require('express');
 const CronJob = require("cron").CronJob;
 
