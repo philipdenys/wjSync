@@ -8,9 +8,9 @@ cache: npm
 install:
 - npm ci
 #before_script:
-script:
-- npm test
-- npm run build
+#script:
+#- npm test
+# - npm run build
 #after_succes:
 #after_failure:
 #after_script:
