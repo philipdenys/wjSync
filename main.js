@@ -1,4 +1,4 @@
-const fetch = require("node-fetch");
+// const fetch = require("node-fetch");
 var fs = require("fs"),
   path = require("path"),
   util = require("util");
@@ -30,5 +30,5 @@ var fs = require("fs"),
 // );
 
 var files = fs.readdirSync("./json");
-
+// document.getElementById("jsonContent").innerHTML = files; // this doesn't go in clientside js
 console.log(files);
