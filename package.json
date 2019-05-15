@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "API between the webshop Watch-Jewel and Dsales.",
   "main": "index.js",
-  "scripts": {
-    "test": "wjsynctest"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/philipdenys/wjSync.git"
