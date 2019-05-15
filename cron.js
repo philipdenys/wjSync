@@ -1,7 +1,16 @@
+var express = require('express');
 const CronJob = require("cron").CronJob;
 
 const myModule = require("./date");
 let dateNow = myModule.dateNow();
+
+// App definition
+var app = express();
+
+var portNum = 3000;
+app.listen(3000, function () {
+  console.log('Making some pancakes on port:', portNum);
+});
 
 console.log(dateNow + ": Initiating the cronjob ... every day at 23:00");
 const job = new CronJob("0 23 * * *", function () {
