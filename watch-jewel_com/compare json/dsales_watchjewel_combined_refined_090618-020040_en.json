@@ -1,0 +1,336 @@
+[
+    {
+        "SKU": "ZO-5871",
+        "ListedSKU": "WC154644",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470094717",
+        "Title": "OORBEL ONYX ZIRCONIUM",
+        "Description": "OORBEL ONYX ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 99,
+        "Price": 27.23,
+        "PriceUpdateUTC": null,
+        "Stock": 2,
+        "StockUpdateUTC": "2018-06-08T22:41:43.14",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "8.7000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Earring Onyx Zirconium  ZO-5871",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Onyx Zirconium  ZO-5871",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5871_ourb3b.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5871_ncg1r5.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/nnqh31g6_zo-5871.jpg",
+                "ImageUpdateUTC": "2018-06-08T08:33:06"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5671",
+        "ListedSKU": "WC154157",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470642048",
+        "Title": "Orphelia Silver 925 Earring Diamond Shine",
+        "Description": "Orphelia Silver 925 Earring Diamond Shine",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 149,
+        "Price": 44.91,
+        "PriceUpdateUTC": null,
+        "Stock": 5,
+        "StockUpdateUTC": "2018-06-08T22:40:06.467",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "5.0000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "1.3",
+        "SPEC_Width-cm": "0.6",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Earring Diamond Shine  ZO-5671",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Diamond Shine  ZO-5671",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5671_ld8k1m.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/b2cj97rk_zo-5671.jpg",
+                "ImageUpdateUTC": "2018-06-08T07:56:24"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5671_2z2405.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "86502",
+        "ListedSKU": "WC155434",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190040975",
+        "Title": "ORPHELIA Mens Multi Dial Watch Boulder Country Black Silicone",
+        "Description": "ORPHELIA Mens Multi Dial Watch Boulder Country Black Silicone",
+        "Brand": "ORPHELIA",
+        "RRP": 289,
+        "Price": 289,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-08T22:50:11.62",
+        "SPEC_Model Name": "Boulder Country",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_Features_2": "Tachymeter",
+        "SPEC_Features_3": "Luminous Hand",
+        "SPEC_Features_4": "Luminous Numerals",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Black",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "26",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "46",
+        "SPEC_Case_Thickness_mm": "14",
+        "SPEC_Bezel_Function": "Bezel with numbers",
+        "SPEC_Bezel_Material_Type": "Stainless steel",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "138",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "SPEC_Brand Description": "Orphelia was established in Belgium in 1996, it offers a wide collection of watches and jewellery for men and women.  Pure and original designs that suit all tastes and can be worn on all occasions.  Classic, sleek, urban, romantic, contemporary, sporty and fashion styles that are distinguished by their styles, designs and high quality.  The Orphelia brand promises classic luxury Jewels and Watches that focuses on details.",
+        "SPEC_Catalogue Year": "2016",
+        "Images": [
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/86502_tfym5.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/86502_5pn1e.jpg",
+                "ImageUpdateUTC": "2018-06-08T11:58:37"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/86502_792oo.jpg",
+                "ImageUpdateUTC": "2018-06-08T11:58:37"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/86502_72652.jpg",
+                "ImageUpdateUTC": "2018-06-08T11:58:37"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5854",
+        "ListedSKU": "WC163603",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470090405",
+        "Title": "OORHANGER DROP ZIRCONIUM",
+        "Description": "OORHANGER DROP ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 89,
+        "Price": 40.5,
+        "PriceUpdateUTC": null,
+        "Stock": 4,
+        "StockUpdateUTC": "2018-06-08T22:41:43.14",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "4.3500",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "4",
+        "SPEC_Width-cm": "1",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Drop Earring Drop Zirconium  ZO-5854",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Drop Earring Drop Zirconium  ZO-5854",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5854_es48tb.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/g1vig3xb_zo-5854.jpg",
+                "ImageUpdateUTC": "2018-06-08T08:29:50"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5677",
+        "ListedSKU": "WC152071",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470642161",
+        "Title": "Orphelia Silver 925 Earring Diamond Shine",
+        "Description": "Orphelia Silver 925 Earring Diamond Shine",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 119,
+        "Price": 38.25,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-08T22:40:06.467",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "3.9000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "1.1",
+        "SPEC_Width-cm": "1.1",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Earring Diamond Shine  ZO-5677",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Diamond Shine  ZO-5677",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5677_2441l4.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/klnydzjl_zo-5677.jpg",
+                "ImageUpdateUTC": "2018-06-08T08:01:34"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5677_hqjkn9.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ESER03041C000",
+        "ListedSKU": "WC151012",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945218935",
+        "Title": "Esprit Brass Iraya Rose",
+        "Description": "Esprit Brass Iraya Rose",
+        "Brand": "Esprit Brass",
+        "RRP": 89.9,
+        "Price": 40.5,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-08T22:40:06.467",
+        "SPEC_Model Name": "Iraya",
+        "SPEC_Model_Name": "Iraya",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "4",
+        "SPEC_Jewel_type": "Drop Earrings",
+        "SPEC_Metal_type": "Brass",
+        "SPEC_Metal Color": "Rosegold",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Length-cm": "3",
+        "SPEC_Width-cm": "0.6",
+        "SPEC_Gem_shape": "Round",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Gem_quantity": "126",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/eser03041c000_dhgq6.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-11-18T11:59:55"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/eser03041c000_scyjdx.jpg",
+                "ImageUpdateUTC": "2018-06-08T12:25:50"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/idfqasnt_eser03041c000.jpg",
+                "ImageUpdateUTC": "2018-06-08T12:25:50"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/nye3xksj_eser03041c000.jpg",
+                "ImageUpdateUTC": "2018-06-08T12:25:50"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/eser03041c000_cg0ho4.jpg",
+                "ImageUpdateUTC": "2018-06-08T12:25:50"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/5n5rha9l_eser03041c000.jpg",
+                "ImageUpdateUTC": "2018-06-08T12:25:50"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5886-GOLD",
+        "ListedSKU": "WC158573",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470095851",
+        "Title": "OORHANGER PAVE IN LINES ZIRCONIUM 158 STONES",
+        "Description": "OORHANGER PAVE IN LINES ZIRCONIUM 158 STONES",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 199,
+        "Price": 53.91,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-08T22:41:43.14",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "8.1000",
+        "SPEC_Jewel_type": "Drop Earrings",
+        "SPEC_Metal_type": "Silber vergoldet",
+        "SPEC_Material_type": "Not Available",
+        "SPEC_Material_color": "Silver",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Length-cm": "3.7",
+        "SPEC_Width-cm": "1.2",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Drop Earring Pave In Lines Zirconium 158 Stones  ZO-5886-GOLD",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Drop Earring Pave In Lines Zirconium 158 Stones  ZO-5886-GOLD",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5886-gold_q5mv7d.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5886-gold_8rth75.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/4ly778lv_zo-5886-gold.jpg",
+                "ImageUpdateUTC": "2018-06-08T08:37:44"
+            }
+        ]
+    }
+]

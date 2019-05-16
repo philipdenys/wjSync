@@ -1,0 +1,158 @@
+[
+    {
+        "SKU": "PCNL10026D800",
+        "ListedSKU": "WC153895",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945393311",
+        "Title": "Pierre Cardin Steel Saturne",
+        "Description": "Pierre Cardin Steel Saturne",
+        "Brand": "Pierre Cardin Steel",
+        "RRP": 125,
+        "Price": 67.5,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-04-04T22:39:23.997",
+        "SPEC_Model_Name": "Saturne",
+        "SPEC_Weight-Gram": "24.7",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Metal Color": "Rosegold",
+        "SPEC_Material_type": "Epoxy",
+        "SPEC_Material_color": "Brown",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "6",
+        "SPEC_Length-cm": "85",
+        "SPEC_Width-cm": "3.8",
+        "SPEC_Gem_shape": "Round",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Gem_quantity": "45",
+        "SPEC_Info": "Length 80cm +5 cm",
+        "SPEC_Brand Description": "Pierre Cardin\u2019s world is made from multiple things.Fashion, accessories, jewelry, fragrances, furniture, theater costumes, tableware\u2026Such is the innovating world of Pierre Cardin\u2019s brand.Geometric shapes related to the blending of traditional and new synthetic fabrics to create unique and inimitable lines, recognized all around the world.Everything represents an inexhaustible source of inspiration to the designer: Japan and China\u2019s lifestyle during the 60\u2019s and 70\u2019s, all amazing and unusual encounters, everyday life, but also the social, cultural and industrial evolutions and revolutions.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcnl10026d800_dy7sab.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-11-10T11:09:27"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcnl10026d800_4p5vaf.jpg",
+                "ImageUpdateUTC": "2017-01-19T16:48:40"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcnl10026d800_c4xmji.jpg",
+                "ImageUpdateUTC": "2017-01-19T16:48:41"
+            }
+        ]
+    },
+    {
+        "SKU": "ZK-7181",
+        "ListedSKU": "WC153876",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190059243",
+        "Title": "NECKLACE BICOLOR CIRCLES",
+        "Description": "NECKLACE BICOLOR CIRCLES",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 75,
+        "Price": 47.7,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-04-04T22:48:17.47",
+        "SPEC_Weight-Gram": "7.5",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Necklace",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver/rosegold",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "80",
+        "SPEC_Width-cm": "1.7",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7181_62l6xv.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-04-21T11:19:34"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7181_3h1beh.jpg",
+                "ImageUpdateUTC": "2016-05-03T10:51:47"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7181_sl18ff.jpg",
+                "ImageUpdateUTC": "2016-04-21T11:19:31"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7181_b2f03m.jpg",
+                "ImageUpdateUTC": "2016-04-21T11:19:33"
+            }
+        ]
+    },
+    {
+        "SKU": "122-1712-44",
+        "ListedSKU": "WC155346",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5400470268583",
+        "Title": "ORPHELIA Ladies Analogue Watch Everland Black Silicone",
+        "Description": "ORPHELIA Ladies Analogue Watch Everland Black Silicone",
+        "Brand": "ORPHELIA",
+        "RRP": 99,
+        "Price": 99,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-04-04T22:42:21.29",
+        "SPEC_Model Name": "Everland",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "16",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Diameter_mm": "34",
+        "SPEC_Case_Thickness_mm": "11",
+        "SPEC_Bezel_Function": "Bezel with indices",
+        "SPEC_Bezel_Material_Type": "Stainless steel plated",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "58",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/122-1712-44.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/122-1712-44_3.jpg",
+                "ImageUpdateUTC": "2017-03-14T10:16:54"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/122-1712-44_1.jpg",
+                "ImageUpdateUTC": "2017-03-14T10:16:54"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/122-1712-44_2.jpg",
+                "ImageUpdateUTC": "2017-03-14T10:16:54"
+            }
+        ]
+    }
+]

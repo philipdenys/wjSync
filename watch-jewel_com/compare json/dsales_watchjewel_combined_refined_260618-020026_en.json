@@ -1,0 +1,96 @@
+[
+    {
+        "SKU": "ZH-4382",
+        "ListedSKU": "WC153900",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470642406",
+        "Title": "PENDANT WITH CHAIN 925 SILVER DIAMOND AND ZIRCONIUM",
+        "Description": "PENDANT WITH CHAIN 925 SILVER DIAMOND AND ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 89,
+        "Price": 32.58,
+        "PriceUpdateUTC": null,
+        "Stock": 5,
+        "StockUpdateUTC": "2018-06-25T22:39:32.17",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "2.1000",
+        "SPEC_Jewel_type": "Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "1.3",
+        "SPEC_Width-cm": "1",
+        "SPEC_Diamond_quantity": "2",
+        "SPEC_Total_Diamond_Weight": "0.02",
+        "SPEC_Diamond_color": "White/Wesselton (H)",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_actll7.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-06-28T10:14:38"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_hoqzmk.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_6fw4ni.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_ad7l73.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            }
+        ]
+    },
+    {
+        "SKU": "35-1000-10",
+        "ListedSKU": "WC156179",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5400470214658",
+        "Title": "SHAON DAMES",
+        "Description": "SHAON DAMES",
+        "Brand": "SHAON",
+        "RRP": 45,
+        "Price": 13.03,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-25T22:39:32.17",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": null,
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Leather imitation",
+        "SPEC_Band_Color": "Purple",
+        "SPEC_Band_Width_mm": "14",
+        "SPEC_Band_Length_cm": "16.5",
+        "SPEC_Case_Diameter_mm": "29",
+        "SPEC_Case_Thickness_mm": "7.4",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "19.1",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Brand Description": "SHAON. The brand for watches: SHAON. Inspiring. Modern. Timeless. SHAON. Where we present fashion accessories for every occasion. From the classical, to the fashionably dressed. From the sporty look, to the height of elegance. From the casual, to the sophisticated lady and gentleman. SHAON. Detailed design and lasting quality. SHAON. Where the watch says \u2018chic\u2019, and the price says \u2018affordability\u2019. Allow yourself to be enthused. Give or get a high quality gift that will make you proud to join the SHAON class.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/35-1000-10_iqgofb.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-03-14T13:34:15"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/35-1000-10_yatmv5.jpg",
+                "ImageUpdateUTC": "2018-06-25T11:49:18"
+            }
+        ]
+    }
+]

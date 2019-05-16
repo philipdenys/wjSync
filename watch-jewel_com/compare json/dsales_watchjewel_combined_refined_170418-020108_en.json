@@ -1,0 +1,61 @@
+[
+    {
+        "SKU": "122-1712-44",
+        "ListedSKU": "WC155346",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5400470268583",
+        "Title": "ORPHELIA Ladies Analogue Watch Everland Black Silicone",
+        "Description": "ORPHELIA Ladies Analogue Watch Everland Black Silicone",
+        "Brand": "ORPHELIA",
+        "RRP": 99,
+        "Price": 99,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-04-16T22:49:52.347",
+        "SPEC_Model Name": "Everland",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "16",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Diameter_mm": "34",
+        "SPEC_Case_Thickness_mm": "11",
+        "SPEC_Bezel_Function": "Bezel with indices",
+        "SPEC_Bezel_Material_Type": "Stainless steel plated",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "58",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/122-1712-44.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/122-1712-44_3.jpg",
+                "ImageUpdateUTC": "2017-03-14T10:16:54"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/122-1712-44_1.jpg",
+                "ImageUpdateUTC": "2017-03-14T10:16:54"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/122-1712-44_2.jpg",
+                "ImageUpdateUTC": "2017-03-14T10:16:54"
+            }
+        ]
+    }
+]

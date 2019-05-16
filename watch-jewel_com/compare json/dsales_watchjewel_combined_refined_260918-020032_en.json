@@ -1,0 +1,107 @@
+[
+    {
+        "SKU": "1-1607B",
+        "ListedSKU": "WC155329",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4040662102823",
+        "Title": "JL Classic Bienne Heren",
+        "Description": "JL Classic Bienne Heren",
+        "Brand": "JACQUES LEMANS",
+        "RRP": 129,
+        "Price": 129,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-09-25T22:41:04.69",
+        "SPEC_FNSKU": "X000JGY6YJ",
+        "SPEC_Model Name": "Classic Bienne",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Rectangular",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "24",
+        "SPEC_Band_Length_cm": "25",
+        "SPEC_Case_Width_mm": "34",
+        "SPEC_Case_Length_mm": "43",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "42.3",
+        "SPEC_Dial_Window_Material": "Special hardened crystal",
+        "SPEC_Brand Description": "Jacques Lemans is an international watch producer based in Carinthia/Austria. Milions of content customers in more than 120 countries worldwide love and trust their Jacques Lemans watches every single day.This enormous success is based on a clear-cut philosophy: best quality and manufacturing at an affordable price. Jacques Lemans watches are simply outstanding due to premium manufacturing, absolute reliability, innovative technique and stylish elegance.The various Jacques Lemans styles \u201eClassic\u201c, \u201eSport\u201c, \u201eLa Passion\u201c, \u201eHigh Tech Ceramic\u201c, \u201eAutomatic\u201c or \u201eRetro\u201c enjoy great popularity.From the initial idea to rough sketches, from final design to production, marketing and sales \u2013 Jacques Lemans is doing everything \u201ein-house\u201c, which is not only a slogan but truly lived corporate culture and therefore an immensely important part of the Jacques Lemans success Story.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1-1607b_m1vt1v.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-10-26T10:41:10"
+            }
+        ]
+    },
+    {
+        "SKU": "ESNL93226A420",
+        "ListedSKU": "WC153968",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945215248",
+        "Title": "Esprit Silver Symphony Silver",
+        "Description": "Esprit Silver Symphony Silver",
+        "Brand": "Esprit Silver",
+        "RRP": 99.9,
+        "Price": 58.45,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-09-25T22:39:05.953",
+        "SPEC_Model_Name": "Symphony",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "5.7",
+        "SPEC_Jewel_type": "Necklace",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "1.8",
+        "SPEC_Length-cm": "42",
+        "SPEC_Width-cm": "0.9",
+        "SPEC_Gem_shape": "Round",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Gem_quantity": "9",
+        "SPEC_Fruugo Title": "Esprit Silver Symphony Silver ESNL93226",
+        "SPEC_Fruugo Description": "Esprit Silver Symphony Silver ESNL93226A420",
+        "SPEC_Fruugo Category": "Apparel & Accessories > Jewelry > Necklaces > Womens",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl93226a420_rwy7a4.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-04-20T08:37:57"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl93226a420_8ubdba.jpg",
+                "ImageUpdateUTC": "2017-05-29T14:20:19"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl93226a420_576l94.jpg",
+                "ImageUpdateUTC": "2017-05-10T13:52:27"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl93226a420_lksfyl.jpg",
+                "ImageUpdateUTC": "2017-05-10T13:52:27"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl93226a420_axkfod.jpg",
+                "ImageUpdateUTC": "2017-05-10T13:52:27"
+            }
+        ]
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "SKU": "ZH-4382",
+        "ListedSKU": "WC153900",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470642406",
+        "Title": "PENDANT WITH CHAIN 925 SILVER DIAMOND AND ZIRCONIUM",
+        "Description": "PENDANT WITH CHAIN 925 SILVER DIAMOND AND ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 89,
+        "Price": 32.58,
+        "PriceUpdateUTC": null,
+        "Stock": 5,
+        "StockUpdateUTC": "2018-08-21T22:39:58.523",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "2.1000",
+        "SPEC_Jewel_type": "Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "1.3",
+        "SPEC_Width-cm": "1",
+        "SPEC_Diamond_quantity": "2",
+        "SPEC_Total_Diamond_Weight": "0.02",
+        "SPEC_Diamond_color": "White/Wesselton (H)",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_actll7.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-06-28T10:14:38"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_hoqzmk.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_6fw4ni.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_ad7l73.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            }
+        ]
+    },
+    {
+        "SKU": "SHE-3503SG-7AER",
+        "ListedSKU": "WC156885",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4971850920953",
+        "Title": "Casio Sheen",
+        "Description": "Casio Sheen",
+        "Brand": "CASIO",
+        "RRP": 219,
+        "Price": 219,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-08-21T22:39:58.523",
+        "SPEC_Model Name": "Sheen",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_Features_2": "Luminous Hand",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "16",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "33.5",
+        "SPEC_Case_Thickness_mm": "8.2",
+        "SPEC_Bezel_Material_Type": "Ceramic",
+        "SPEC_Gem_Type": "Zirkonia",
+        "SPEC_Clasp_Type": "Fold over clasp with double push button safety",
+        "SPEC_Weight_g": "56",
+        "SPEC_Dial_Window_Material": "Saphirre glas",
+        "SPEC_Battery": "SR916SW",
+        "SPEC_Brand Description": "Casio is one of the top watch brands, with over one million watches purchased every year. Amongst it's portfolio are classic toughness brands G-Shock and Baby-G, motor-sport inspired chronograph range Edifice and the fashionista favourite retro collection of digital watches.With recent advances in Bluetooth and Wave Ceptor technology, Casio continually pushes the boundaries of innovative timepiece design and functionality.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/efs5ztqd_she-3503sg-7aer.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-08-21T15:13:18"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/9nwuyo1n_she-3503sg-7aer.jpg",
+                "ImageUpdateUTC": "2018-08-21T17:13:32"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ketn7eei_she-3503sg-7aer.jpg",
+                "ImageUpdateUTC": "2018-08-21T17:13:32"
+            }
+        ]
+    }
+]

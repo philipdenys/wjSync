@@ -1,0 +1,36 @@
+[
+    {
+        "SKU": "alphabet/U",
+        "ListedSKU": "WC153888",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190055757",
+        "Title": "letter U with chain 42 cm",
+        "Description": "letter U with chain 42 cm",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 29,
+        "Price": 18,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-07-18T22:32:07.113",
+        "SPEC_Target_audience": "Child",
+        "SPEC_Weight-Gram": "2.4",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "White",
+        "SPEC_Clasp_type": "Spring ring clasp",
+        "SPEC_Height-cm": "1",
+        "SPEC_Length-cm": "42",
+        "SPEC_Width-cm": "1",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/alphabetu_qrn2rr.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    }
+]

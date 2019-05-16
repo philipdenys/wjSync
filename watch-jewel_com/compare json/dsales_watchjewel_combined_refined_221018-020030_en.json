@@ -1,0 +1,52 @@
+[
+    {
+        "SKU": "PCNL10018C420",
+        "ListedSKU": "WC163962",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945375089",
+        "Title": "Pierre Cardin Steel L'Anneau",
+        "Description": "Pierre Cardin Steel L'Anneau",
+        "Brand": "Pierre Cardin Steel",
+        "RRP": 99,
+        "Price": 53.46,
+        "PriceUpdateUTC": null,
+        "Stock": 5,
+        "StockUpdateUTC": "2018-10-21T22:40:27.99",
+        "SPEC_Model_Name": "L'Anneau",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "15.15",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Metal Color": "Gold",
+        "SPEC_Material_type": "Epoxy",
+        "SPEC_Material_color": "White",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "4.5",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "3.4",
+        "SPEC_Gem_shape": "Round",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Gem_quantity": "12",
+        "SPEC_Info": "Length 40 cm+5 cm",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcnl10018c420_wimr3z.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-11-10T11:08:01"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcnl10018c420_140gyq.jpg",
+                "ImageUpdateUTC": "2017-03-21T12:13:36"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcnl10018c420_6pwsb6.jpg",
+                "ImageUpdateUTC": "2017-03-21T12:13:36"
+            }
+        ]
+    }
+]

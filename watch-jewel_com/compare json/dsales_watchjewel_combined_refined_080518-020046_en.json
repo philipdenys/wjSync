@@ -1,0 +1,62 @@
+[
+    {
+        "SKU": "PU104261004",
+        "ListedSKU": "WC155544",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945244262",
+        "Title": "Puma Nevermind Silver Black",
+        "Description": "Puma Nevermind Silver Black",
+        "Brand": "Puma",
+        "RRP": 100,
+        "Price": 58.5,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-07T22:39:12.057",
+        "SPEC_Model Name": "Nevermind",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Plastic",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "47",
+        "SPEC_Case_Thickness_mm": "11",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "83",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "SR626SW",
+        "SPEC_Brand Description": "The watches of PUMA Time collection emphasizes the casual and cool lifestyle of young, active and sporty PUMA fans. This is reflected in the very clear and minimalist aesthetics of the dials, the trendy color selection and the high-quality materials. In conjunction with sophisticated technical functions, the women's and men's watches are the absolute trendsetters.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/4jbdm8gb_pu104261004.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-05-07T13:20:41"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu104261004_xo5vm7.jpg",
+                "ImageUpdateUTC": "2018-05-07T15:20:55"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu104261004_ffkkju.jpg",
+                "ImageUpdateUTC": "2018-05-07T15:20:55"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu104261004_c1bjbz.jpg",
+                "ImageUpdateUTC": "2018-05-07T15:20:55"
+            }
+        ]
+    }
+]

@@ -1,0 +1,143 @@
+[
+    {
+        "SKU": "ESBA11258C600",
+        "ListedSKU": "WC153874",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945214548",
+        "Title": "Esprit Steel Chic Rose",
+        "Description": "Esprit Steel Chic Rose",
+        "Brand": "Esprit Steel",
+        "RRP": 64.9,
+        "Price": 37.97,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-08-03T22:44:06.37",
+        "SPEC_Model_Name": "Chic",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "18.8",
+        "SPEC_Jewel_type": "Bangle",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Metal Color": "Rosegold",
+        "SPEC_Clasp_type": "Bangle bracelet clasp",
+        "SPEC_Length-cm": "60",
+        "SPEC_Width-cm": "0.4",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esba11258c600_85n6jc.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-04-20T08:55:10"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esba11258c600_xkdow7.jpg",
+                "ImageUpdateUTC": "2017-05-18T14:47:02"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esba11258c600_0mcrca.jpg",
+                "ImageUpdateUTC": "2017-05-18T14:47:02"
+            }
+        ]
+    },
+    {
+        "SKU": "1-1691G",
+        "ListedSKU": "WC155352",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4040662109310",
+        "Title": "JL Dames Sport",
+        "Description": "JL Dames Sport",
+        "Brand": "JACQUES LEMANS",
+        "RRP": 129,
+        "Price": 53.1,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-08-03T22:37:01.473",
+        "SPEC_FNSKU": "X000JI7Z9Z",
+        "SPEC_Model Name": "Sport",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Blue",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "41",
+        "SPEC_Case_Thickness_mm": "10.5",
+        "SPEC_Bezel_Function": "Bezel with numbers",
+        "SPEC_Bezel_Material_Type": "Stainless steel",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "73.2",
+        "SPEC_Dial_Window_Material": "Special hardened crystal",
+        "SPEC_Brand Description": "Jacques Lemans is an international watch producer based in Carinthia/Austria. Milions of content customers in more than 120 countries worldwide love and trust their Jacques Lemans watches every single day.This enormous success is based on a clear-cut philosophy: best quality and manufacturing at an affordable price. Jacques Lemans watches are simply outstanding due to premium manufacturing, absolute reliability, innovative technique and stylish elegance.The various Jacques Lemans styles \u201eClassic\u201c, \u201eSport\u201c, \u201eLa Passion\u201c, \u201eHigh Tech Ceramic\u201c, \u201eAutomatic\u201c or \u201eRetro\u201c enjoy great popularity.From the initial idea to rough sketches, from final design to production, marketing and sales \u2013 Jacques Lemans is doing everything \u201ein-house\u201c, which is not only a slogan but truly lived corporate culture and therefore an immensely important part of the Jacques Lemans success Story.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1-1691g_thx1a.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-7082",
+        "ListedSKU": "WC153877",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190037425",
+        "Title": "CHAIN WITH PENDANT HEART 925 SILVER ZIRCONIUM",
+        "Description": "CHAIN WITH PENDANT HEART 925 SILVER ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 47,
+        "Price": 29.7,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-08-03T22:53:29.64",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "1.6",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "2",
+        "SPEC_Length-cm": "42+3",
+        "SPEC_Width-cm": "1.3",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Chain With Pendant Heart Zirconium  ZH-7082",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Chain With Pendant Heart Zirconium  ZH-7082",
+        "SPEC_Fruugo Category": "Jewellery > Women > Pendant",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-7082_imm3rj.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-7082_lh7snc.jpg",
+                "ImageUpdateUTC": "2017-03-23T10:43:26"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-7082_sze5qf.jpg",
+                "ImageUpdateUTC": "2017-03-23T10:43:26"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-7082_47s0ax.jpg",
+                "ImageUpdateUTC": "2017-03-23T10:43:26"
+            }
+        ]
+    }
+]

@@ -1,0 +1,5 @@
+{
+    "html.format.wrapLineLength": 250,
+    "editor.wordWrapColumn": 250,
+    "prettier.proseWrap": "never"
+}

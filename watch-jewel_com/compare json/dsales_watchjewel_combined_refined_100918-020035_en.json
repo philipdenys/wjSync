@@ -1,0 +1,45 @@
+[
+    {
+        "SKU": "PK-021",
+        "ListedSKU": "WC154224",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470637310",
+        "Title": "KETTING 45CM ZIRC.",
+        "Description": "KETTING 45CM ZIRC.",
+        "Brand": "ORPHELIA STEEL/OTHER",
+        "RRP": 119,
+        "Price": 44.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-09-09T22:31:46.063",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "1.2",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pk-021_luack3.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-06-28T10:13:09"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pk-021_iehw0q.jpg",
+                "ImageUpdateUTC": "2016-06-28T10:13:45"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pk-021_nz9f2h.jpg",
+                "ImageUpdateUTC": "2016-06-28T10:13:45"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pk-021_1kfzw8.jpg",
+                "ImageUpdateUTC": "2016-06-28T10:13:45"
+            }
+        ]
+    }
+]

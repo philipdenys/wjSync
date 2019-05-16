@@ -1,0 +1,173 @@
+[
+    {
+        "SKU": "ZA-1008",
+        "ListedSKU": "WC154175",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470269702",
+        "Title": "ARMBAND 18.5 CM FANTASY ZIRCONIUM",
+        "Description": "ARMBAND 18.5 CM FANTASY ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 65,
+        "Price": 29.16,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-04-05T22:39:57.097",
+        "SPEC_Weight-Gram": "7.4683",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Bracelet",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "18.5",
+        "SPEC_Width-cm": "1",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1008_syboye.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1008_mlnexz.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/za-1008.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/za-1008_141b17.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ZK-2649",
+        "ListedSKU": "WC163891",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470634555",
+        "Title": "KETTING 45 CM BICOLR",
+        "Description": "KETTING 45 CM BICOLR",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 149,
+        "Price": 56.25,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-04-05T22:39:57.097",
+        "SPEC_Weight-Gram": "23.5000",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Necklace",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "White/Gold",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "45",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-2649_ajrw8b.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-04-05T15:08:54"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-2649_d0kpfi.jpg",
+                "ImageUpdateUTC": "2017-03-24T11:31:06"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-2649_pmsrlo.jpg",
+                "ImageUpdateUTC": "2017-03-24T11:31:06"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-2649_5a2u69.jpg",
+                "ImageUpdateUTC": "2017-03-24T11:31:06"
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-4382",
+        "ListedSKU": "WC153900",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470642406",
+        "Title": "PENDANT WITH CHAIN 925 SILVER DIAMOND AND ZIRCONIUM",
+        "Description": "PENDANT WITH CHAIN 925 SILVER DIAMOND AND ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 89,
+        "Price": 32.58,
+        "PriceUpdateUTC": null,
+        "Stock": 6,
+        "StockUpdateUTC": "2018-04-05T22:39:57.097",
+        "SPEC_Weight-Gram": "2.1000",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "1.3",
+        "SPEC_Width-cm": "1",
+        "SPEC_Diamond_quantity": "2",
+        "SPEC_Total_Diamond_Weight": "0.02",
+        "SPEC_Diamond_color": "White/Wesselton (H)",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_actll7.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-06-28T10:14:38"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_hoqzmk.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_6fw4ni.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_ad7l73.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            }
+        ]
+    },
+    {
+        "SKU": "S-R46B52",
+        "ListedSKU": "WC153901",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4040662601784",
+        "Title": "JL RING SS SWAROVSKI KRISTAL",
+        "Description": "JL RING SS SWAROVSKI KRISTAL",
+        "Brand": "JACQUES LEMANS",
+        "RRP": 59,
+        "Price": 59,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-04-05T22:39:57.097",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Material_color": "Silver",
+        "SPEC_Ring_size": "52",
+        "SPEC_Gem_type": "Swarovski-Crystal",
+        "SPEC_Gem_color": "White",
+        "SPEC_Brand Description": "Extravagant and exclusive - this is how the jewelery of Jacques Lemans presents itself.  Sparkling Swarovski crystals in trendy colors harmonize perfectly with artistic designs and high-quality workmanship. The individual parts of the collections can be combined in a variety of ways and can be expanded individually.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/s-r46b52.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,234 @@
+[
+    {
+        "SKU": "ASG-050",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470091921",
+        "Title": "Armband stainless steel 21 cm unisex",
+        "Description": "Armband stainless steel 21 cm unisex",
+        "Brand": "ORPHELIA STEEL/OTHER",
+        "RRP": 45,
+        "Price": 25,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-17T23:39:49.17",
+        "SPEC_Weight-Gram": "37",
+        "SPEC_Target_audience": "Unisex",
+        "SPEC_Jewel_type": "Bracelet",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Metal Color": "White",
+        "SPEC_Clasp_type": "Fold over clasp",
+        "SPEC_Length-cm": "21",
+        "SPEC_Width-cm": "1",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/asg-050_2.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/asg-050.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/asg-050_ihajlt.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/asg-050_1.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-7226/RU",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190069938",
+        "Title": "EARRING DROP RUBY COLOR ZIRCONIUM",
+        "Description": "EARRING DROP RUBY COLOR ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 49,
+        "Price": 30.6,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-17T23:39:49.17",
+        "SPEC_Weight-Gram": "2.5",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Length-cm": "1",
+        "SPEC_Width-cm": "0.6",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "Red",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7226ru_f89y1b.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-03-28T09:38:57"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7226ru_3aeama.jpg",
+                "ImageUpdateUTC": "2016-05-18T09:50:51"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7226ru_zk27z4.jpg",
+                "ImageUpdateUTC": "2016-05-18T09:50:53"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7226ru_dlfcvf.jpg",
+                "ImageUpdateUTC": "2016-05-18T10:05:30"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7226ru_m8vwqd.jpg",
+                "ImageUpdateUTC": "2016-05-18T11:19:47"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7226ru_km3kgz.jpg",
+                "ImageUpdateUTC": "2017-03-28T09:38:53"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3901/50",
+        "ParentSKU": "ZR-3901",
+        "Category": "Jewellery",
+        "EAN": "5400470245867",
+        "Title": "RING GLASS 24CR GOLD SHEET ZIRCONIUM",
+        "Description": "RING GLASS 24CR GOLD SHEET ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 99,
+        "Price": 33.48,
+        "PriceUpdateUTC": null,
+        "Stock": 3,
+        "StockUpdateUTC": "2018-03-17T23:40:37.78",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "50",
+        "SPEC_Width-cm": "2",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-390150_cb6oms.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ESCH91016A000",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945902834",
+        "Title": "Esprit S925 Charm One",
+        "Description": "Esprit S925 Charm One",
+        "Brand": "Esprit Silver",
+        "RRP": 19.9,
+        "Price": 12.94,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-03-17T23:39:49.17",
+        "SPEC_Model_Name": "Charm One",
+        "SPEC_Model Name": "One",
+        "SPEC_Weight-Gram": "2",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Charm",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "22",
+        "SPEC_Width-cm": "1.5",
+        "SPEC_Diameter-cm": "1.5",
+        "SPEC_Brand Description": "Modern, always stylish, full of life and yet so beautifully - that's Esprit. And that's what you appreciate and love.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esch91016a000.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esch91016a000_0pg3kh.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "WC156323",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945185329",
+        "Title": "Pierre Cardin L Arc Black Lb Swiss Made",
+        "Description": "Pierre Cardin L Arc Black Lb Swiss Made",
+        "Brand": "Pierre Cardin",
+        "RRP": 164,
+        "Price": 58.55,
+        "PriceUpdateUTC": null,
+        "Stock": 4,
+        "StockUpdateUTC": "2018-03-17T23:39:49.17",
+        "SPEC_Model Name": "L Arc",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Swiss Made",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "14",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "30",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Bezel_Function": "Stone settings",
+        "SPEC_Gem_Type": "Zirkonia",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "30",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "SR621SW"
+    },
+    {
+        "SKU": "WC157058",
+        "ParentSKU": null,
+        "Category": "Wedding Rings",
+        "EAN": "5400470253503",
+        "Title": "TROUWRING 9CT",
+        "Description": "TROUWRING 9CT",
+        "Brand": "FAIRBELLE",
+        "RRP": 130,
+        "Price": 81.9,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-03-17T23:39:49.17"
+    },
+    {
+        "SKU": "WC157143",
+        "ParentSKU": null,
+        "Category": "Wedding Rings",
+        "EAN": "5400470253244",
+        "Title": "TROUWRING 9CT",
+        "Description": "TROUWRING 9CT",
+        "Brand": "FAIRBELLE",
+        "RRP": 240,
+        "Price": 152.1,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-03-17T23:39:49.17"
+    }
+]

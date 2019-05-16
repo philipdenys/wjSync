@@ -1,0 +1,35 @@
+{
+  "name": "wjsync",
+  "version": "1.0.0",
+  "description": "API between the webshop Watch-Jewel and Dsales.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipdenys/wjSync.git"
+  },
+  "keywords": [
+    "wjSync",
+    "fetch",
+    "data",
+    "dsales",
+    "sync",
+    "watch-jewel.com",
+    "sync",
+    "api",
+    "stock",
+    "sync"
+  ],
+  "author": "Philip Denys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philipdenys/wjSync/issues"
+  },
+  "homepage": "https://github.com/philipdenys/wjSync#readme",
+  "dependencies": {
+    "cron": "^1.7.1",
+    "express": "^4.16.4",
+    "jshint": "^2.10.2",
+    "node-fetch": "^2.5.0",
+    "requirejs": "^2.3.6"
+  }
+}

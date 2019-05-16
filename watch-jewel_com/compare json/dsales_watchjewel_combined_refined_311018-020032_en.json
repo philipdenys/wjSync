@@ -1,0 +1,218 @@
+[
+    {
+        "SKU": "96G175",
+        "ListedSKU": "WC155150",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "7613077496459",
+        "Title": "Bulova Mens Watch Precisionist Silver",
+        "Description": "Bulova Mens Watch Precisionist Silver",
+        "Brand": "BULOVA",
+        "RRP": 860,
+        "Price": 699,
+        "PriceUpdateUTC": null,
+        "Stock": 2,
+        "StockUpdateUTC": "2018-10-30T23:40:55.663",
+        "SPEC_Model Name": "Precisionist",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Chronograph",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Stop Watch",
+        "SPEC_Features_2": "Tachymeter",
+        "SPEC_Features_3": "Luminous Hand",
+        "SPEC_Features_4": "Luminous Numerals",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "30 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "24",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Diameter_mm": "46",
+        "SPEC_Case_Thickness_mm": "18",
+        "SPEC_Bezel_Function": "Bezel with indices",
+        "SPEC_Bezel_Material_Type": "Stainless steel",
+        "SPEC_Clasp_Type": "Push button clasp with safetyclasp",
+        "SPEC_Weight_g": "259",
+        "SPEC_Dial_Window_Material": "Saphirre glas",
+        "SPEC_Product Description": "From the Precisionist Collection with precise timing to 1/1000th of a second and continuous-sweep second hand, the Precisionist Chronograph is particularly refined. In stainless steel with curved sapphire crystal, multiple-layer black carbon fiber, blue, silver and black dial, yellow second hand, luminous hour and minute hands, luminous markers, calendar, screw-back case, screw-down crown, and secure double-press fold-over clasp with safety lock. Powered by Bulova's exclusive high performance quartz movement with a frequency of 262 kHz for unparalleled accuracy",
+        "SPEC_Brand Description": "Bulova, an American brand, is known for its innovation, craftsmanship and advanced technology. Since 1875, when founder Joseph Bulova opened his store on Maiden Lane in downtown Manhattan, Bulova has remained true to his legacy\u2014mastering the classic art of timekeeping while always embracing the future.A Bulova watch is not only a timepiece; it is a piece of history.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ku8pdxw3_96g175.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-10-30T10:20:37"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/96g175_hkwegd.jpg",
+                "ImageUpdateUTC": "2018-10-30T11:20:47"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/96g175_stx00e.jpg",
+                "ImageUpdateUTC": "2018-10-30T11:20:47"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/96g175_5hxv1e.jpg",
+                "ImageUpdateUTC": "2018-10-30T11:20:47"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/xiid6w8p_96g175.jpg",
+                "ImageUpdateUTC": "2018-10-30T11:20:47"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/xts5ixor_96g175.jpg",
+                "ImageUpdateUTC": "2018-10-30T11:20:47"
+            }
+        ]
+    },
+    {
+        "SKU": "96B104",
+        "ListedSKU": "WC155271",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "7613077444559",
+        "Title": "Bulova Mens Watch Dress Black",
+        "Description": "Bulova Mens Watch Dress Black",
+        "Brand": "BULOVA",
+        "RRP": 140,
+        "Price": 113.4,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-10-30T23:40:55.663",
+        "SPEC_Model Name": "Dress",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "37",
+        "SPEC_Case_Thickness_mm": "6",
+        "SPEC_Bezel_Material_Type": "Stainless steel",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "41",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Product Description": "From the Classic Collection. Silver patterned dial. Calendar. Stainless steel case. Black leather strap.",
+        "SPEC_Brand Description": "Bulova, an American brand, is known for its innovation, craftsmanship and advanced technology. Since 1875, when founder Joseph Bulova opened his store on Maiden Lane in downtown Manhattan, Bulova has remained true to his legacy\u2014mastering the classic art of timekeeping while always embracing the future.A Bulova watch is not only a timepiece; it is a piece of history.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/96b104_k8kq1a.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/96b104_2.jpg",
+                "ImageUpdateUTC": "2018-10-30T11:21:32"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/96b104_1.jpg",
+                "ImageUpdateUTC": "2018-10-30T11:21:32"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/xhf3mikv_96b104.jpg",
+                "ImageUpdateUTC": "2018-10-30T11:21:32"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a8d9l5v3_96b104.jpg",
+                "ImageUpdateUTC": "2018-10-30T11:21:32"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/9yzbdiqd_96b104.jpg",
+                "ImageUpdateUTC": "2018-10-30T11:21:32"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/u2e59kjq_96b104.jpg",
+                "ImageUpdateUTC": "2018-10-30T11:21:32"
+            }
+        ]
+    },
+    {
+        "SKU": "ES108952002",
+        "ListedSKU": "WC155332",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945224370",
+        "Title": "Esprit Watch TP10895 Gold",
+        "Description": "Esprit Watch TP10895 Gold",
+        "Brand": "ESPRIT",
+        "RRP": 195,
+        "Price": 71.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-10-30T23:40:55.663",
+        "SPEC_FNSKU": "X000RHP79X",
+        "SPEC_Model Name": "TP1895",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Gold",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Gold",
+        "SPEC_Band_Width_mm": "16",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "36",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Bezel_Function": "Stone settings",
+        "SPEC_Gem_Type": "Swarovski-Crystal",
+        "SPEC_Clasp_Type": "Double fold over clasp with safety",
+        "SPEC_Weight_g": "95",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Battery": "SR621SW",
+        "SPEC_Brand Description": "The Esprit brand, established in San Francisco in 1968, is internationally known and stands for a modern, self-confident, but also uncomplicated design. Not only in terms of clothing, shoes and handbags Esprit is constantly setting new trends. With the Esprit Home line, the brand has established itself very successfully in residential design and lifestyle.  Timely  The Esprit Timewear brand line has long been an integral part of the international watch market and stands for the Esprit-typical combination of modern style, combined with self-confidence and sensuality as well as the highest quality standards.  Design  Esprit Timewear whether classic, glamorous or sporty, whether fashionable ladies watches with refined details or functional men's watches with a lot of flair for style and trends: Under the motto of designs, Esprit watch collection provides numerous opportunities to delight and connect people.",
+        "SPEC_Fruugo Title": "Esprit Watch TP10895 Gold ES108952002",
+        "SPEC_Fruugo Description": "Esprit Watch TP10895 Gold ES108952002",
+        "SPEC_Fruugo Category": "Apparel & Accessories > Jewelry > Watches > Womens",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/es108952002_hu57aj.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-12-12T14:43:43"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/es108952002_vhulo7.jpg",
+                "ImageUpdateUTC": "2016-12-20T15:48:29"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/es108952002_reqtn2.jpg",
+                "ImageUpdateUTC": "2016-12-20T15:48:33"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/es108952002_cnrigw.jpg",
+                "ImageUpdateUTC": "2016-12-21T15:31:54"
+            }
+        ]
+    }
+]

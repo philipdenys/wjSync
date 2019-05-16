@@ -1,0 +1,71 @@
+[
+    {
+        "SKU": "MQ-24-7BLLGF",
+        "ListedSKU": "MQ-24-7BLLGF",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4971850730507",
+        "Title": "Casio Collection Unisex Watch MQ-24-7BLLGF",
+        "Description": "Casio Collection Unisex Watch MQ-24-7BLLGF",
+        "Brand": "CASIO",
+        "RRP": 29,
+        "Price": 20.43,
+        "PriceUpdateUTC": "2018-08-29T14:31:09.83",
+        "Stock": 3,
+        "StockUpdateUTC": "2018-09-20T22:39:08.463",
+        "SPEC_Model Name": "Casio Collection",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Resin",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Black",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Plastic",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "19",
+        "SPEC_Case_Diameter_mm": "34",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "20",
+        "SPEC_Dial_Window_Material": "Plastic glas",
+        "SPEC_Fruugo Title": "Casio Collection Unisex Watch MQ-24-7BLLGF",
+        "SPEC_Fruugo Description": "Casio Collection Unisex Watch MQ-24-7BLLGF",
+        "SPEC_Fruugo Category": "Apparel & Accessories > Jewelry > Watches > Adult (unisex)",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pivwlhu9_mq-24-7bllgf.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-07-12T12:52:59"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/z8jwkkx2_mq-24-7bllgf.jpg",
+                "ImageUpdateUTC": "2018-09-20T11:09:01"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ihm5nhm9_mq-24-7bllgf.jpg",
+                "ImageUpdateUTC": "2018-09-20T11:09:01"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/7o9obe2n_mq-24-7bllgf.jpg",
+                "ImageUpdateUTC": "2018-09-20T11:09:01"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/bcqkiapy_mq-24-7bllgf.jpg",
+                "ImageUpdateUTC": "2018-09-20T11:09:01"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/9cx3otlm_mq-24-7bllgf.jpg",
+                "ImageUpdateUTC": "2018-09-20T11:09:01"
+            }
+        ]
+    }
+]

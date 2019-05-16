@@ -1,0 +1,133 @@
+[
+    {
+        "SKU": "ELNL92723B420",
+        "ListedSKU": "WC153911",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945398347",
+        "Title": "Esprit Collection S925 Euphoria Rose",
+        "Description": "Esprit Collection S925 Euphoria Rose",
+        "Brand": "Esprit Collection Silver",
+        "RRP": 189,
+        "Price": 102.06,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-04-07T22:40:47.087",
+        "SPEC_Model_Name": "Euphoria",
+        "SPEC_Weight-Gram": "8.7",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Rosegold",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "42",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Brand Description": "Modern, always stylish, full of life and yet so beautifully - that's Esprit. And that's what you appreciate and love.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/elnl92723b420_y0iuk.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "554-2601-18",
+        "ListedSKU": "WC155341",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5400470630533",
+        "Title": "CLIPS DAMES STAAL ",
+        "Description": "CLIPS DAMES STAAL ",
+        "Brand": "Clips",
+        "RRP": 69,
+        "Price": 19,
+        "PriceUpdateUTC": null,
+        "Stock": 6,
+        "StockUpdateUTC": "2018-04-07T22:40:47.087",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": null,
+        "SPEC_Case_Style": "Rectangular",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Alloy",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Width_mm": "22",
+        "SPEC_Case_Length_mm": "28",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Bangle bracelet clasp",
+        "SPEC_Weight_g": "72.7",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/554-2601-18.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/554-2601-18_1.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/554-2601-18_2.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5971",
+        "ListedSKU": "WC153902",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470124773",
+        "Title": "OORBEL MICRO PAVE ZIRCONIUM",
+        "Description": "OORBEL MICRO PAVE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 139,
+        "Price": 62.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-04-07T22:42:14.167",
+        "SPEC_Weight-Gram": "6.6",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Jewel_type": "Drop Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Length-cm": "3.3",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5971_wg6ss2.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5971_qci79l.jpg",
+                "ImageUpdateUTC": "2017-03-30T13:13:45"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5971_wz640z.jpg",
+                "ImageUpdateUTC": "2017-03-30T13:13:45"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5971_8cx8k1.jpg",
+                "ImageUpdateUTC": "2017-03-30T13:13:45"
+            }
+        ]
+    }
+]

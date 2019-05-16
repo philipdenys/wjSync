@@ -1,0 +1,51 @@
+[
+    {
+        "SKU": "ZK-7181",
+        "ListedSKU": "WC153876",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190059243",
+        "Title": "NECKLACE BICOLOR CIRCLES",
+        "Description": "NECKLACE BICOLOR CIRCLES",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 75,
+        "Price": 47.7,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-07-20T22:57:05.103",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "7.5",
+        "SPEC_Jewel_type": "Necklace",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver/rosegold",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "80",
+        "SPEC_Width-cm": "1.7",
+        "SPEC_Fruugo Title": "Orphelia Silver 925  Necklace Bicolor Circles  ZK-7181",
+        "SPEC_Fruugo Description": "Orphelia Silver 925  Necklace Bicolor Circles  ZK-7181",
+        "SPEC_Fruugo Category": "Jewellery > Women > Necklace",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7181_62l6xv.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-04-21T11:19:34"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7181_3h1beh.jpg",
+                "ImageUpdateUTC": "2016-05-03T10:51:47"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7181_sl18ff.jpg",
+                "ImageUpdateUTC": "2016-04-21T11:19:31"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7181_b2f03m.jpg",
+                "ImageUpdateUTC": "2016-04-21T11:19:33"
+            }
+        ]
+    }
+]

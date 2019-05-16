@@ -1,0 +1,342 @@
+[
+    {
+        "SKU": "ZR-3654/52",
+        "ListedSKU": "WC154516",
+        "ParentSKU": "ZR-3654",
+        "Category": "Jewellery",
+        "EAN": "5400470101606",
+        "Title": "RING GRANDE BLACK CATEYE ZIRCONIUM",
+        "Description": "RING GRANDE BLACK CATEYE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 159,
+        "Price": 37.35,
+        "PriceUpdateUTC": null,
+        "Stock": 4,
+        "StockUpdateUTC": "2018-04-24T22:32:14.773",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "10.5000",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "52",
+        "SPEC_Width-cm": "2",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/epm1frx2_zr-365452.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-04-24T12:31:34"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/eef58nzd_zr-365452.jpg",
+                "ImageUpdateUTC": "2018-04-24T12:32:12"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3654/54",
+        "ListedSKU": "WC154570",
+        "ParentSKU": "ZR-3654",
+        "Category": "Jewellery",
+        "EAN": "5400470101620",
+        "Title": "RING GRANDE BLACK CATEYE ZIRCONIUM",
+        "Description": "RING GRANDE BLACK CATEYE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 159,
+        "Price": 40.5,
+        "PriceUpdateUTC": null,
+        "Stock": 3,
+        "StockUpdateUTC": "2018-04-24T22:34:04.067",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "10.5000",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "54",
+        "SPEC_Width-cm": "2",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/5q7gc4a4_zr-365454.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-04-24T12:32:26"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/exkrdj3o_zr-365454.jpg",
+                "ImageUpdateUTC": "2018-04-24T12:32:25"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3654/56",
+        "ListedSKU": "WC151410",
+        "ParentSKU": "ZR-3654",
+        "Category": "Jewellery",
+        "EAN": "5400470101637",
+        "Title": "RING GRANDE BLACK CATEYE ZIRCONIUM",
+        "Description": "RING GRANDE BLACK CATEYE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 159,
+        "Price": 37.35,
+        "PriceUpdateUTC": null,
+        "Stock": 2,
+        "StockUpdateUTC": "2018-04-24T22:32:14.773",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "10.5000",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "56",
+        "SPEC_Width-cm": "2",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/qvfiw1sd_zr-365456.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-04-24T12:32:47"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/h8sulmc4_zr-365456.jpg",
+                "ImageUpdateUTC": "2018-04-24T12:32:43"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3654/58",
+        "ListedSKU": "WC149551",
+        "ParentSKU": "ZR-3654",
+        "Category": "Jewellery",
+        "EAN": "5400470101644",
+        "Title": "RING GRANDE BLACK CATEYE ZIRCONIUM",
+        "Description": "RING GRANDE BLACK CATEYE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 159,
+        "Price": 37.35,
+        "PriceUpdateUTC": null,
+        "Stock": 1,
+        "StockUpdateUTC": "2018-04-24T22:32:14.773",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "10.5000",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "58",
+        "SPEC_Width-cm": "2",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/199if44o_zr-365458.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-04-24T12:33:07"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/qzpbnz1y_zr-365458.jpg",
+                "ImageUpdateUTC": "2018-04-24T12:33:04"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3655/50",
+        "ListedSKU": "WC148987",
+        "ParentSKU": "ZR-3655",
+        "Category": "Jewellery",
+        "EAN": "5400470101668",
+        "Title": "RING GRANDE WHITE CATEYE ZIRCONIUM",
+        "Description": "RING GRANDE WHITE CATEYE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 159,
+        "Price": 37.35,
+        "PriceUpdateUTC": null,
+        "Stock": 2,
+        "StockUpdateUTC": "2018-04-24T22:32:14.773",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "10.5000",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "50",
+        "SPEC_Width-cm": "2",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/eeql6w26_zr-365550.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-04-24T09:10:06"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-365550_kmi8po.jpg",
+                "ImageUpdateUTC": "2016-07-26T14:00:02"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ghvqtabj_zr-365550.jpg",
+                "ImageUpdateUTC": "2018-04-24T09:09:44"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3655/52",
+        "ListedSKU": "WC149928",
+        "ParentSKU": "ZR-3655",
+        "Category": "Jewellery",
+        "EAN": "5400470101675",
+        "Title": "RING GRANDE WHITE CATEYE ZIRCONIUM",
+        "Description": "RING GRANDE WHITE CATEYE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 159,
+        "Price": 37.35,
+        "PriceUpdateUTC": null,
+        "Stock": 4,
+        "StockUpdateUTC": "2018-04-24T22:32:14.773",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "10.5000",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "52",
+        "SPEC_Width-cm": "2",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/aslsms2k_zr-365552.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-04-24T09:11:06"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-365552_wxrvni.jpg",
+                "ImageUpdateUTC": "2016-07-26T14:00:13"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/myzpnvy1_zr-365552.jpg",
+                "ImageUpdateUTC": "2018-04-24T09:11:05"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3655/54",
+        "ListedSKU": "WC150909",
+        "ParentSKU": "ZR-3655",
+        "Category": "Jewellery",
+        "EAN": "5400470101682",
+        "Title": "RING GRANDE WHITE CATEYE ZIRCONIUM",
+        "Description": "RING GRANDE WHITE CATEYE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 159,
+        "Price": 37.35,
+        "PriceUpdateUTC": null,
+        "Stock": 2,
+        "StockUpdateUTC": "2018-04-24T22:34:04.067",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "10.5000",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "54",
+        "SPEC_Width-cm": "2",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/eobjfsmh_zr-365554.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-04-24T09:11:35"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-365554_n1hkoo.jpg",
+                "ImageUpdateUTC": "2016-07-26T14:00:23"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/c2s33aq4_zr-365554.jpg",
+                "ImageUpdateUTC": "2018-04-24T09:11:30"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3655/56",
+        "ListedSKU": "WC152243",
+        "ParentSKU": "ZR-3655",
+        "Category": "Jewellery",
+        "EAN": "5400470101699",
+        "Title": "RING GRANDE WHITE CATEYE ZIRCONIUM",
+        "Description": "RING GRANDE WHITE CATEYE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 159,
+        "Price": 37.35,
+        "PriceUpdateUTC": null,
+        "Stock": 4,
+        "StockUpdateUTC": "2018-04-24T22:32:14.773",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "10.5000",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "56",
+        "SPEC_Width-cm": "2",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/gg6mvz55_zr-365556.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-04-24T09:11:53"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-365556_24zw85.jpg",
+                "ImageUpdateUTC": "2016-07-26T14:00:33"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a4o55dzt_zr-365556.jpg",
+                "ImageUpdateUTC": "2018-04-24T09:11:50"
+            }
+        ]
+    },
+    {
+        "SKU": "ZR-3655/58",
+        "ListedSKU": "WC152960",
+        "ParentSKU": "ZR-3655",
+        "Category": "Jewellery",
+        "EAN": "5400470101705",
+        "Title": "RING GRANDE WHITE CATEYE ZIRCONIUM",
+        "Description": "RING GRANDE WHITE CATEYE ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 159,
+        "Price": 37.35,
+        "PriceUpdateUTC": null,
+        "Stock": 3,
+        "StockUpdateUTC": "2018-04-24T22:32:14.773",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "10.5000",
+        "SPEC_Jewel_type": "Ring",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Ring_size": "58",
+        "SPEC_Width-cm": "2",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/qfq1qbyh_zr-365558.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-04-24T09:12:13"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zr-365558_v9l7xx.jpg",
+                "ImageUpdateUTC": "2016-07-26T14:00:46"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ubr3p3kb_zr-365558.jpg",
+                "ImageUpdateUTC": "2018-04-24T09:12:07"
+            }
+        ]
+    }
+]

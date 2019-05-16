@@ -1,0 +1,53 @@
+[
+    {
+        "SKU": "1-1610G",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4040662103448",
+        "Title": "JL Classic Bienne AUTOMATIC Heren",
+        "Description": "JL Classic Bienne AUTOMATIC Heren",
+        "Brand": "JACQUES LEMANS",
+        "RRP": 349,
+        "Price": 179.1,
+        "PriceUpdateUTC": null,
+        "Stock": 3,
+        "StockUpdateUTC": "2018-03-08T16:40:53.77",
+        "SPEC_Model Name": "Classic Bienne",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Automatic",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Rectangular",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "24",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Width_mm": "34",
+        "SPEC_Case_Length_mm": "43",
+        "SPEC_Case_Thickness_mm": "11.5",
+        "SPEC_Clasp_Type": "Butterfly",
+        "SPEC_Weight_g": "161.3",
+        "SPEC_Dial_Window_Material": "Special hardened crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1-1610g_p3axln.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-10-26T12:27:22"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1-1610g_lo8lbm.jpg",
+                "ImageUpdateUTC": "2017-10-26T12:27:58"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1-1610g_zl8cly.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    }
+]

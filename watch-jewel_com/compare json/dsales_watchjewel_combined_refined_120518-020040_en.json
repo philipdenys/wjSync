@@ -1,0 +1,86 @@
+[
+    {
+        "SKU": "OR81704",
+        "ListedSKU": "WC162237",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081541",
+        "Title": "ORPHELIA Men Chronograph Watch Brown Leather",
+        "Description": "ORPHELIA Men Chronograph Watch Brown Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 199,
+        "Price": 199,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-05-11T22:54:29.147",
+        "SPEC_Model Name": "Master",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Chronograph",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Features_2": "Luminous Numerals",
+        "SPEC_Features_3": "Stopwatch",
+        "SPEC_Features_4": "24-Hours display",
+        "SPEC_Features_5": "Tachymeter",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "14",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "90",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/hydnu5pf_81704.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T13:54:30"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81704_2vxafs.jpg",
+                "ImageUpdateUTC": "2018-05-09T09:44:23"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/krpw8mwm_or81704.jpg",
+                "ImageUpdateUTC": "2018-05-09T09:44:23"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a54tqg7e_or81704.jpg",
+                "ImageUpdateUTC": "2018-05-09T09:44:23"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/nw5of4at_or81704.jpg",
+                "ImageUpdateUTC": "2018-05-09T09:44:23"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/6xcmv3dt_or81704.jpg",
+                "ImageUpdateUTC": "2018-05-09T09:44:23"
+            },
+            {
+                "ImageSort": 7,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81704_h6iaps.jpg",
+                "ImageUpdateUTC": "2018-05-09T09:44:23"
+            },
+            {
+                "ImageSort": 8,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81704_3wpd6n.jpg",
+                "ImageUpdateUTC": "2018-05-09T09:44:23"
+            }
+        ]
+    }
+]

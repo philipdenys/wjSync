@@ -1,0 +1,302 @@
+[
+    {
+        "SKU": "OR51700",
+        "ListedSKU": "WC162350",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190083408",
+        "Title": "ORPHELIA Unisex Analogue Watch Longline Blue Leather",
+        "Description": "ORPHELIA Unisex Analogue Watch Longline Blue Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-04-18T22:54:17.06",
+        "SPEC_Model Name": "Longline",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Blue",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "25",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "40",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/xlyudy9a_51700.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T14:01:48"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51700_9sojnf.jpg",
+                "ImageUpdateUTC": "2017-12-12T14:03:52"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51700_bejcif.jpg",
+                "ImageUpdateUTC": "2017-12-12T14:03:52"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51700_2k0nui.jpg",
+                "ImageUpdateUTC": "2017-12-12T14:03:52"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/4gnzf36s_51700.jpg",
+                "ImageUpdateUTC": "2017-12-12T14:03:52"
+            }
+        ]
+    },
+    {
+        "SKU": "OR51703",
+        "ListedSKU": "WC162341",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082258",
+        "Title": "ORPHELIA Unisex Analogue Watch Longline Black Leather",
+        "Description": "ORPHELIA Unisex Analogue Watch Longline Black Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-04-18T22:54:17.06",
+        "SPEC_Model Name": "Longline",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "25",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "40",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/k6481z5x_51703.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T13:56:36"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51703_a4t7oa.jpg",
+                "ImageUpdateUTC": "2017-12-12T14:03:05"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51703_axh0ac.jpg",
+                "ImageUpdateUTC": "2017-12-12T14:03:05"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51703_wbvrlw.jpg",
+                "ImageUpdateUTC": "2017-12-12T14:03:05"
+            }
+        ]
+    },
+    {
+        "SKU": "OR51704",
+        "ListedSKU": "WC162388",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082265",
+        "Title": "ORPHELIA Unisex Analogue Watch Longline Black Leather",
+        "Description": "ORPHELIA Unisex Analogue Watch Longline Black Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-04-18T22:54:17.06",
+        "SPEC_Model Name": "Longline",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "25",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "40",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/6jpjxvdi_51704.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T14:08:25"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51704_xdnz5x.jpg",
+                "ImageUpdateUTC": "2018-03-15T09:43:20"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/yjkcee5d_or51704.jpg",
+                "ImageUpdateUTC": "2018-03-15T09:43:20"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51704_l98fwa.jpg",
+                "ImageUpdateUTC": "2018-03-15T09:43:20"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51704_1to7zi.jpg",
+                "ImageUpdateUTC": "2018-03-15T09:43:20"
+            }
+        ]
+    },
+    {
+        "SKU": "OR51701",
+        "ListedSKU": "WC162422",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082272",
+        "Title": "ORPHELIA Unisex Analogue Watch Longline Black Leather",
+        "Description": "ORPHELIA Unisex Analogue Watch Longline Black Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-04-18T22:54:17.06",
+        "SPEC_Model Name": "Longline",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "25",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "40",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/538127id_51701.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T14:04:11"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51701_055fld.jpg",
+                "ImageUpdateUTC": "2018-04-18T17:45:27"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/qnrzupa2_or51701.jpg",
+                "ImageUpdateUTC": "2018-04-18T17:45:27"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51701_w9cpfx.jpg",
+                "ImageUpdateUTC": "2018-04-18T17:45:27"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51701_gc7lrt.jpg",
+                "ImageUpdateUTC": "2018-04-18T17:45:27"
+            }
+        ]
+    },
+    {
+        "SKU": "OR51702",
+        "ListedSKU": "WC162429",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190082289",
+        "Title": "ORPHELIA Unisex Analogue Watch Longline Brown Leather",
+        "Description": "ORPHELIA Unisex Analogue Watch Longline Brown Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 89,
+        "Price": 89,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-04-18T22:54:17.06",
+        "SPEC_Model Name": "Longline",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "25",
+        "SPEC_Case_Diameter_mm": "40",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "40",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51702_73jd2p.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-10-18T12:24:22"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51702_4bx69p.jpg",
+                "ImageUpdateUTC": "2017-10-18T12:24:24"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51702_k6csl8.jpg",
+                "ImageUpdateUTC": "2017-10-18T12:24:25"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/51702_hrepsb.jpg",
+                "ImageUpdateUTC": "2017-10-18T12:24:26"
+            }
+        ]
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "SKU": "SNXS75K",
+        "ListedSKU": "WC170684",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190013054",
+        "Title": "SEIKO 5 HEREN AUTOMATIQUE",
+        "Description": "SEIKO 5 HEREN AUTOMATIQUE",
+        "Brand": "SEIKO",
+        "RRP": 149,
+        "Price": 83.69,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-08-22T22:37:05.727",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Automatic",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Grey",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "1,8",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "3,7",
+        "SPEC_Case_Length_mm": "4,2",
+        "SPEC_Case_Thickness_mm": "1,2",
+        "SPEC_Clasp_Type": "Fold over clasp",
+        "SPEC_Weight_g": "90",
+        "SPEC_Dial_Window_Material": "Special hardened crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/s060_4.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/s060_2.jpg",
+                "ImageUpdateUTC": "2018-08-22T15:02:59"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/s060_3.jpg",
+                "ImageUpdateUTC": "2018-08-22T15:02:59"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/s060_1.jpg",
+                "ImageUpdateUTC": "2018-08-22T15:02:59"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/6vojx94l_snxs75k.jpg",
+                "ImageUpdateUTC": "2018-08-22T15:02:59"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/8s8ilpu3_snxs75k.jpg",
+                "ImageUpdateUTC": "2018-08-22T15:02:59"
+            }
+        ]
+    }
+]

@@ -1,0 +1,179 @@
+[
+    {
+        "SKU": "TW2P81000",
+        "ListedSKU": "WC170630",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "0753048588565",
+        "Title": "Timex Weekender Purple Ladies Watch TW2P81000",
+        "Description": "Timex Weekender Purple Ladies Watch TW2P81000",
+        "Brand": "TIMEX",
+        "RRP": 79,
+        "Price": 49.5,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-10-31T23:40:15.967",
+        "SPEC_Model Name": "Weekender",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "24-Hours display",
+        "SPEC_Features_2": "Indiglo Light",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Beige",
+        "SPEC_Band_Material": "Nylon",
+        "SPEC_Band_Color": "Purple",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "19",
+        "SPEC_Case_Diameter_mm": "38",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "44",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "CR2016",
+        "SPEC_Product Description": "This ladies Timex Weekender watch has a PVD gold plated case and is powered by a quartz movement. It is fastened with a purple fabric strap and has a cream dial. ",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/gk54qz6v_tw2p81000.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-01-31T09:17:51"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/o15msrlq_tw2p81000.jpeg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/3py3y45t_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/uwk8le12_tw2p81000.jpeg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/g4cgeq6c_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zvtxhtuw_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-16T17:11:46"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/i2a2ylff_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/2rj67k8x_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 7,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/54wrooq4_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 8,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/n6kmu1cu_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            },
+            {
+                "ImageSort": 9,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/m8a9t1ja_tw2p81000.jpg",
+                "ImageUpdateUTC": "2018-01-31T10:17:11"
+            }
+        ]
+    },
+    {
+        "SKU": "OR81700",
+        "ListedSKU": "WC162409",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5415190081411",
+        "Title": "ORPHELIA Men Dual Time Watch Black Leather",
+        "Description": "ORPHELIA Men Dual Time Watch Black Leather",
+        "Brand": "ORPHELIA",
+        "RRP": 149,
+        "Price": 149,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-10-31T23:49:01.257",
+        "SPEC_FNSKU": "X000RIKACV",
+        "SPEC_Model Name": "24h",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Features_2": "Dual Time",
+        "SPEC_Features_3": "24-Hours display",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "60",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "SPEC_Product Description": "Orphelia",
+        "SPEC_Catalogue": "Yes",
+        "SPEC_Catalogue Year": "2018",
+        "SPEC_Fruugo Title": "ORPHELIA Men Dual Time Watch Black Leather OR81700",
+        "SPEC_Fruugo Description": "ORPHELIA Men Dual Time Watch Black Leather OR81700",
+        "SPEC_Fruugo Category": "Apparel & Accessories > Jewelry > Watches > Mens",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/jr3ueiuv_81700.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-11-22T13:57:26"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81700_vd1t1p.jpg",
+                "ImageUpdateUTC": "2018-10-31T13:12:32"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/fyjslgrn_or81700.jpg",
+                "ImageUpdateUTC": "2018-10-31T13:12:32"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/o31n722o_or81700.jpg",
+                "ImageUpdateUTC": "2018-10-31T13:12:32"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/i6948j26_or81700.jpg",
+                "ImageUpdateUTC": "2018-10-31T13:12:32"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81700_zqb3g1.jpg",
+                "ImageUpdateUTC": "2018-10-31T13:12:32"
+            },
+            {
+                "ImageSort": 7,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/81700_ef0pvx.jpg",
+                "ImageUpdateUTC": "2018-10-31T13:12:32"
+            }
+        ]
+    }
+]

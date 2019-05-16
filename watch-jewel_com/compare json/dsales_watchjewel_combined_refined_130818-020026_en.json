@@ -1,0 +1,99 @@
+[
+    {
+        "SKU": "ZK-7181",
+        "ListedSKU": "WC153876",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190059243",
+        "Title": "NECKLACE BICOLOR CIRCLES",
+        "Description": "NECKLACE BICOLOR CIRCLES",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 75,
+        "Price": 47.7,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-08-12T22:49:11.85",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "7.5",
+        "SPEC_Jewel_type": "Necklace",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver/rosegold",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "80",
+        "SPEC_Width-cm": "1.7",
+        "SPEC_Fruugo Title": "Orphelia Silver 925  Necklace Bicolor Circles  ZK-7181",
+        "SPEC_Fruugo Description": "Orphelia Silver 925  Necklace Bicolor Circles  ZK-7181",
+        "SPEC_Fruugo Category": "Jewellery > Women > Necklace",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7181_62l6xv.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-04-21T11:19:34"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7181_3h1beh.jpg",
+                "ImageUpdateUTC": "2016-05-03T10:51:47"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7181_sl18ff.jpg",
+                "ImageUpdateUTC": "2016-04-21T11:19:31"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7181_b2f03m.jpg",
+                "ImageUpdateUTC": "2016-04-21T11:19:33"
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-4382",
+        "ListedSKU": "WC153900",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470642406",
+        "Title": "PENDANT WITH CHAIN 925 SILVER DIAMOND AND ZIRCONIUM",
+        "Description": "PENDANT WITH CHAIN 925 SILVER DIAMOND AND ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 89,
+        "Price": 32.58,
+        "PriceUpdateUTC": null,
+        "Stock": 5,
+        "StockUpdateUTC": "2018-08-12T22:32:05.047",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "2.1000",
+        "SPEC_Jewel_type": "Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "1.3",
+        "SPEC_Width-cm": "1",
+        "SPEC_Diamond_quantity": "2",
+        "SPEC_Total_Diamond_Weight": "0.02",
+        "SPEC_Diamond_color": "White/Wesselton (H)",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_actll7.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-06-28T10:14:38"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_hoqzmk.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_6fw4ni.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_ad7l73.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            }
+        ]
+    }
+]

@@ -1,0 +1,53 @@
+{
+  "SKU": "ZO-6022/2",
+  "ListedSKU": "WC154887",
+  "ParentSKU": null,
+  "Category": "Jewellery",
+  "EAN": "5415190011852",
+  "Title": "Orphelia Silver 925 Earring Gold Zirconium",
+  "Description": "Orphelia Silver 925 Earring Gold Zirconium",
+  "Brand": "ORPHELIA SILVER",
+  "RRP": 35,
+  "Price": 25,
+  "PriceUpdateUTC": null,
+  "Stock": 7,
+  "StockUpdateUTC": "2018-04-30T22:40:39.767",
+  "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+  "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Gold Zirconium",
+  "SPEC_Target_audience": "Women",
+  "SPEC_Weight-Gram": "1.9",
+  "SPEC_Jewel_type": "Stud Earrings",
+  "SPEC_Metal_type": "925 Sterling Silver",
+  "SPEC_Back_finding": "Stud",
+  "SPEC_Length-cm": "1.3",
+  "SPEC_Width-cm": "0.7",
+  "SPEC_Gem_type": "Cubic Zirkonia",
+  "Images": [
+    {
+      "ImageSort": null,
+      "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-60222_pufqk3.jpg",
+      "IsDefault": true,
+      "ImageUpdateUTC": "2016-06-28T10:56:58"
+    },
+    {
+      "ImageSort": 1,
+      "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-60222_xixp89.jpg",
+      "ImageUpdateUTC": "2017-03-30T11:01:08"
+    },
+    {
+      "ImageSort": 2,
+      "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-60222_6227fk.jpg",
+      "ImageUpdateUTC": "2017-03-30T11:01:08"
+    },
+    {
+      "ImageSort": 3,
+      "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-60222_tw4jt7.jpg",
+      "ImageUpdateUTC": "2017-03-30T11:01:08"
+    },
+    {
+      "ImageSort": 4,
+      "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-60222_kpj3kh.jpg",
+      "ImageUpdateUTC": "2017-03-30T11:01:08"
+    }
+  ]
+}

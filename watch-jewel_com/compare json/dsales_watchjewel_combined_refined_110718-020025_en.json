@@ -1,0 +1,163 @@
+[
+    {
+        "SKU": "22-7121-98",
+        "ListedSKU": "WC155160",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5400470521466",
+        "Title": "SHAON HEREN STAAL",
+        "Description": "SHAON HEREN STAAL",
+        "Brand": "SHAON",
+        "RRP": 59,
+        "Price": 16.58,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-07-10T22:39:42.713",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel plated",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "19",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "37",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Clasp_Type": "Fold over clasp",
+        "SPEC_Weight_g": "76.6",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "SPEC_Brand Description": "SHAON. The brand for watches: SHAON. Inspiring. Modern. Timeless. SHAON. Where we present fashion accessories for every occasion. From the classical, to the fashionably dressed. From the sporty look, to the height of elegance. From the casual, to the sophisticated lady and gentleman. SHAON. Detailed design and lasting quality. SHAON. Where the watch says \u2018chic\u2019, and the price says \u2018affordability\u2019. Allow yourself to be enthused. Give or get a high quality gift that will make you proud to join the SHAON class.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/h7rteeyt_22-7121-98.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-07-10T15:55:00"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/22-7121-98_1.jpg",
+                "ImageUpdateUTC": "2018-07-10T17:55:10"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/22-7121-98.jpg",
+                "ImageUpdateUTC": "2018-07-10T17:55:10"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/22-7121-98_2.jpg",
+                "ImageUpdateUTC": "2018-07-10T17:55:10"
+            }
+        ]
+    },
+    {
+        "SKU": "ESNL03448C420",
+        "ListedSKU": "WC153892",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945238667",
+        "Title": "Esprit Brass JW52882",
+        "Description": "Esprit Brass JW52882",
+        "Brand": "Esprit Brass",
+        "RRP": 79.9,
+        "Price": 44.1,
+        "PriceUpdateUTC": null,
+        "Stock": 3,
+        "StockUpdateUTC": "2018-07-10T22:47:26.32",
+        "SPEC_Model_Name": "JW52882",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "5.2",
+        "SPEC_Jewel_type": "Necklace",
+        "SPEC_Metal_type": "Brass",
+        "SPEC_Metal Color": "Rosegold",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "42",
+        "SPEC_Gem_shape": "Round",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Gem_quantity": "19",
+        "SPEC_Chain Type": "Rolo",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl03448c420_k1w33t.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-04-26T10:44:21"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl03448c420_k2kktf.jpg",
+                "ImageUpdateUTC": "2017-05-18T10:44:07"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl03448c420_abytv6.jpg",
+                "ImageUpdateUTC": "2017-05-18T10:44:09"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl03448c420_1p9h90.jpg",
+                "ImageUpdateUTC": "2017-05-18T10:44:10"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esnl03448c420_4ciyj8.jpg",
+                "ImageUpdateUTC": "2017-05-18T10:44:11"
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-4382",
+        "ListedSKU": "WC153900",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470642406",
+        "Title": "PENDANT WITH CHAIN 925 SILVER DIAMOND AND ZIRCONIUM",
+        "Description": "PENDANT WITH CHAIN 925 SILVER DIAMOND AND ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 89,
+        "Price": 32.58,
+        "PriceUpdateUTC": null,
+        "Stock": 5,
+        "StockUpdateUTC": "2018-07-10T22:39:42.713",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "2.1000",
+        "SPEC_Jewel_type": "Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "1.3",
+        "SPEC_Width-cm": "1",
+        "SPEC_Diamond_quantity": "2",
+        "SPEC_Total_Diamond_Weight": "0.02",
+        "SPEC_Diamond_color": "White/Wesselton (H)",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_actll7.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-06-28T10:14:38"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_hoqzmk.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_6fw4ni.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_ad7l73.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            }
+        ]
+    }
+]

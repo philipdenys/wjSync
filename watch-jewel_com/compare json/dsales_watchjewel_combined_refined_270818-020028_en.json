@@ -1,0 +1,116 @@
+[
+    {
+        "SKU": "ZK-7181",
+        "ListedSKU": "WC153876",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190059243",
+        "Title": "NECKLACE BICOLOR CIRCLES",
+        "Description": "NECKLACE BICOLOR CIRCLES",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 75,
+        "Price": 47.7,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-08-26T22:54:01.197",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "7.5",
+        "SPEC_Jewel_type": "Necklace",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Silver/rosegold",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "80",
+        "SPEC_Width-cm": "1.7",
+        "SPEC_Fruugo Title": "Orphelia Silver 925  Necklace Bicolor Circles  ZK-7181",
+        "SPEC_Fruugo Description": "Orphelia Silver 925  Necklace Bicolor Circles  ZK-7181",
+        "SPEC_Fruugo Category": "Jewellery > Women > Necklace",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7181_62l6xv.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-04-21T11:19:34"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7181_3h1beh.jpg",
+                "ImageUpdateUTC": "2016-05-03T10:51:47"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7181_sl18ff.jpg",
+                "ImageUpdateUTC": "2016-04-21T11:19:31"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zk-7181_b2f03m.jpg",
+                "ImageUpdateUTC": "2016-04-21T11:19:33"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-7116",
+        "ListedSKU": "WC153894",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190058086",
+        "Title": "Orphelia Silver 925 Earring Spiral With Grey Pearl Zirc",
+        "Description": "Orphelia Silver 925 Earring Spiral With Grey Pearl Zirc",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 45,
+        "Price": 28.8,
+        "PriceUpdateUTC": null,
+        "Stock": 4,
+        "StockUpdateUTC": "2018-08-26T22:54:01.197",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "2.9",
+        "SPEC_Jewel_type": "Drop Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "White",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Length-cm": "2.2",
+        "SPEC_Width-cm": "0.8",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Gem_quantity": "8",
+        "SPEC_Pearl_type": "Synthetic Pearl",
+        "SPEC_Pearl_color": "Grey",
+        "SPEC_Pearl_size": "6.0-6.5mm",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Earring Spiral With Grey Pearl Zirc  ZO-7116",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Spiral With Grey Pearl Zirc  ZO-7116",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7116_v2igyv.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-03-28T08:37:28"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7116_bnu1f3.jpg",
+                "ImageUpdateUTC": "2017-03-28T10:38:09"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7116_c6dip2.jpg",
+                "ImageUpdateUTC": "2017-03-28T10:38:09"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7116_8thlvj.jpg",
+                "ImageUpdateUTC": "2017-03-28T10:38:09"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7116_j4sac2.jpg",
+                "ImageUpdateUTC": "2017-03-28T10:38:09"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-7116_syg691.jpg",
+                "ImageUpdateUTC": "2017-03-28T10:38:09"
+            }
+        ]
+    }
+]

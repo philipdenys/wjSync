@@ -1,0 +1,44 @@
+[
+    {
+        "SKU": "ESBA11258C600",
+        "ListedSKU": "WC153874",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945214548",
+        "Title": "Esprit Steel Chic Rose",
+        "Description": "Esprit Steel Chic Rose",
+        "Brand": "Esprit Steel",
+        "RRP": 64.9,
+        "Price": 37.97,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-07-01T22:56:36.693",
+        "SPEC_Model_Name": "Chic",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "18.8",
+        "SPEC_Jewel_type": "Bangle",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Metal Color": "Rosegold",
+        "SPEC_Clasp_type": "Bangle bracelet clasp",
+        "SPEC_Length-cm": "60",
+        "SPEC_Width-cm": "0.4",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esba11258c600_85n6jc.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-04-20T08:55:10"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esba11258c600_xkdow7.jpg",
+                "ImageUpdateUTC": "2017-05-18T14:47:02"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/esba11258c600_0mcrca.jpg",
+                "ImageUpdateUTC": "2017-05-18T14:47:02"
+            }
+        ]
+    }
+]

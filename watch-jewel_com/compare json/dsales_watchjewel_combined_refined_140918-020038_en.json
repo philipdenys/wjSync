@@ -1,0 +1,182 @@
+[
+    {
+        "SKU": "PCNL10018C420",
+        "ListedSKU": "WC163962",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "4891945375089",
+        "Title": "Pierre Cardin Steel L'Anneau",
+        "Description": "Pierre Cardin Steel L'Anneau",
+        "Brand": "Pierre Cardin Steel",
+        "RRP": 99,
+        "Price": 53.46,
+        "PriceUpdateUTC": null,
+        "Stock": 5,
+        "StockUpdateUTC": "2018-09-13T22:39:13.047",
+        "SPEC_Model_Name": "L'Anneau",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "15.15",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "Stainless Steel",
+        "SPEC_Metal Color": "Gold",
+        "SPEC_Material_type": "Epoxy",
+        "SPEC_Material_color": "White",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Height-cm": "4.5",
+        "SPEC_Length-cm": "45",
+        "SPEC_Width-cm": "3.4",
+        "SPEC_Gem_shape": "Round",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Gem_quantity": "12",
+        "SPEC_Info": "Length 40 cm+5 cm",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcnl10018c420_wimr3z.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-11-10T11:08:01"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcnl10018c420_140gyq.jpg",
+                "ImageUpdateUTC": "2017-03-21T12:13:36"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pcnl10018c420_6pwsb6.jpg",
+                "ImageUpdateUTC": "2017-03-21T12:13:36"
+            }
+        ]
+    },
+    {
+        "SKU": "LA670WEGA-9EF",
+        "ListedSKU": "LA670WEGA-9EF",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4971850935155",
+        "Title": "Casio Watch LA670WEGA-9EF  ",
+        "Description": "Casio Watch LA670WEGA-9EF  ",
+        "Brand": "CASIO",
+        "RRP": 54.9,
+        "Price": 41.08,
+        "PriceUpdateUTC": "2018-08-29T14:31:09.83",
+        "Stock": 0,
+        "StockUpdateUTC": "2018-09-13T22:39:13.047",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Digital",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Stop Watch",
+        "SPEC_Features_2": "Alarm",
+        "SPEC_Features_3": "Countdown",
+        "SPEC_Calendar": "Day-Date-Month",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Resin",
+        "SPEC_Case_Style": "Square",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Gold",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Gold",
+        "SPEC_Band_Width_mm": "10",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Width_mm": "25",
+        "SPEC_Case_Length_mm": "25",
+        "SPEC_Case_Thickness_mm": "7",
+        "SPEC_Clasp_Type": "Fold over clasp",
+        "SPEC_Weight_g": "30",
+        "SPEC_Dial_Window_Material": "Plastic glas",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/u57ipsmh_la670wega-9ef.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-06-14T09:26:41"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/tk9s46k4_la670wega-9ef.jpg",
+                "ImageUpdateUTC": "2018-06-14T09:27:09"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zlsg1p3p_la670wega-9ef.jpg",
+                "ImageUpdateUTC": "2018-06-14T09:28:39"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/uu2dyfce_la670wega-9ef.jpg",
+                "ImageUpdateUTC": "2018-06-14T09:29:37"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/5vaw2nbv_la670wega-9ef.jpg",
+                "ImageUpdateUTC": "2018-06-14T09:30:10"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/iullbyph_la670wega-9ef.jpg",
+                "ImageUpdateUTC": "2018-06-14T09:30:12"
+            }
+        ]
+    },
+    {
+        "SKU": "LTP-E117G-9AER",
+        "ListedSKU": "LTP-E117G-9AER",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4549526161131",
+        "Title": "Casio Collection Retro Unisex Watch LTP-E117G-9AER",
+        "Description": "Casio Collection Retro Unisex Watch LTP-E117G-9AER",
+        "Brand": "CASIO",
+        "RRP": 125,
+        "Price": 28.88,
+        "PriceUpdateUTC": "2018-08-29T14:31:09.83",
+        "Stock": 7,
+        "StockUpdateUTC": "2018-09-13T22:39:13.047",
+        "SPEC_Model Name": "Casio Collection Retro",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Square",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Gold",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Gold",
+        "SPEC_Band_Width_mm": "16",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Width_mm": "36",
+        "SPEC_Case_Length_mm": "36",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Clasp_Type": "Fold over clasp",
+        "SPEC_Weight_g": "82",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Fruugo Title": "Casio Collection Retro Unisex Watch LTP-E117G-9AER",
+        "SPEC_Fruugo Description": "Casio Collection Retro Unisex Watch LTP-E117G-9AER",
+        "SPEC_Fruugo Category": "Apparel & Accessories > Jewelry > Watches > Adult (unisex)",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/z5l2hfvp_ltp-e117g-9aer.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-09-13T11:36:30"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/6h8dhk5g_ltp-e117g-9aer.jpg",
+                "ImageUpdateUTC": "2018-09-13T13:36:39"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/m7jnkbgq_ltp-e117g-9aer.jpg",
+                "ImageUpdateUTC": "2018-09-13T13:36:39"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1mohmcn9_ltp-e117g-9aer.jpg",
+                "ImageUpdateUTC": "2018-09-13T13:36:39"
+            }
+        ]
+    }
+]

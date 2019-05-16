@@ -1,0 +1,1150 @@
+[
+    {
+        "SKU": "PU104292002",
+        "ListedSKU": "PU104292002",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945244187",
+        "Title": "Puma Watch PU104292002",
+        "Description": "Puma Watch PU104292002",
+        "Brand": "Puma",
+        "RRP": 105,
+        "Price": 35.96,
+        "PriceUpdateUTC": "2018-06-13T10:05:30.83",
+        "Stock": 6,
+        "StockUpdateUTC": "2018-06-13T22:40:19.647",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Black",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "16",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "38",
+        "SPEC_Case_Thickness_mm": "9",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "38",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/7zjea61a_pu104292002.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-05-03T13:16:49"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/4dhyjhtc_pu104292002.jpg",
+                "ImageUpdateUTC": "2018-05-15T10:58:08"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/7un5yvjn_pu104292002.jpg",
+                "ImageUpdateUTC": "2018-05-15T10:58:11"
+            }
+        ]
+    },
+    {
+        "SKU": "PU104311003",
+        "ListedSKU": "PU104311003",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945244149",
+        "Title": "Puma Ladies Watch Ultrasize Play 45 Pink",
+        "Description": "Puma Ladies Watch Ultrasize Play 45 Pink",
+        "Brand": "Puma",
+        "RRP": 100,
+        "Price": 34.48,
+        "PriceUpdateUTC": "2018-06-13T10:05:30.863",
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-13T22:40:19.647",
+        "SPEC_Model Name": "Ultrasize Play 45",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Plastic",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Pink",
+        "SPEC_Dial_Color": "Pink",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Pink",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "45",
+        "SPEC_Case_Thickness_mm": "15",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "66",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/gmzkyw8f_pu104311003.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-05-03T13:13:36"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/hcr3ywgg_pu104311003.jpg",
+                "ImageUpdateUTC": "2018-05-15T13:03:06"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/sr8g2bsm_pu104311003.jpg",
+                "ImageUpdateUTC": "2018-05-15T13:03:06"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/qmvglbhl_pu104311003.jpg",
+                "ImageUpdateUTC": "2018-05-15T13:03:06"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/2pvwfztt_pu104311003.jpg",
+                "ImageUpdateUTC": "2018-05-15T13:03:06"
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-7084/1",
+        "ListedSKU": "WC161562",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5415190037487",
+        "Title": "CHAIN WITH PENDANT ROUND 925 SILVER ROSEGOLD PLATED ZIRCONIUM",
+        "Description": "CHAIN WITH PENDANT ROUND 925 SILVER ROSEGOLD PLATED ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 55,
+        "Price": 49.5,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-13T22:49:49.127",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "1.7",
+        "SPEC_Jewel_type": "Chain with Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Metal Color": "Rosegold",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "42+3",
+        "SPEC_Diameter-cm": "1.7",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Chain With Pendant Round Rosegold Plated Zirconium  ZH-7084/1",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Chain With Pendant Round Rosegold Plated Zirconium  ZH-7084/1",
+        "SPEC_Fruugo Category": "Jewellery > Women > Pendant",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/djkaqol2_zh-70841.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-06-13T07:55:54"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-70841_21nd2x.jpg",
+                "ImageUpdateUTC": "2018-06-13T09:44:42"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-70841_8ghhtc.jpg",
+                "ImageUpdateUTC": "2018-06-13T09:44:42"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-70841_ulx00f.jpg",
+                "ImageUpdateUTC": "2018-06-13T09:44:42"
+            }
+        ]
+    },
+    {
+        "SKU": "PU103211033",
+        "ListedSKU": "PU103211033",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945244477",
+        "Title": "Puma Mens Watch PU103211033",
+        "Description": "Puma Mens Watch PU103211033",
+        "Brand": "Puma",
+        "RRP": 85,
+        "Price": 30.05,
+        "PriceUpdateUTC": "2018-06-13T10:05:30.22",
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-13T22:40:19.647",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Plastic",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Multicolour",
+        "SPEC_Dial_Color": "Multicolour",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Multicolour",
+        "SPEC_Band_Width_mm": "21",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "46",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "49",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/d3uvdnrx_pu103211033.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-05-03T09:43:07"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1d3yb4nk_pu103211033.jpg",
+                "ImageUpdateUTC": "2018-05-03T09:43:09"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ph84r1wj_pu103211033.jpg",
+                "ImageUpdateUTC": "2018-05-03T09:43:11"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a7e7ywge_pu103211033.jpg",
+                "ImageUpdateUTC": "2018-05-03T09:43:13"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/cqpxq2dh_pu103211033.jpg",
+                "ImageUpdateUTC": "2018-05-03T09:43:16"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/bvwyg4th_pu103211033.jpg",
+                "ImageUpdateUTC": "2018-05-03T09:43:17"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/iyfdeqhm_pu103211033.jpg",
+                "ImageUpdateUTC": "2018-05-03T09:43:23"
+            }
+        ]
+    },
+    {
+        "SKU": "PU104261001",
+        "ListedSKU": "PU104261001",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945244231",
+        "Title": "Puma Nevermind Rg Brown Leather",
+        "Description": "Puma Nevermind Rg Brown Leather",
+        "Brand": "Puma",
+        "RRP": 125,
+        "Price": 41.84,
+        "PriceUpdateUTC": "2018-06-13T10:05:28.423",
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-13T22:40:19.647",
+        "SPEC_Model Name": "Nevermind",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Brown",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "47",
+        "SPEC_Case_Thickness_mm": "11",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "83",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "SR626SW",
+        "SPEC_Brand Description": "The watches of PUMA Time collection emphasizes the casual and cool lifestyle of young, active and sporty PUMA fans. This is reflected in the very clear and minimalist aesthetics of the dials, the trendy color selection and the high-quality materials. In conjunction with sophisticated technical functions, the women's and men's watches are the absolute trendsetters.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/5socvx7h_pu104261001.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-05-07T13:18:41"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu104261001_r98a6b.jpg",
+                "ImageUpdateUTC": "2018-05-07T15:19:14"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu104261001_jg7a36.jpg",
+                "ImageUpdateUTC": "2018-05-07T15:19:14"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu104261001_u8o259.jpg",
+                "ImageUpdateUTC": "2018-05-07T15:19:14"
+            }
+        ]
+    },
+    {
+        "SKU": "PU103461021",
+        "ListedSKU": "PU103461021",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945244163",
+        "Title": "Puma Mens Watch Ultrasize 50",
+        "Description": "Puma Mens Watch Ultrasize 50",
+        "Brand": "Puma",
+        "RRP": 125,
+        "Price": 41.84,
+        "PriceUpdateUTC": "2018-06-13T10:05:29.067",
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-13T22:40:19.647",
+        "SPEC_Model Name": "Ultrasize 50",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Rose gold",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Plastic",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "21",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Diameter_mm": "50",
+        "SPEC_Case_Thickness_mm": "13",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "105",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/vip9qyo3_pu103461021.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-05-03T10:15:21"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/2yzm6zn1_pu103461021.jpg",
+                "ImageUpdateUTC": "2018-05-03T10:15:22"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/xvflf1y5_pu103461021.jpg",
+                "ImageUpdateUTC": "2018-05-03T10:15:29"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/7wulp3y1_pu103461021.jpg",
+                "ImageUpdateUTC": "2018-05-03T10:15:33"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/js8o3adi_pu103461021.jpg",
+                "ImageUpdateUTC": "2018-05-03T10:15:34"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/wb23mum2_pu103461021.jpg",
+                "ImageUpdateUTC": "2018-05-03T10:15:35"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5003",
+        "ListedSKU": "WC163571",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470168036",
+        "Title": "Orphelia Silver 925 Earring Exit Diamond ",
+        "Description": "Orphelia Silver 925 Earring Exit Diamond ",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 99,
+        "Price": 27,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-13T22:32:22.603",
+        "SPEC_FNSKU": "X000V0HR49",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "1.4000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Length-cm": "1.1",
+        "SPEC_Width-cm": "0.6",
+        "SPEC_Gem_type": "Diamond",
+        "SPEC_Diamond_quantity": "2",
+        "SPEC_Total_Diamond_Weight": "0.02",
+        "SPEC_Gem_color": "White",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Earring Exit Diamond   ZO-5003",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Exit Diamond   ZO-5003",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5003_7evtgd.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2017-03-31T08:46:07"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/jyt7d6i4_zo-5003.jpg",
+                "ImageUpdateUTC": "2018-06-13T09:37:38"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/xunoahu6_zo-5003.jpg",
+                "ImageUpdateUTC": "2018-06-07T10:59:37"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-5003_tlt184.jpg",
+                "ImageUpdateUTC": "2018-06-07T10:59:37"
+            }
+        ]
+    },
+    {
+        "SKU": "PU104261003",
+        "ListedSKU": "PU104261003",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945244255",
+        "Title": "Puma Mens Watch Nevermind Silver PU104261003",
+        "Description": "Puma Mens Watch Nevermind Silver PU104261003",
+        "Brand": "Puma",
+        "RRP": 120,
+        "Price": 40.37,
+        "PriceUpdateUTC": "2018-06-13T10:05:28.44",
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-13T22:40:19.647",
+        "SPEC_Model Name": "Nevermind",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "46",
+        "SPEC_Case_Thickness_mm": "11",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "164",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ikfbglih_pu104261003.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-05-03T13:12:07"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/svpum5xi_pu104261003.jpg",
+                "ImageUpdateUTC": "2018-05-15T13:01:34"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rydtl2xl_pu104261003.jpg",
+                "ImageUpdateUTC": "2018-05-15T13:01:34"
+            }
+        ]
+    },
+    {
+        "SKU": "PU104281003",
+        "ListedSKU": "PU104281003",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945244293",
+        "Title": "Puma Mens Watch Around PU104281003",
+        "Description": "Puma Mens Watch Around PU104281003",
+        "Brand": "Puma",
+        "RRP": 125,
+        "Price": 41.84,
+        "PriceUpdateUTC": "2018-06-13T10:05:29.98",
+        "Stock": 5,
+        "StockUpdateUTC": "2018-06-13T22:40:19.647",
+        "SPEC_Model Name": "Around",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Features_2": "24-Hours display",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "White",
+        "SPEC_Band_Material": "Plastic",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "44",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "90",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/dfpq89gk_pu104281003.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-05-03T10:23:17"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zv1ezjyd_pu104281003.jpg",
+                "ImageUpdateUTC": "2018-05-15T10:59:57"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/plifxkwz_pu104281003.jpg",
+                "ImageUpdateUTC": "2018-05-07T14:02:52"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/19db5j1x_pu104281003.jpg",
+                "ImageUpdateUTC": "2018-05-07T14:02:52"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ixgyc2c7_pu104281003.jpg",
+                "ImageUpdateUTC": "2018-05-07T14:02:52"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1uju4m8k_pu104281003.jpg",
+                "ImageUpdateUTC": "2018-05-07T14:02:52"
+            }
+        ]
+    },
+    {
+        "SKU": "PU104221003",
+        "ListedSKU": "PU104221003",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945235710",
+        "Title": "Puma Mens Watch Definition",
+        "Description": "Puma Mens Watch Definition",
+        "Brand": "Puma",
+        "RRP": 150,
+        "Price": 49.2,
+        "PriceUpdateUTC": "2018-06-13T10:05:30.577",
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-13T22:40:19.647",
+        "SPEC_Model Name": "Definition",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Multi Dial",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Features_2": "24-Hours display",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Diameter_mm": "48",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Bezel_Function": "Bezel with numbers",
+        "SPEC_Bezel_Material_Type": "Stainless steel",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "172",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/n3osp88i_pu104221003.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-05-03T10:19:53"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/xvrdep72_pu104221003.jpg",
+                "ImageUpdateUTC": "2018-05-03T10:20:25"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/vebxhjzo_pu104221003.jpg",
+                "ImageUpdateUTC": "2018-05-03T10:21:00"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ytznxxr5_pu104221003.jpg",
+                "ImageUpdateUTC": "2018-05-03T10:21:02"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/7x7mr2xc_pu104221003.jpg",
+                "ImageUpdateUTC": "2018-05-03T10:21:06"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/5umuoor3_pu104221003.jpg",
+                "ImageUpdateUTC": "2018-05-03T10:21:08"
+            }
+        ]
+    },
+    {
+        "SKU": "ZO-5250/1",
+        "ListedSKU": "WC151489",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470252391",
+        "Title": "OORBEL ZIRCONIUM ROSE",
+        "Description": "OORBEL ZIRCONIUM ROSE",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 48,
+        "Price": 28.35,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-13T22:34:20.333",
+        "SPEC_FNSKU": "X000UZNL1N",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "2.2000",
+        "SPEC_Jewel_type": "Stud Earrings",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Back_finding": "Stud",
+        "SPEC_Length-cm": "1.5",
+        "SPEC_Width-cm": "1.5",
+        "SPEC_Gem_type": "Cubic Zirkonia",
+        "SPEC_Gem_color": "White",
+        "SPEC_Fruugo Title": "Orphelia Silver 925 Earring Zirconium Rose  ZO-5250/1",
+        "SPEC_Fruugo Description": "Orphelia Silver 925 Earring Zirconium Rose  ZO-5250/1",
+        "SPEC_Fruugo Category": "Jewellery > Women > Earring",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zo-5250_1.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "http://uwt.blob.core.windows.net/dsales/partimage/zo-5250_1_1.jpg",
+                "ImageUpdateUTC": "2018-06-13T10:02:16"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zo-52501_em1nas.jpg",
+                "ImageUpdateUTC": "2018-06-13T10:02:16"
+            }
+        ]
+    },
+    {
+        "SKU": "PU911381005",
+        "ListedSKU": "PU911381005",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945244552",
+        "Title": "Puma  Men's Watch Collide Chronograph Gold",
+        "Description": "Puma  Men's Watch Collide Chronograph Gold",
+        "Brand": "Puma",
+        "RRP": 75,
+        "Price": 27.11,
+        "PriceUpdateUTC": "2018-06-13T10:05:30.557",
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-13T22:40:19.647",
+        "SPEC_Model Name": "Collide",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Digital",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Stopwatch",
+        "SPEC_Features_2": "Alarm",
+        "SPEC_Features_3": "Timer",
+        "SPEC_Features_4": "24-Hours display",
+        "SPEC_Features_5": "Light",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Plastic",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "LCD",
+        "SPEC_Band_Material": "Plastic",
+        "SPEC_Band_Color": "Gold",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "49",
+        "SPEC_Case_Thickness_mm": "16",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "65",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/8kbgngqk_pu911381005.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-05-03T10:11:26"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/3o7r6tst_pu911381005.jpg",
+                "ImageUpdateUTC": "2018-05-15T12:56:02"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ph5u673e_pu911381005.jpg",
+                "ImageUpdateUTC": "2018-05-15T12:56:02"
+            }
+        ]
+    },
+    {
+        "SKU": "PU104101008",
+        "ListedSKU": "PU104101008",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945244316",
+        "Title": "Puma Mens Watch Suede Grey",
+        "Description": "Puma Mens Watch Suede Grey",
+        "Brand": "Puma",
+        "RRP": 115,
+        "Price": 38.88,
+        "PriceUpdateUTC": "2018-06-13T10:05:29.633",
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-13T22:40:19.647",
+        "SPEC_Model Name": "Suede",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Grey",
+        "SPEC_Dial_Color": "Grey",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Grey",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "45",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "75",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1no88o2z_pu104101008.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-05-03T09:49:21"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/6xyamg69_pu104101008.jpg",
+                "ImageUpdateUTC": "2018-05-03T09:49:23"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ypx49tqc_pu104101008.jpg",
+                "ImageUpdateUTC": "2018-05-03T09:49:24"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/vrr88g2s_pu104101008.jpg",
+                "ImageUpdateUTC": "2018-05-03T09:49:25"
+            }
+        ]
+    },
+    {
+        "SKU": "PU911391004",
+        "ListedSKU": "PU911391004",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945244569",
+        "Title": "Puma Mens Watch Collide Chronograph Black",
+        "Description": "Puma Mens Watch Collide Chronograph Black",
+        "Brand": "Puma",
+        "RRP": 90,
+        "Price": 31.52,
+        "PriceUpdateUTC": "2018-06-13T10:05:30.923",
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-13T22:40:19.647",
+        "SPEC_Model Name": "Collide",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue - Digital",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Stopwatch",
+        "SPEC_Features_2": "Timer",
+        "SPEC_Features_3": "Alarm",
+        "SPEC_Features_4": "24-Hours display",
+        "SPEC_Features_5": "Light",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Plastic",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Black",
+        "SPEC_Dial_Color": "LCD",
+        "SPEC_Band_Material": "Plastic",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "48",
+        "SPEC_Case_Thickness_mm": "15",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "69",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/p69njrff_pu911391004.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-05-03T10:58:56"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/as6xqxc6_pu911391004.jpg",
+                "ImageUpdateUTC": "2018-05-03T10:59:02"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/9ypclbuc_pu911391004.jpg",
+                "ImageUpdateUTC": "2018-05-03T10:59:03"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/i1yiapmx_pu911391004.jpg",
+                "ImageUpdateUTC": "2018-05-03T10:59:04"
+            }
+        ]
+    },
+    {
+        "SKU": "PU104311001",
+        "ListedSKU": "PU104311001",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945244125",
+        "Title": "Puma Men's Watch Ultrasize 45",
+        "Description": "Puma Men's Watch Ultrasize 45",
+        "Brand": "Puma",
+        "RRP": 100,
+        "Price": 34.48,
+        "PriceUpdateUTC": "2018-06-13T10:05:30.85",
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-13T22:40:19.647",
+        "SPEC_Model Name": "Ultrasize 45",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Plastic",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Black",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Diameter_mm": "45",
+        "SPEC_Case_Thickness_mm": "15",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "66",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/8kqd8oj4_pu104311001.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-05-03T10:07:37"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/8j3twofq_pu104311001.jpg",
+                "ImageUpdateUTC": "2018-05-03T10:09:03"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/vn79kge5_pu104311001.jpg",
+                "ImageUpdateUTC": "2018-05-03T10:09:04"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/b3darlat_pu104311001.jpg",
+                "ImageUpdateUTC": "2018-05-03T10:09:04"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ciogq8kl_pu104311001.jpg",
+                "ImageUpdateUTC": "2018-05-03T10:09:25"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/kras1vtx_pu104311001.jpg",
+                "ImageUpdateUTC": "2018-05-03T10:09:28"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zrrk7jz4_pu104311001.jpg",
+                "ImageUpdateUTC": "2018-05-03T10:09:39"
+            }
+        ]
+    },
+    {
+        "SKU": "PU104101009",
+        "ListedSKU": "PU104101009",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945244323",
+        "Title": "Puma Mens Watch Suede Beige",
+        "Description": "Puma Mens Watch Suede Beige",
+        "Brand": "Puma",
+        "RRP": 115,
+        "Price": 38.88,
+        "PriceUpdateUTC": "2018-06-13T10:05:29.65",
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-13T22:40:19.647",
+        "SPEC_Model Name": "Suede",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Gold",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Beige",
+        "SPEC_Band_Width_mm": "20",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "45",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "75",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zqip6xmo_pu104101009.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-05-03T09:54:06"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/cvjfznpc_pu104101009.jpg",
+                "ImageUpdateUTC": "2018-05-03T09:54:09"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/lm8a8qey_pu104101009.jpg",
+                "ImageUpdateUTC": "2018-05-03T09:54:10"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/cxz2ty9k_pu104101009.jpg",
+                "ImageUpdateUTC": "2018-05-03T09:54:12"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/a2ptgc6y_pu104101009.jpg",
+                "ImageUpdateUTC": "2018-05-03T09:54:13"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rebjk2nj_pu104101009.jpg",
+                "ImageUpdateUTC": "2018-05-03T09:54:14"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/9w8z3pkw_pu104101009.jpg",
+                "ImageUpdateUTC": "2018-05-03T09:54:17"
+            }
+        ]
+    },
+    {
+        "SKU": "PU911401001",
+        "ListedSKU": "PU911401001",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945244385",
+        "Title": "Puma Watch PU911401001",
+        "Description": "Puma Watch PU911401001",
+        "Brand": "Puma",
+        "RRP": 75,
+        "Price": 27.11,
+        "PriceUpdateUTC": "2018-06-13T10:05:30.94",
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-13T22:40:19.647",
+        "SPEC_Target_Audience": "Unisex",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Plastic",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Multicolour",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Plastic",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "45",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "47",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/9dutf82b_pu911401001.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-05-03T09:55:44"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zmar4lh9_pu911401001.jpg",
+                "ImageUpdateUTC": "2018-05-15T12:54:21"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/lgw3ib4u_pu911401001.jpg",
+                "ImageUpdateUTC": "2018-05-15T12:54:21"
+            }
+        ]
+    },
+    {
+        "SKU": "PU103001022",
+        "ListedSKU": "PU103001022",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945244453",
+        "Title": "Puma Womens Watch PU103001022",
+        "Description": "Puma Womens Watch PU103001022",
+        "Brand": "Puma",
+        "RRP": 85,
+        "Price": 30.05,
+        "PriceUpdateUTC": "2018-06-13T10:05:28.953",
+        "Stock": 7,
+        "StockUpdateUTC": "2018-06-13T22:40:19.647",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Plastic",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Multicolour",
+        "SPEC_Dial_Color": "Multicolour",
+        "SPEC_Band_Material": "Silicone",
+        "SPEC_Band_Color": "Multicolour",
+        "SPEC_Band_Width_mm": "19",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "42",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "43",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/jlgak528_pu103001022.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-05-03T09:46:36"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/q348csqt_pu103001022.jpg",
+                "ImageUpdateUTC": "2018-05-03T11:47:02"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/dggd3agr_pu103001022.jpg",
+                "ImageUpdateUTC": "2018-05-03T11:47:02"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ngop7kxs_pu103001022.jpg",
+                "ImageUpdateUTC": "2018-05-03T11:47:02"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/gegvaobp_pu103001022.jpg",
+                "ImageUpdateUTC": "2018-05-03T11:47:02"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/99wni53o_pu103001022.jpg",
+                "ImageUpdateUTC": "2018-05-03T11:47:02"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1wxtvhfh_pu103001022.jpg",
+                "ImageUpdateUTC": "2018-05-03T11:47:02"
+            }
+        ]
+    },
+    {
+        "SKU": "PU103321008",
+        "ListedSKU": "PU103321008",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945201036",
+        "Title": "Puma Pace silver black",
+        "Description": "Puma Pace silver black",
+        "Brand": "Puma",
+        "RRP": 85,
+        "Price": 24.2,
+        "PriceUpdateUTC": "2018-06-13T10:05:30.253",
+        "Stock": 1,
+        "StockUpdateUTC": "2018-06-13T22:40:19.647",
+        "SPEC_Model Name": "Pace",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Plastic",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "44",
+        "SPEC_Case_Thickness_mm": "11",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "80",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "SR626SW",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu103321008_cvcf22.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-08-02T13:01:04"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu103321008_btreab.jpg",
+                "ImageUpdateUTC": "2017-04-07T10:51:33"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu103321008_ym29mw.jpg",
+                "ImageUpdateUTC": "2017-04-07T10:51:33"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/pu103321008_0i5840.jpg",
+                "ImageUpdateUTC": "2017-04-07T10:51:33"
+            }
+        ]
+    }
+]

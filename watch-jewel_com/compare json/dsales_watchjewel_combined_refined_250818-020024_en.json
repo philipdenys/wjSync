@@ -1,0 +1,776 @@
+[
+    {
+        "SKU": "SUP351P1",
+        "ListedSKU": "WC170657",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4954628210937",
+        "Title": "Seiko Solar Powered Ladies Watch SUP351P1",
+        "Description": "Seiko Solar Powered Ladies Watch SUP351P1",
+        "Brand": "SEIKO",
+        "RRP": 319,
+        "Price": 179.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-08-24T22:39:21.61",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Solar Powered",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Silver",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Multicolour",
+        "SPEC_Band_Width_mm": "12",
+        "SPEC_Band_Length_cm": "19",
+        "SPEC_Case_Diameter_mm": "23",
+        "SPEC_Case_Thickness_mm": "7",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "45",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/dba6yoj5_sup351p1.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-01-11T10:33:58"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ifagg5xx_sup351p1.jpg",
+                "ImageUpdateUTC": "2018-06-14T14:48:48"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/49kyhkab_sup351p1.jpg",
+                "ImageUpdateUTC": "2018-06-14T14:48:48"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/m1pvl5wk_sup351p1.jpg",
+                "ImageUpdateUTC": "2018-06-14T14:48:48"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/qqtf7krj_sup351p1.jpg",
+                "ImageUpdateUTC": "2018-06-14T14:48:48"
+            }
+        ]
+    },
+    {
+        "SKU": "ZH-4382",
+        "ListedSKU": "WC153900",
+        "ParentSKU": null,
+        "Category": "Jewellery",
+        "EAN": "5400470642406",
+        "Title": "PENDANT WITH CHAIN 925 SILVER DIAMOND AND ZIRCONIUM",
+        "Description": "PENDANT WITH CHAIN 925 SILVER DIAMOND AND ZIRCONIUM",
+        "Brand": "ORPHELIA SILVER",
+        "RRP": 89,
+        "Price": 32.58,
+        "PriceUpdateUTC": null,
+        "Stock": 5,
+        "StockUpdateUTC": "2018-08-24T22:33:04.907",
+        "SPEC_Target_audience": "Women",
+        "SPEC_Weight-Gram": "2.1000",
+        "SPEC_Jewel_type": "Pendant",
+        "SPEC_Metal_type": "925 Sterling Silver",
+        "SPEC_Clasp_type": "Lobster claw clasp",
+        "SPEC_Length-cm": "1.3",
+        "SPEC_Width-cm": "1",
+        "SPEC_Diamond_quantity": "2",
+        "SPEC_Total_Diamond_Weight": "0.02",
+        "SPEC_Diamond_color": "White/Wesselton (H)",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_actll7.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2016-06-28T10:14:38"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_hoqzmk.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_6fw4ni.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zh-4382_ad7l73.jpg",
+                "ImageUpdateUTC": "2017-03-08T12:47:37"
+            }
+        ]
+    },
+    {
+        "SKU": "SNE429P9",
+        "ListedSKU": "WC170670",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4954628206787",
+        "Title": "Seiko Solar Powered Mens Watch SNE429P9",
+        "Description": "Seiko Solar Powered Mens Watch SNE429P9",
+        "Brand": "SEIKO",
+        "RRP": 299,
+        "Price": 179.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-08-24T22:39:21.61",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Solar Powered",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "21",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "41",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Gem_Type": "Zirkonia",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "125",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/2ra4slfw_sne429p9.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-01-10T10:58:03"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/k81yjrtd_sne429p9.jpg",
+                "ImageUpdateUTC": "2018-01-23T12:42:26"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/3bmklddc_sne429p9.jpg",
+                "ImageUpdateUTC": "2018-01-23T12:42:26"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rd3i63sr_sne429p9.jpg",
+                "ImageUpdateUTC": "2018-01-23T12:42:26"
+            }
+        ]
+    },
+    {
+        "SKU": "STB-1000-4EF",
+        "ListedSKU": "WC155690",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4971850988236",
+        "Title": "Casio Classic collection",
+        "Description": "Casio Classic collection",
+        "Brand": "CASIO",
+        "RRP": 79.9,
+        "Price": 75.5,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-08-24T22:33:04.907",
+        "SPEC_Model Name": "Classic collection",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Digital",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "G-SHOCK",
+        "SPEC_Features_2": "Solar Powered",
+        "SPEC_Features_3": "Time zones",
+        "SPEC_Features_4": "Timer",
+        "SPEC_Features_5": "Snooze",
+        "SPEC_Calendar": "Day-Date-Month",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Plastic",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Multicolour",
+        "SPEC_Dial_Color": "LCD",
+        "SPEC_Band_Material": "Resin",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "25",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "47",
+        "SPEC_Case_Thickness_mm": "15.5",
+        "SPEC_Clasp_Type": "Deployment clasp",
+        "SPEC_Weight_g": "32",
+        "SPEC_Dial_Window_Material": "Mineral Glas",
+        "SPEC_Battery": "CR2032",
+        "SPEC_Brand Description": "Casio is one of the top watch brands, with over one million watches purchased every year. Amongst it's portfolio are classic toughness brands G-Shock and Baby-G, motor-sport inspired chronograph range Edifice and the fashionista favourite retro collection of digital watches.With recent advances in Bluetooth and Wave Ceptor technology, Casio continually pushes the boundaries of innovative timepiece design and functionality.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/stb-1000-4ef.png",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/stb-1000-4ef.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/stb-1000-4ef_1.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "SNE098P9",
+        "ListedSKU": "WC170680",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4954628135193",
+        "Title": "Seiko Solar Powered Men's Watch SNE098P9",
+        "Description": "Seiko Solar Powered Men's Watch SNE098P9",
+        "Brand": "SEIKO",
+        "RRP": 239,
+        "Price": 143.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-08-24T22:39:21.61",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Solar Powered",
+        "SPEC_Calendar": "Day-Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Multicolour",
+        "SPEC_Dial_Color": "Grey",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Multicolour",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "38",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "135",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "SPEC_Product Description": "Add a touch of style to your wardrobe with this Seiko Gents' two tone solar watch. It features a grey dial with day/date window indicator and has a matching two tone bracelet with a 3 fold clasp. It is also water resistant to 100m. It is ideal to wear with any outfit for any occasion.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/zfd8nnqy_sne098p9.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-01-12T09:48:29"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/5o5o5aqx_sne098p9.jpg",
+                "ImageUpdateUTC": "2018-01-23T12:41:55"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/qmsvnzmw_sne098p9.jpg",
+                "ImageUpdateUTC": "2018-01-23T12:41:55"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/z21hf8cf_sne098p9.jpg",
+                "ImageUpdateUTC": "2018-01-23T12:41:55"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/it4j7hni_sne098p9.jpg",
+                "ImageUpdateUTC": "2018-01-23T12:41:55"
+            },
+            {
+                "ImageSort": 5,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/7zfudddj_sne098p9.jpg",
+                "ImageUpdateUTC": "2018-01-23T12:41:55"
+            },
+            {
+                "ImageSort": 6,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/py7m28l9_sne098p9.jpg",
+                "ImageUpdateUTC": "2018-01-23T12:41:55"
+            }
+        ]
+    },
+    {
+        "SKU": "AT0030-54L",
+        "ListedSKU": "WC156160",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5060157620204",
+        "Title": "CITIZEN HEREN STAAL ECO CHRONOGR",
+        "Description": "CITIZEN HEREN STAAL ECO CHRONOGR",
+        "Brand": "CITIZEN",
+        "RRP": 199,
+        "Price": 100.48,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-08-24T22:33:04.907",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Chronograph",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Solar Powered",
+        "SPEC_Features_2": "Stop Watch",
+        "SPEC_Features_3": "Luminous Hand",
+        "SPEC_Features_4": "Luminous Numerals",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "18",
+        "SPEC_Band_Length_cm": "20",
+        "SPEC_Case_Diameter_mm": "38",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Bezel_Function": "Bezel with numbers",
+        "SPEC_Bezel_Material_Type": "Stainless steel",
+        "SPEC_Clasp_Type": "Fold over clasp with safety",
+        "SPEC_Weight_g": "128.6",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/at0030-54l.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "SSC449P9",
+        "ListedSKU": "WC170691",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4954628200259",
+        "Title": "Seiko Solar Sports Chronograph Solar Powered Men's Watch SSC449P9",
+        "Description": "Seiko Solar Sports Chronograph Solar Powered Men's Watch SSC449P9",
+        "Brand": "SEIKO",
+        "RRP": 339,
+        "Price": 201.6,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-08-24T22:39:21.61",
+        "SPEC_Model Name": "SSC449P9",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Chronograph",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Stop Watch",
+        "SPEC_Features_2": "Solar Powered",
+        "SPEC_Features_3": "Luminous Hand",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "22",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "45",
+        "SPEC_Case_Thickness_mm": "12",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "95",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/1o7a65l2_ssc449p9.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-01-11T11:45:00"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/orw6df9x_ssc449p9.jpg",
+                "ImageUpdateUTC": "2018-01-23T12:47:52"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/ylfsxlix_ssc449p9.jpg",
+                "ImageUpdateUTC": "2018-01-23T12:47:52"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/73iakc67_ssc449p9.jpg",
+                "ImageUpdateUTC": "2018-01-23T12:47:52"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/nmdv4zmu_ssc449p9.jpg",
+                "ImageUpdateUTC": "2018-01-23T12:47:52"
+            }
+        ]
+    },
+    {
+        "SKU": "SUT070P9",
+        "ListedSKU": "WC170692",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4954628157744",
+        "Title": "Seiko Solar Powered Ladies Watch  SUT070P9",
+        "Description": "Seiko Solar Powered Ladies Watch  SUT070P9",
+        "Brand": "SEIKO",
+        "RRP": 399,
+        "Price": 242.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-08-24T22:39:21.61",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Solar Powered",
+        "SPEC_Features_2": "Luminous Hand",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "5 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Mother of pearl",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Gold",
+        "SPEC_Band_Width_mm": "11",
+        "SPEC_Band_Length_cm": "19",
+        "SPEC_Case_Diameter_mm": "28",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Bezel_Function": "Stone settings",
+        "SPEC_Gem_Type": "Diamant",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "25",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "SPEC_Product Description": "Solar-powered bracelet watch featuring diamond-accented bezel and mother-of-pearl dial with date window at 3 o'clock",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/68wmcfay_sut070p9.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-01-11T09:19:18"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/vc6hcwpa_sut070p9.jpg",
+                "ImageUpdateUTC": "2018-01-23T12:50:24"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/kyu54gcs_sut070p9.jpg",
+                "ImageUpdateUTC": "2018-01-23T12:50:24"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/kezhl1yz_sut070p9.jpg",
+                "ImageUpdateUTC": "2018-01-23T12:50:24"
+            },
+            {
+                "ImageSort": 4,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/bkdaxn3q_sut070p9.jpg",
+                "ImageUpdateUTC": "2018-01-23T12:50:24"
+            }
+        ]
+    },
+    {
+        "SKU": "SUT293P1",
+        "ListedSKU": "WC170693",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4954628205209",
+        "Title": "Seiko Solar Ladies Watch SUT293P1",
+        "Description": "Seiko Solar Ladies Watch SUT293P1",
+        "Brand": "SEIKO",
+        "RRP": 239,
+        "Price": 161.1,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-08-24T22:39:21.61",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Solar Powered",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Mother of pearl",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "12",
+        "SPEC_Band_Length_cm": "19",
+        "SPEC_Case_Diameter_mm": "28",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "55",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/jmxydhnf_sut293p1.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-01-11T10:23:10"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/glj8u11r_sut293p1.jpg",
+                "ImageUpdateUTC": "2018-01-11T10:27:19"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/l6q1x3q7_sut293p1.jpg",
+                "ImageUpdateUTC": "2018-01-11T10:28:31"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/oeuqzlo2_sut293p1.jpg",
+                "ImageUpdateUTC": "2018-01-11T10:28:49"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/irm55n4o_sut293p1.jpg",
+                "ImageUpdateUTC": "2018-01-23T11:51:01"
+            }
+        ]
+    },
+    {
+        "SKU": "ES105652001",
+        "ListedSKU": "WC171108",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4891945159900",
+        "Title": "Esprit Watch Solara black",
+        "Description": "Esprit Watch Solara black",
+        "Brand": "ESPRIT",
+        "RRP": 125,
+        "Price": 59.84,
+        "PriceUpdateUTC": null,
+        "Stock": 0,
+        "StockUpdateUTC": "2018-08-24T22:41:52.087",
+        "SPEC_Model Name": "Solara black",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Luminous Hand",
+        "SPEC_Features_2": "Solar Powered",
+        "SPEC_ATM": "3 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Black",
+        "SPEC_Band_Material": "Leather",
+        "SPEC_Band_Color": "Black",
+        "SPEC_Band_Width_mm": "20.0 ",
+        "SPEC_Band_Length_cm": "22",
+        "SPEC_Case_Diameter_mm": "38",
+        "SPEC_Case_Thickness_mm": "10",
+        "SPEC_Bezel_Function": "Stone settings",
+        "SPEC_Gem_Type": "Zirkonia",
+        "SPEC_Clasp_Type": "Buckle",
+        "SPEC_Weight_g": "47",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/es105652001_2vvs86.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/es105652001_kq4tx9.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "SUT242P9",
+        "ListedSKU": "WC170699",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4954628194121",
+        "Title": "Seiko Coutura Solar Solar Powered Ladies Watch SUT242P9",
+        "Description": "Seiko Coutura Solar Solar Powered Ladies Watch SUT242P9",
+        "Brand": "SEIKO",
+        "RRP": 899,
+        "Price": 531,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-08-24T22:39:21.61",
+        "SPEC_Model Name": "Coutura",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Solar Powered",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Gold",
+        "SPEC_Dial_Color": "Mother of pearl",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Gold",
+        "SPEC_Band_Width_mm": "13",
+        "SPEC_Band_Length_cm": "19",
+        "SPEC_Case_Diameter_mm": "30",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Bezel_Function": "Stone settings",
+        "SPEC_Gem_Type": "Diamant",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "45",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/6uvqhzh4_sut242p9.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-01-11T09:34:20"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/kkrt85n2_sut242p9.jpg",
+                "ImageUpdateUTC": "2018-01-23T12:50:41"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/6pt78s4q_sut242p9.jpg",
+                "ImageUpdateUTC": "2018-01-23T12:50:41"
+            }
+        ]
+    },
+    {
+        "SKU": "BM0181-55L",
+        "ListedSKU": "WC156950",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "5060157620259",
+        "Title": "CITIZEN  HEREN STAAL ECO 100M",
+        "Description": "CITIZEN  HEREN STAAL ECO 100M",
+        "Brand": "CITIZEN",
+        "RRP": 159,
+        "Price": 80.83,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-08-24T22:33:04.907",
+        "SPEC_Target_Audience": "Men",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Solar Powered",
+        "SPEC_Features_2": "Luminous Hand",
+        "SPEC_Features_3": "Luminous Numerals",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Blue",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "16",
+        "SPEC_Band_Length_cm": "21",
+        "SPEC_Case_Diameter_mm": "36",
+        "SPEC_Case_Thickness_mm": "8",
+        "SPEC_Bezel_Function": "Bezel with indices",
+        "SPEC_Bezel_Material_Type": "Stainless steel",
+        "SPEC_Clasp_Type": "Fold over clasp",
+        "SPEC_Weight_g": "81.4",
+        "SPEC_Dial_Window_Material": "Crystal",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/bm0181-55l_lvb1fg.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/bm0181-55l_5wtp7c.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/bm0181-55l_7jiqxw.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/bm0181-55l_o4pemx.jpg",
+                "ImageUpdateUTC": null
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/bm0181-55l_y7k4r.jpg",
+                "ImageUpdateUTC": null
+            }
+        ]
+    },
+    {
+        "SKU": "SUT243P9",
+        "ListedSKU": "WC170702",
+        "ParentSKU": null,
+        "Category": "Watches",
+        "EAN": "4954628194138",
+        "Title": "Seiko Solar Powered Ladies Watch  SUT243P9",
+        "Description": "Seiko Solar Powered Ladies Watch  SUT243P9",
+        "Brand": "SEIKO",
+        "RRP": 319,
+        "Price": 193.5,
+        "PriceUpdateUTC": null,
+        "Stock": 7,
+        "StockUpdateUTC": "2018-08-24T22:39:21.61",
+        "SPEC_Target_Audience": "Women",
+        "SPEC_Display_Type": "Analogue",
+        "SPEC_Movement": "Quartz",
+        "SPEC_Features_1": "Solar Powered",
+        "SPEC_Calendar": "Date",
+        "SPEC_ATM": "10 bars",
+        "SPEC_Case_material": "Stainless steel",
+        "SPEC_Case_Style": "Round",
+        "SPEC_Case_color": "Silver",
+        "SPEC_Dial_Color": "Mother of pearl",
+        "SPEC_Band_Material": "Stainless steel",
+        "SPEC_Band_Color": "Silver",
+        "SPEC_Band_Width_mm": "12",
+        "SPEC_Band_Length_cm": "19",
+        "SPEC_Case_Diameter_mm": "27",
+        "SPEC_Case_Thickness_mm": "7",
+        "SPEC_Clasp_Type": "Fold over with push button clasp",
+        "SPEC_Weight_g": "55",
+        "SPEC_Dial_Window_Material": "Hardlex Crystal",
+        "SPEC_Battery": "MT621",
+        "SPEC_Product Description": "This stunning ladies Seiko watch is made from stainless steel and is fitted with an analogue solar movement. It is fastened with a silver metal bracelet and has a blue dial. The watch has a date function.",
+        "Images": [
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/aa4mprz2_sut243p9.jpg",
+                "IsDefault": true,
+                "ImageUpdateUTC": "2018-01-09T16:28:53"
+            },
+            {
+                "ImageSort": null,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/kj3yqgwt_sut243p9.jpg",
+                "ImageUpdateUTC": "2018-01-22T10:37:29"
+            },
+            {
+                "ImageSort": 1,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/53l5eia2_sut243p9.jpg",
+                "ImageUpdateUTC": "2018-01-19T11:48:44"
+            },
+            {
+                "ImageSort": 2,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/r8mbq61b_sut243p9.jpg",
+                "ImageUpdateUTC": "2018-01-19T11:48:44"
+            },
+            {
+                "ImageSort": 3,
+                "ImageURL": "https://uwt.blob.core.windows.net/dsales/partimage/rbojwvje_sut243p9.jpg",
+                "ImageUpdateUTC": "2018-01-19T11:48:44"
+            }
+        ]
+    }
+]
